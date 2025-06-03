@@ -1,0 +1,13 @@
+D:\SoulsTranslate\SoulsTranslate\bin\Debug\SoulsTranslate.exe.config
+D:\SoulsTranslate\SoulsTranslate\bin\Debug\SoulsTranslate.exe
+D:\SoulsTranslate\SoulsTranslate\bin\Debug\SoulsTranslate.pdb
+D:\SoulsTranslate\SoulsTranslate\obj\Debug\SoulsTranslate.csproj.AssemblyReference.cache
+D:\SoulsTranslate\SoulsTranslate\obj\Debug\SoulsTranslate.SoulsTranslate.resources
+D:\SoulsTranslate\SoulsTranslate\obj\Debug\SoulsTranslate.Properties.Resources.resources
+D:\SoulsTranslate\SoulsTranslate\obj\Debug\SoulsTranslate.csproj.GenerateResource.cache
+D:\SoulsTranslate\SoulsTranslate\obj\Debug\SoulsTranslate.csproj.CoreCompileInputs.cache
+D:\SoulsTranslate\SoulsTranslate\obj\Debug\SoulsTranslate.exe
+D:\SoulsTranslate\SoulsTranslate\obj\Debug\SoulsTranslate.pdb
+D:\SoulsTranslate\SoulsTranslate\bin\Debug\Newtonsoft.Json.dll
+D:\SoulsTranslate\SoulsTranslate\bin\Debug\Newtonsoft.Json.xml
+D:\SoulsTranslate\SoulsTranslate\obj\Debug\SoulsTra.371B31B3.Up2Date
