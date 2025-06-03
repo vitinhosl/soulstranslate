@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="1000">DADOS SALVOS</text>
+<text id="2001">KG_PS4_OK</text>
+<text id="2002">KG_PS4_Cancel</text>
+<text id="2003">KG_PS4_L_U</text>
+<text id="2004">KG_PS4_L_D</text>
+<text id="2005">KG_PS4_L_L</text>
+<text id="2006">KG_PS4_L_R</text>
+<text id="2007">KG_PS4_L_UD</text>
+<text id="2008">KG_PS4_L_LR</text>
+<text id="2009">KG_PS4_L_UDLR</text>
+<text id="2010">KG_PS4_R_U</text>
+<text id="2011">KG_PS4_R_L</text>
+<text id="2012">KG_PS4_L1</text>
+<text id="2013">KG_PS4_R1</text>
+<text id="2014">KG_PS4_L2</text>
+<text id="2015">KG_PS4_R2</text>
+<text id="2016">KG_PS4_L3</text>
+<text id="2017">KG_PS4_R3</text>
+<text id="2018">KG_PS4_LS</text>
+<text id="2019">KG_PS4_RS</text>
+<text id="2020">KG_PS4_TP_L</text>
+<text id="2021">KG_PS4_TP_R</text>
+<text id="2022">KG_PS4_Start</text>
+<text id="2100">Perfil</text>
+<text id="2201">CN_TEX_Copyright</text>
+<text id="2202">CN_TEX_R_mark</text>
+<text id="2203">CN_TEX_TradeMark</text>
+<text id="2204">CN_TEX_Dash</text>
+<text id="3000">Ajusta a intensidade de vibração do controle sem fio DUALSHOCK®4.</text>
+<text id="4101">Incapaz de se conectar à rede.
+Retornando ao menu inicial.</text>
+<text id="4102">A conexão ao servidor do jogo DARK SOULS III foi perdida.
+Retornando ao menu inicial.</text>
+<text id="4103">Você finalizou sua sessão da PlayStation™Network.
+Retornando ao menu inicial.</text>
+<text id="4104">Ocorreu um erro de rede.
+Retornando ao menu inicial.</text>
+<text id="4105">%null%</text>
+<text id="4106">Sua assinatura PlayStation®Plus expirou.
+Retornando ao menu inicial.</text>
+<text id="4190">Ocorreu um erro de rede.
+Retornando ao menu inicial.</text>
+<text id="4191">Falha ao salvar o jogo.
+Dados salvos corrompidos.
+
+Selecione "Sim" para tentar novamente.
+
+Selecione "Não" para retornar à
+tela inicial sem salvar.</text>
+<text id="4192">Falha ao salvar o jogo.
+Dados salvos corrompidos.
+
+Retornando à tela inicial.</text>
+<text id="4193">Falha ao salvar o jogo.
+Dados salvos corrompidos.</text>
+<text id="100000">R1</text>
+<text id="100001">L1</text>
+<text id="100002">%null%</text>
+<text id="100003">%null%</text>
+<text id="100004">%null%</text>
+<text id="100005">%null%</text>
+<text id="100006">%null%</text>
+<text id="100007">%null%</text>
+<text id="100008">%null%</text>
+<text id="100009">%null%</text>
+<text id="100010">ID Online</text>
+<text id="100011">Nome do personagem</text>
+<text id="100012">%null%</text>
+<text id="100013">%null%</text>
+<text id="100014">%null%</text>
+<text id="100015">%null%</text>
+<text id="100016">%null%</text>
+<text id="100017">%null%</text>
+<text id="100018">%null%</text>
+<text id="100019">%null%</text>
+<text id="100020">Alguns recursos foram restritos conforme configurações de controle parental.</text>
+<text id="100021">%null%</text>
+<text id="100022">%null%</text>
+<text id="100023">%null%</text>
+<text id="100024">%null%</text>
+<text id="100025">%null%</text>
+<text id="100026">%null%</text>
+<text id="100027">%null%</text>
+<text id="100028">%null%</text>
+<text id="100029">%null%</text>
+<text id="100030">%null%</text>
+<text id="100100">Progresso da instalação</text>
+<text id="101000">APERTE QUALQUER BOTÃO</text>
+<text id="102000">Comprar Expansões</text>
+<text id="200100">Texto com caracteres não suportados.
+Caracteres não suportados serão substituídos por asterisco (*).</text>
+<text id="400003">Ao término da sessão anterior, Sair do Jogo
+pode não ter sido selecionado no menu do sistema.
+Use Sair do Jogo no menu do sistema
+quando quiser finalizar sua sessão de jogo.
+
+Não finalizar uma sessão com Sair do Jogo
+pode resultar em perda de progresso.</text>
+<text id="401102">Falha ao criar dados salvos.
+Aperte "OK" para tentar novamente.</text>
+<text id="401103">Falha ao criar dados salvos.
+Aperte "OK" para tentar novamente.</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">Falha ao salvar o jogo.
+Dados salvos corrompidos.
+
+Selecione "OK" para tentar novamente.</text>
+<text id="401107">Os dados salvos estão corrompidos.
+Excluir dados corrompidos e criar novos dados salvos?</text>
+<text id="401108">%null%</text>
+<text id="401109">%null%</text>
+<text id="401110">Verificando dados salvos...</text>
+<text id="401111">Criando dados salvos...</text>
+<text id="401112">Atualizando dados salvos...</text>
+<text id="401113">A versão do jogo e a versão dos dados salvos diferem.
+Saia do jogo e inicie uma sessão na PlayStation™Network para atualizar
+DARK SOULS III para a versão mais recente.</text>
+<text id="401114">Não é possível carregar este perfil, pois ele
+é de uma versão posterior ao jogo instalado.
+Saia do jogo e inicie sessão na PlayStation™Network
+para atualizar DARK SOULS Ⅲ à versão mais recente.</text>
+<text id="401115">Instalação do jogo incompleta.
+Não é possível carregar o perfil.</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">Checando status da conexão de rede.</text>
+<text id="401150">Conectando-se ao servidor do jogo DARK SOULS III...</text>
+<text id="401151">%null%</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">Resgatando dados do servidor do jogo DARK SOULS III...</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">Salvando dados no servidor do jogo DARK SOULS III...</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">Iniciando o jogo no modo offline.
+
+Para usar os recursos online, verifique se sua
+conexão está configurada corretamente e
+selecione "entrar" no menu inicial.</text>
+<text id="401171">Retornando ao menu inicial.</text>
+<text id="401201">Não foi possível conectar-se à internet.
+Verifique as suas configurações de rede.</text>
+<text id="401202">Falha na verificação de status da rede.</text>
+<text id="401203">Você não iniciou sessão com a PlayStation™Network.
+Inicie sessão para iniciar no modo online.</text>
+<text id="401204">Falha na verificação de status de conexão.</text>
+<text id="401205">Incapaz de iniciar no modo online
+devido à restrição de idade.</text>
+<text id="401206">Uma nova versão do software de sistema está disponível. Para
+utilizar os recursos online, atualize o software de sistema.</text>
+<text id="401207">Uma atualização do jogo está disponível. 
+Para utilizar os recursos online, saia do jogo 
+e inicie sessão na PlayStation™Network para 
+atualizar DARK SOULS Ⅲ à versão mais recente.</text>
+<text id="401208">Falha na verificação de recursos da rede.</text>
+<text id="401209">Falha ao resgatar informações sobre controle parental.</text>
+<text id="401210">%null%</text>
+<text id="401211">%null%</text>
+<text id="401212">%null%</text>
+<text id="401213">Você está offline no momento.</text>
+<text id="401214">Falha na verificação de status online.</text>
+<text id="401501">Ocorreu um erro de rede.
+Selecione "OK" para tentar novamente.</text>
+<text id="401502">A sua conta da Sony Entertainment Network está impedida de acessar
+os serviços do servidor do jogo DARK SOULS Ⅲ no momento.</text>
+<text id="401503">Falha ao conectar ao servidor do jogo DARK SOULS III.
+
+Selecione "OK" para tentar acessar novamente.</text>
+<text id="401504">Uma atualização do jogo está disponível. 
+Para utilizar os recursos online, saia do 
+jogo e inicie sessão na PlayStation™Network 
+para atualizar DARK SOULS Ⅲ à versão mais recente.</text>
+<text id="401505">Não foi possível conectar ao servidor do jogo DARK SOULS III.
+Ele pode ter sido interrompido ou estar em manutenção.</text>
+<text id="401601">Falha ao resgatar informações.
+Selecione "OK" para tentar novamente.</text>
+<text id="401602">%null%</text>
+<text id="401603">Não foi possível verificar assinatura PlayStation®Plus na sua conta.</text>
+<text id="401604">%null%</text>
+<text id="401605">Falha ao verificar sua assinatura PlayStation®Plus.
+
+Aperte "OK" para tentar verificar novamente.
+
+Aperte "Cancelar" para continuar sem PlayStation®Plus.
+
+Note que o jogo será iniciado em modo offline
+sem uma assinatura PlayStation®Plus.</text>
+<text id="401606">Falha ao verificar sua assinatura PlayStation®Plus.
+
+Aperte "OK" para tentar verificar novamente.
+
+Aperte "Cancelar" para continuar sem PlayStation®Plus.
+
+Note que o jogo será iniciado em modo offline
+sem uma assinatura PlayStation®Plus.</text>
+<text id="401607">Ainda não foi possível verificar a assinatura PlayStation®Plus 
+em sua conta. Iniciando o jogo no modo offline.</text>
+<text id="401701">Não é possível criar mais perfis.
+Excluir um perfil existente e criar um novo?
+
+Aviso: você pode criar até 10 perfis.</text>
+<text id="401721">Falha ao carregar dados salvos.
+Dados salvos corrompidos.</text>
+<text id="401722">%null%</text>
+<text id="401723">%null%</text>
+<text id="401724">%null%</text>
+<text id="401725">%null%</text>
+<text id="401726">%null%</text>
+<text id="401727">%null%</text>
+<text id="401728">%null%</text>
+<text id="401729">%null%</text>
+<text id="401730">%null%</text>
+<text id="401731">Falha ao inicializar as informações de personagem para modo online.
+
+Selecione "OK" para tentar novamente.</text>
+<text id="401751">Obtendo calibragens recentes...</text>
+<text id="401752">Falha ao recuperar últimas calibragens.
+Selecione "OK" para tentar novamente.
+
+Selecione "Cancelar" para iniciar o jogo no modo offline.</text>
+<text id="401753">Obtendo calibragens recentes...
+Aperte "Cancelar" para continuar sem recentes.</text>
+<text id="401801">Atualizando informações de troféus...</text>
+<text id="401991">Ocorreu um erro.
+Retornando ao menu inicial.</text>
+<text id="600000">DARK SOULS Ⅲ 日本リージョン向け利用規約ダミーテキスト：PS4：日本リージョン：ブラジルポルトガル語
+
+第１条
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+</text>
+<text id="600001">第２条
+
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと</text>
+<text id="600002">%null%</text>
+<text id="600003">%null%</text>
+<text id="600004">%null%</text>
+<text id="600005">%null%</text>
+<text id="600006">%null%</text>
+<text id="600007">%null%</text>
+<text id="600008">%null%</text>
+<text id="600009">%null%</text>
+<text id="600010">%null%</text>
+<text id="600011">%null%</text>
+<text id="600012">%null%</text>
+<text id="600013">%null%</text>
+<text id="600014">%null%</text>
+<text id="600015">%null%</text>
+<text id="600016">%null%</text>
+<text id="601000">Termos e condições</text>
+<text id="601001">
+
+BANDAI NAMCO ENTERTAINMENT AMERICA INC.
+DARK SOULS™ III
+CONTRATO DE LICENÇA DO USUÁRIO FINAL
+
+IMPORTANTE - LEIA COM ATENÇÃO:
+
+Última Atualização: 17 de dezembro de 2015
+
+O presente Contrato de Licença do Usuário Final ("EULA") poderá ser atualizado de tempos em tempos. Seu uso continuado do Jogo (conforme definido abaixo) após uma versão revisada ter sido comunicada a você constitui aceitação de sua parte dos seus termos.
+
+O JOGO É LICENCIADO PARA VOCÊ CONFORME OS TERMOS E CONDIÇÕES DESTE
+DOCUMENTO, CONSTITUINDO UM CONTRATO LEGAL ENTRE VOCÊ E A BANDAI NAMCO ENTERTAINMENT AMERICA INC. ("BNEA"). AO ACESSAR, JOGAR, INSTALAR OU USAR O JOGO DE QUALQUER MODO, VOCÊ CONCORDA QUE OS TERMOS E CONDIÇÕES DESTE CONTRATO (EULA) COM A BNEA SÃO VÁLIDOS.
+
+A COMPRA E O USO DOS ITENS ESTÃO SUJEITOS AOS TERMOS DE SERVIÇOS E AO CONTRATO DE USUÁRIO DA REDE. ESTE SERVIÇO ONLINE FOI SUBLICENCIADO A VOCÊ PELA SONY COMPUTER ENTERTAINMENT AMERICA. A FORMA COMO VOCÊ USA O JOGO TAMBÉM ESTÁ SUJEITA AOS TERMOS E CONDIÇÕES DETERMINADOS NOS TERMOS DE SERVIÇO DA REDE DA SONY COMPUTER ENTERTAINMENT AMERICA, NO CONTRATO DE LICENÇA DE SOFTWARE DO SISTEMA PLAYSTATION®4 DA SONY COMPUTER ENTERTAINMENT INC. E EM OUTROS TERMOS E CONTRATOS APLICÁVEIS AO HARDWARE, CONFORME ESTABELECIDO ABAIXO.
+
+O PRESENTE EULA CONTÉM, DENTRE OUTRAS COISAS, UMA DISPOSIÇÃO DE ARBITRAGEM COM UMA RENÚNCIA A AÇÕES COLETIVAS. CASO VOCÊ NÃO MORE NOS ESTADOS UNIDOS DA AMÉRICA, TALVEZ UMA OU MAIS DAS DISPOSIÇÕES DE ARBITRAGEM NÃO SEJA APLICÁVEL A VOCÊ.
+
+O jogo DARK SOULS™ III, incluindo, mas não limitado a, qualquer seção de multijogador,
+online ou disponível para download do mesmo e toda e qualquer documentação ou conteúdo escrito ou eletrônico (o "Jogo"), está protegido por leis de direito autoral locais e internacionais, além de por tratados internacionais de direitos autorais, convenções e outras leis. O Jogo é licenciado, mas não vendido, e este EULA não concede título ou propriedade do Jogo ou qualquer cópia do mesmo. Além dos termos e condições deste documento, quando acessando ou usando partes específicas do Jogo, incluindo, mas não limitado a, qualquer conteúdo multijogador, online ou disponível para download, você pode estar sujeito a condições adicionais de outros provedores de serviços.</text>
+<text id="601002">
+
+1. PRÉ-CONDIÇÕES DAS LICENÇAS. As licenças concedidas no presente EULA estão condicionadas ao cumprimento integral de todos os outros termos e condições estabelecidos neste EULA:
+• Ser maior de idade na sua jurisdição. Caso ainda seja menor de idade na sua jurisdição, seu representante legal (ou seja, um dos seus pais ou alguém que tenha esse nível de autoridade sobre você) terá que agir em seu nome para concordar cumprir e assumir responsabilidade total pelo cumprimento do presente EULA antes que você use o Jogo; 
+• Aceitar e cumprir todos os termos do presente EULA, além de quaisquer outros termos que possam ser aplicáveis ao Jogo, o que é comprovado pelo fato de que você acessa e usa o Jogo;
+• Aceitar todos os termos estipulados nos Termos de Serviço da Rede da Sony Computer Entertainment America, no Contrato de Licença de Software do Sistema PlayStation®4 da Sony Computer Entertainment Inc. e/ou em quaisquer outros termos e acordos aplicáveis ao Hardware, o que é comprovado pelo fato de que você usa o Jogo;
+• Acessar e usar o Jogo apenas em máquinas locais executando cópias com as devidas licenças dos sistemas operacionais para os quais o Jogo foi projetado atendendo às exigências mínimas determinadas pela BNEA (em conjunto, o "Hardware"); 
+• Não utilizar nenhum hacks, cracks, bots, software ou jogo de terceiros que possam modificar ou copiar o código ou a experiência do usuário com o Jogo de forma temporária ou permanente, seja na sua máquina local ou nos servidores que possibilitam o uso de qualquer ferramenta do Jogo.</text>
+<text id="601003">
+
+2. LICENÇA DE USO LIMITADO. Em cumprimento aos termos do presente EULA, a BNEA concede a você a licença e o direito não exclusivo, intransferível, revogável e limitado de acessar e usar uma cópia do Jogo apenas para seu uso pessoal com o Hardware. É proibido usar o Jogo para fins comerciais. Para acessar e usar o Jogo, você precisará ter recebido o Jogo da BNEA de forma legal, assim como todos os Hardwares e/ou produtos e serviços de terceiros necessários para executar o Jogo e/ou acessar qualquer modo online, multijogador ou para download que faça parte do Jogo e que não forem fornecidos pela BNEA. Você é responsável por pagar todas as tarifas, impostos e custos de outra natureza que possam ser necessários para acessar e usar o Jogo, incluindo, sem limitação, despesas relacionadas a Hardwares, serviços da internet e serviços obrigatórios para acessar qualquer parte dos modos multijogador, online ou para download do Jogo. Nem o presente EULA nem a utilização do Jogo dá direito a qualquer versão futura do Jogo, nem a nenhuma expansão, continuação ou produto auxiliar ou semelhante. Você não detém a propriedade, seja ela monetária ou de outra natureza, de nenhuma ferramenta ou conteúdo contido ou relacionado ao Jogo.</text>
+<text id="601004">
+
+3. ITENS VIRTUAIS.
+3.1. A BNEA poderá oferecer a você a possibilidade de ganhar uma licença limitada a mercadorias e serviços virtuais disponibilizados pela BNEA no Jogo (em conjunto, os "Itens Virtuais"). Caso a BNEA ofereça a você a possibilidade de conseguir essas licenças, ela concederá a você por meio deste instrumento o direito e a licença não exclusivo, intransferível, revogável e limitado a esses Itens Virtuais, conforme o caso, para o uso pessoal para fins não comerciais apenas no Jogo de acordo com os termos do presente EULA e do seu cumprimento dele.
+3.2. Você poderá usar os Itens Virtuais apenas no Jogo. Eles não poderão ser trocados por dinheiro ou valores monetários da BNEA ou de qualquer pessoa ou entidade, salvo conforme exigido em contrário pelo direito aplicável. Os Itens Virtuais não têm um valor equivalente em moedas reais e não funcionam como um substituto das moedas reais. A BNEA e outras pessoas ou entidades não têm nenhuma obrigação de trocar os Itens Virtuais por nenhum valor, incluindo, sem limitação, moedas reais. Você reconhece e concorda que a BNEA poderá realizar ações que tenham um impacto no valor relativo dos Itens Virtuais a qualquer momento, exceto se isso for proibido pelo direito aplicável. 
+3.3. Salvo conforme proibido pelo direito aplicável, a BNEA, a seu critério exclusivo, tem o direito absoluto de gerenciar, modificar, suspender e/ou eliminar Itens Virtuais sem nenhum aviso prévio e sem nenhuma responsabilidade para com você.
+3.4. Você não poderá transferir, vender, presentear, trocar, permutar, arrendar, sublicenciar ou alugar os Itens Virtuais fora do Jogo sem cumprir o que foi autorizado de forma expressa pela BNEA. Exceto conforme proibido em contrário pelo direito aplicável, a BNEA se reserva e detém todos os direitos, titularidades e propriedade dos Itens Virtuais.
+3.5. As licenças concedidas aos Itens Virtuais nos termos deste instrumento serão encerradas mediante a rescisão do presente EULA e conforme determinado em contrário no presente EULA; estabelecido, contudo, que a BNEA poderá disponibilizar seus Itens Virtuais a você na sua conta apenas para uso na versão comercial do Jogo a critério exclusivo da BNEA.</text>
+<text id="601005">
+
+4. PROPRIEDADE. Todos os direitos de propriedade intelectual existentes dentro e com relação ao Jogo (incluindo, sem limitação, a vídeos, áudios e outros conteúdos incorporados a esse material ou baixados no futuro) e as titularidades a todas e quaisquer cópias do Jogo são de propriedade da BNEA ou de suas licenciadoras, e você não tem nenhum direito ou parte disso além das licenças limitadas concedidas de forma expressa por meio deste instrumento.
+4.1. Você não poderá realizar nenhuma das ações a seguir:
+• Copiar o Jogo, exceto para uma única cópia de segurança;
+• Vender, alugar, arrendar, licenciar, distribuir, transferir de outra forma ou disponibilizar o Jogo a qualquer outra pessoa, de forma total ou parcial, ou usar o Jogo ou qualquer parte dele em qualquer contexto comercial, incluindo, sem limitação, para uso em um site comercial ou escritório de serviços, lan house, centro de jogos de computador ou qualquer outra instalação comercial na qual os usuários que não compraram o Jogo nem receberam a autorização da BNEA poderão acessar, visualizar ou usar o Jogo ou os elementos do Jogo.
+• Aplicar engenharia reversa, extrair o código fonte, modificar, descompilar, desmontar ou criar obras derivadas do jogo ou de qualquer trecho online do jogo, no todo ou em parte;
+• Remover, desativar ou burlar qualquer aviso ou marcação de propriedade contida ou associada ao jogo ou a qualquer trecho online do jogo; ou
+• Exportar ou reexportar o Jogo ou qualquer cópia ou adaptação ocasionando uma violação direta ou indireta de qualquer lei, restrição de exportação ou regulamento aplicável nos Estados Unidos.</text>
+<text id="601006">
+
+5. MEDIDAS DE SEGURANÇA/PROTEÇÕES. Talvez seja necessário realizar certas medidas de segurança para utilizar o Jogo por completo, incluindo, sem limitação, a exigência de registrar o Jogo com um código de série, a exigência de ter acesso ininterrupto à internet; e/ou a aceitação das ferramentas de gestão da proteção e dos direitos digitais. Caso você não aceite as medidas de segurança, isso poderá afetar de forma parcial ou total a forma como você usa o Jogo.</text>
+<text id="601007">
+
+6. CONTEÚDO GERADO PELO USUÁRIO. Em contrapartida pelo acesso e uso do Jogo e conforme você for criando conteúdos ao acessar e usar o Jogo (o "Conteúdo Gerado pelo Usuário"), você concede à BNEA o direito e a licença globais, exclusivos, perpétuos, irrevogáveis, isentos de royalties, completamente transferíveis e sublicenciáveis por meio deste instrumento para que a empresa use Conteúdo Gerado pelo Usuário de qualquer forma e para qualquer finalidade que envolva o Jogo e os produtos e serviços relacionados, incluindo o direito de reproduzir, copiar, adaptar, modificar, realizar, criar obras derivadas, exibir, publicar, emitir, transmitir, usar de outras maneiras, distribuir, explorar e divulgar ao público por todo e qualquer meio e mídia que seja conhecido no momento ou venha a ser criado no futuro sem nenhum aviso prévio ou compensação de qualquer tipo a você durante todo o tempo da proteção concedida aos direitos de propriedade intelectual de acordo com o direito aplicável e as convenções internacionais. Na medida permitida pelo direito aplicável, você renuncia a qualquer direito moral de paternidade, publicação, reputação ou atribuição no que diz respeito ao uso que a BNEA e outros jogadores fizerem desses ativos no contexto do Jogo e dos produtos e serviços relacionados de acordo com o direito aplicável. A concessão da licença à BNEA e a renúncia explicada acima a quaisquer direitos morais aplicáveis subsistirão qualquer rescisão do presente EULA.</text>
+<text id="601008">
+
+7. CONDUTA ONLINE.
+7.1. A BNEA não faz uma avaliação prévia dos conteúdos que podem ser publicados ou colocados nos bate-papos online do Jogo e não assume nenhuma responsabilidade pelo Conteúdo Gerado pelo Usuário. A BNEA não assume nenhuma responsabilidade por deixar de remover ou por qualquer atraso na remoção do Conteúdo Gerado pelo Usuário. Sem limitação a qualquer outro direito e recurso nos termos do presente EULA ou do direito aplicável, caso a BNEA se oponha a qualquer Conteúdo Gerado pelo Usuário, a empresa poderá, a seu critério exclusivo (tanto por si própria quanto a pedido de terceiros prestadores de serviços, se for o caso): (a) remover o Conteúdo Gerado pelo Usuário; (b) avisar as pessoas aplicáveis; e/ou (c) restringir, suspender ou rescindir o acesso ao uso do Jogo sem nenhum aviso prévio e sem nenhuma responsabilidade para com você. 
+7.2. Você concorda que será diretamente responsável pelo acesso e uso do Jogo e por todas as suas mensagens e atividades relacionadas ao Jogo, incluindo qualquer Conteúdo Gerado pelo Usuário. 
+7.3. No contexto das mensagens e atividades relacionadas ao Jogo, você concorda que não irá:
+• Assediar, ameaçar, envergonhar ou fazer qualquer outra coisa desagradável a outros usuários do Jogo, conforme determinado pela BNEA ao critério exclusivo dela.
+• Transmitir ou facilitar a distribuição de conteúdos que sejam nocivos, abusivos, preconceituosos contra raças ou etnias, vulgares, de teor sexual, explícitos, difamatórios, infratores, que invadam a privacidade ou os direitos publicitários, ou condenáveis de acordo com o critério exclusivo da BNEA. Discursos agressivos não serão tolerados.
+• Violar qualquer termo ou política informado pela BNEA a qualquer momento.
+• Promover ou incentivar qualquer atividade ilícita, incluindo invasões do sistema (hacking).
+• Divulgar os dados pessoais da sua própria atividade ou dos outros usuários a terceiros.
+• Passar-se por outra pessoa ou entidade, incluindo qualquer diretor da BNEA, moderadores de fóruns, guias, anfitriões, funcionários ou agentes, ou dar uma declaração falsa ou deturpar de outra forma sua associação com qualquer pessoa ou entidade.
+• Prejudicar ou interromper o Jogo ou o fluxo normal da jogabilidade ou dos diálogos, ou usar palavras de baixo calão, ser agressivo, dar gritos em excesso (USANDO O CAPS LOCK, por exemplo), enviar spam ou usar qualquer método perturbador ou prejudicial com o intuito de incomodar outros usuários do Jogo.
+• Trapacear ou utilizar códigos ilícitos relacionados ao jogo.
+• Usar ou tirar vantagem de qualquer bug, erro ou falha de design para acessar ou usar o Jogo sem autorização ou para ganhar uma vantagem injusta com relação aos outros jogadores do Jogo.
+• Violar qualquer direito aplicável, incluindo, sem limitação, ao publicar, transmitir, promover ou distribuir conteúdos que violem qualquer lei ou regulamento aplicável. 
+• Violar qualquer regra sobre o uso de tecnologias e conteúdos de terceiros, regras de prestadores de serviço interativos, assim como qualquer lei internacional, federal, estadual ou local conforme o caso. Não adianta alegar o desconhecimento da lei.
+• Fazer qualquer coisa que interfira na forma como os outros usuários se divertem com o Jogo de acordo com suas regras, ou de uma maneira que aumente de forma significativa as despesas ou dificuldades incorridas pela BNEA ou pelo terceiro prestador de serviços (se for o caso) na manutenção do Jogo para que todos os usuários se divirtam.
+• Desconectar-se da rede de propósito durante um jogo online ou aceitar ser derrotado por um jogador específico várias vezes para ajudá-lo a aumentar sua classificação ou suas vitórias no Jogo.</text>
+<text id="601009">
+
+8. LIMITAÇÃO DE RESPONSABILIDADE.
+8.1. NA MEDIDA MÁXIMA PERMITIDA PELO DIREITO APLICÁVEL, EM HIPÓTESE ALGUMA A BNEA, INCLUINDO SUAS FORNECEDORAS, LICENCIADORAS OU RESPECTIVOS CONSELHEIROS, DIRETORES, FUNCIONÁRIOS, CONTRATADAS OU AGENTES, SERÃO RESPONSÁVEIS POR QUAISQUER DANOS ESPECIAIS, INCIDENTAIS, INDIRETOS, EXEMPLARES, PUNITIVOS OU CONSEQUENCIAIS DE QUALQUER NATUREZA DECORRENTES DA POSSE, ACESSO, USO OU INCAPACIDADE DE USAR O JOGO, ASSIM COMO PELA INCAPACIDADE DE PRESTAR SERVIÇOS DE SUPORTE, MESMO SE UMA PARTE HOUVER SIDO AVISADA SOBRE A POSSIBILIDADE DA EXISTÊNCIA DESSES DANOS. ESSA LIMITAÇÃO SERÁ APLICÁVEL INDEPENDENTEMENTE DA TEORIA DE RESPONSABILIDADE UTILIZADA, SEJA POR FRAUDE, DECLARAÇÃO FALSA, VIOLAÇÃO CONTRATUAL, NEGLIGÊNCIA, LESÕES PESSOAIS, RESPONSABILIDADE PELOS PRODUTOS, VIOLAÇÃO DE DIREITOS DE PROPRIEDADE INTELECTUAL OU QUALQUER OUTRO MOTIVO. DE QUALQUER FORMA E CONFORME EXIGIDO EM CONTRÁRIO PELO DIREITO APLICÁVEL, A RESPONSABILIDADE COMPLETA DA BNEA E DE SUAS LICENCIADORAS E FORNECEDORAS POR TODO E QUALQUER DANO NOS TERMOS DO PRESENTE EULA SERÁ LIMITADA À QUANTIA QUE VOCÊ PAGOU PELO JOGO.
+8.2. A BNEA E SUAS FORNECEDORAS E LICENCIADORAS NÃO FAZEM NENHUMA PROMESSA OU GARANTIA DE QUE O JOGO FUNCIONARÁ DIREITO. VOCÊ RECONHECE E CONCORDA QUE A BNEA E SUAS LICENCIADORAS E FORNECEDORAS NÃO SÃO RESPONSÁVEIS POR: (A) NENHUM VÍRUS OU OUTRO ELEMENTO PREJUDICIAL QUE AFETE SEU ACESSO OU USO DO JOGO; (B) NENHUMA INCOMPATIBILIDADE ENTRE O JOGO, OUTROS SERVIÇOS E O HARDWARE; OU (C) NENHUM ATRASO OU DEFEITO QUE VOCÊ POSSA VIVENCIAR AO INICIAR, REALIZAR OU CONCLUIR QUALQUER TRANSMISSÃO OU OPERAÇÃO NO CONTEXTO DO JOGO DE UMA FORMA PRECISA E EM TEMPO HÁBIL. O JOGO E TODOS OS OUTROS SERVIÇOS ESTÃO DISPONÍVEIS EM SEU ESTADO ATUAL. EXCETO CONFORME DESCRITO NESTE INSTRUMENTO, A BNEA E SUAS LICENCIADORAS E FORNECEDORAS REPUDIAM DE FORMA EXPRESSA QUALQUER GARANTIA OU CONDIÇÃO DE QUALQUER NATUREZA, DE MANEIRA EXPLÍCITA, IMPLÍCITA OU REGULAMENTAR, INCLUINDO, SEM LIMITAÇÃO, AS GARANTIAS IMPLÍCITAS DE TITULARIDADE, AUSÊNCIA DE VIOLAÇÃO, COMERCIABILIDADE E ADEQUAÇÃO PARA UMA FINALIDADE ESPECÍFICA. A BNEA não garante uma operação contínua, sem erros, segura ou sem vírus de nenhum modo online, multijogador ou para download do Jogo ou a operação ou disponibilidade contínua de qualquer servidor específico. Alguns países e regiões proíbem as limitações de quanto tempo dura uma garantia implícita e/ou as exclusões ou limitações de danos consequenciais, então talvez as limitações e/ou exclusões de responsabilidade descritas acima não sejam aplicáveis a você. Essa garantia dá a você direitos legais específicos, e talvez você também tenha outros direitos legais que variam de acordo com seu país e região.
+8.3. A BNEA não é responsável por nenhum atraso ou incapacidade de ação em decorrência de qualquer causa que esteja além do nosso controle razoável. Além disso, a BNEA não pode e não promete nem garante que você conseguirá acessar os modos online, multijogador ou para download do Jogo sempre que quiser, e talvez você fique longos períodos sem conseguir acessar essas partes do Jogo.</text>
+<text id="601010">
+
+9. RESCISÃO/SUSPENSÃO.
+9.1. O presente EULA entrará em vigor quando você concordar em ficar vinculado pelos termos dele e continuará em vigor até ser rescindido por você ou pela BNEA. Você poderá rescindir o presente EULA a qualquer momento apagando ou destruindo toda e qualquer cópia do Jogo que esteja em sua posse, custódia ou controle.
+9.2. Exceto conforme proibido em contrário pelo direito aplicável, a BNEA poderá limitar, suspender ou rescindir as licenças concedidas por meio deste instrumento, assim como seu acesso e uso do Jogo, incluindo, sem limitação, aos Itens Virtuais e quaisquer serviços e produtos relacionados, a qualquer momento e por qualquer motivo, sem nenhum aviso prévio ou responsabilidade para com você.
+9.3. Sem limitação a quaisquer outros direitos da BNEA, caso você não consiga cumprir os termos e condições do presente EULA, a BNEA se reserva o direito, a seu critério exclusivo, de realizar a limitação, suspensão ou rescisão imediata do seu acesso e/ou uso do Jogo.
+9.4. Após a rescisão deste EULA, os seus direitos e acessar e usar o Jogo, incluindo quaisquer licenças e acessos a Itens Virtuais, dados de usuários, pontos, progressos de personagens e quaisquer outras informações de qualquer natureza com relação ao Jogo, serão rescindidos de imediato, e você terá que parar de usar o Jogo. Caso o Jogo seja rescindido, você terá que destruir todas as cópias do Jogo e todos os seus componentes.
+9.5. A rescisão deste EULA não afetará os direitos da BNEA ou suas obrigações decorrentes do presente Contrato. As disposições que precisarem continuar vigentes após a rescisão do presente EULA deverão continuar vigentes após a rescisão.</text>
+<text id="601011">
+
+10. PRIVACIDADE. A BNEA respeita seus direitos de privacidade. Qualquer dado pessoal que você fornecer à BNEA pela plataforma online ou por meio de qualquer site controlado pela BNEA estará sujeito à política de privacidade publicada no endereço http://www.bandainamcoent.com/company/privacy.html. Não obstante as disposições especificadas na política de privacidade aplicável, se você usar qualquer serviço online, como jogos online ou downloads e uploads de conteúdo, a BNEA também poderá coletar, usar, armazenar, transmitir e exibir ao público dados estatísticos relacionados ao jogo (incluindo IDs, registros, dados de jogos como níveis e itens, especificações de máquinas locais e regiões de residência), ou identificar conteúdos que tenham sido criados e compartilhados por você com outros jogadores.</text>
+<text id="601012">
+
+11. DIREITOS RESTRITOS AO GOVERNO DOS ESTADOS UNIDOS. O Jogo inteiro foi desenvolvido apenas com investimentos privados e é vendido como "jogos de computador para fins comerciais" ou "jogos restritos de computadores". Seu uso, cópia ou divulgação pelo governo dos Estados Unidos ou por uma de suas subcontratadas está sujeito às restrições determinadas no subparágrafo (c)(1)(ii) das cláusulas sobre os "Direitos sobre dados técnicos e jogos de computador" do DFARS 252.227-7013 ou conforme estabelecido nos subparágrafos (c)(1) e (2) das cláusulas sobre os "Direitos restritos sobre jogos de computador para fins comerciais" do FAR 52.227-19, se for o caso. A Contratada/Fabricante é a BANDAI NAMCO Entertainment Inc.</text>
+<text id="601013">
+
+12. RECURSOS. Uma vez que a BNEA sofreria danos irreparáveis se os termos do presente EULA não fossem cumpridos corretamente, você concorda que a BNEA e/ou suas licenciadoras e fornecedoras terão direito, sem a existência de títulos, outros valores ou comprovações de danos, aos recursos adequados no caso de violações deste instrumento, além de outros recursos que possam estar disponíveis à BNEA de outra forma nos termos do direito aplicável.</text>
+<text id="601014">
+
+13. INDENIZAÇÃO. Você concorda em indenizar, defender e isentar a BNEA, suas licenciadoras, suas fornecedoras e cada um dos seus respectivos diretores, conselheiros, funcionários e representantes de responsabilidade por qualquer dano, perda e despesa, incluindo honorários advocatícios, que sejam decorrentes de forma direta ou indireta de qualquer violação do presente EULA que tenha sido causada por você ou pelos seus atos ou omissões ao usar o Jogo. A BNEA se reserva o direito de assumir a defesa e o controle exclusivos de qualquer assunto sujeito à indenização pela sua parte.</text>
+<text id="601015">
+
+14. RESOLUÇÃO DE DISPUTAS/ARBITRAGEM VINCULATIVA/RENÚNCIA ÀS AÇÕES COLETIVAS.
+14.1. VOCÊ E A BNEA CONCORDAM EM RESOLVER TODAS AS DISPUTAS E REIVINDICAÇÕES EXISTENTES ENTRE VOCÊ E A BNEA EM UMA ARBITRAGEM VINCULATIVA INDIVIDUAL. ISSO INCLUI, SEM LIMITAÇÃO, QUALQUER REIVINDICAÇÃO OCASIONADA OU RELACIONADA A: (A) QUALQUER ASPECTO DO RELACIONADO EXISTENTE ENTRE VOCÊ E A BNEA; (B) O PRESENTE EULA; OU (C) SEU ACESSO E USO DO JOGO. ISSO SERÁ APLICÁVEL MESMO SE A BASE DESSAS REIVINDICAÇÕES FOR CONTRATOS, DELITOS, LEIS, FRAUDES, CONCORRÊNCIA DESLEAL, DETURPAÇÕES OU QUALQUER OUTRA TEORIA JURÍDICA.
+14.2. No entanto, esta Seção não é aplicável aos seguintes tipos de reivindicações ou disputas, que você ou a BNEA poderão iniciar em qualquer tribunal com jurisdição aplicável: (i) reivindicações de violações ou usos incorretos dos direitos de propriedade intelectual, incluindo reivindicações que envolvam medidas cautelares; e (ii) reivindicações relacionadas ou decorrentes de qualquer alegação de uso não autorizado, pirataria ou roubo.
+14.3. Esta Seção não evita que você leve uma disputa aos cuidados de nenhuma agência federal, estadual ou local que possa, nos termos da lei, buscar uma reparação da BNEA para com você.
+14.4. Uma arbitragem é um processo realizado perante um árbitro neutro, não perante um juiz ou um júri. A arbitragem é um processo menos formal que uma ação judicial executada em um tribunal, além de ter uma descoberta mais limitada de provas. Ela segue regras diferentes das ações judiciais em tribunal e está sujeita a uma análise bem limitada pelo tribunal. O árbitro emitirá uma decisão por escrito e criará uma justificativa mediante a solicitação de qualquer uma das partes. VOCÊ COMPREENDE QUE VOCÊ E A BNEA ABREM MÃO DO DIREITO DE INICIAR UMA AÇÃO JUDICIAL EM TRIBUNAL E DE COMEÇAR UM PROCESSO PERANTE UM JUIZ OU UM JÚRI.
+14.5. Você e a BNEA concordam em envidar esforços razoáveis de boa-fé para resolver qualquer disputa de maneira informal antes de iniciar uma arbitragem. Caso uma das partes quiser recorrer à arbitragem, primeiro será necessário enviar um aviso por escrito à outra parte descrevendo a natureza e a base da reivindicação ou disputa, assim como especificando qual é o recurso desejado. Se você e a BNEA não chegarem a um consenso para resolver a reivindicação ou disputa até 30 dias após o recebimento do aviso, você ou a BNEA poderão iniciar uma arbitragem. O aviso por escrito deverá ser enviado à BNEA por correio para o seguinte endereço: ATTN: Legal &amp; Business Affairs Department, BANDAI NAMCO Entertainment America Inc., 2051 Mission College Boulevard, Santa Clara, California 95054, USA.
+14.6. A Lei Federal de Arbitragem será aplicável a esta Seção. A arbitragem será regida pelas Regras de Arbitragem Comercial da Associação Americana de Arbitragem ("AAA") e, sempre que possível, pelos Procedimentos Complementares para Disputas Relacionadas ao Consumidor. Os dois documentos estão disponíveis no endereço http://www.adr.org. O árbitro ficará vinculado aos termos do presente EULA.. 
+14.7. A Associação Americana de Arbitragem controlará a arbitragem, que poderá ser realizada pelo envio de documentos, por telefone ou pessoalmente no país ou região em que você reside ou em outro local combinado pelas partes.
+14.8. Caso você queira no máximo $ 10.000, a BNEA concorda em reembolsá-lo pelas despesas processuais e pela sua parte dos custos da arbitragem, incluindo sua parcela dos honorários do árbitro, ao final do processo, salvo se o árbitro determinar que suas reivindicações são infundadas ou que os custos são inaceitáveis na opinião do árbitro. A BNEA concorda em não pedir o reembolso de seus honorários advocatícios ou dos custos de arbitragem atribuídos a ela a menos que o árbitro determine que suas reivindicações são infundadas ou que os custos são inaceitáveis na opinião do árbitro. Caso você queira mais de $ 10.000, os custos da arbitragem, incluindo os honorários do árbitro, serão divididos entre você e a BNEA de acordo com as Regras de Arbitragem Comercial e os Procedimentos Complementares para Disputas Relacionadas ao Consumidor da AAA, se for o caso.
+14.9. VOCÊ E A BNEA CONCORDAM EM NÃO INICIAR NEM PARTICIPAR DE NENHUMA AÇÃO COLETIVA, AÇÃO GERAL COM ADVOGADOS PARTICULARES OU ARBITRAGEM COLETIVA, MESMO SE ISSO FOR PERMITIDO PELOS PROCEDIMENTOS OU REGRAS DA AAA. O ÁRBITRO PODERÁ CONCEDER O RECURSO APENAS A FAVOR DA PARTE INDIVIDUAL EM BUSCA DA REPARAÇÃO E APENAS NA MEDIDA DA REIVINDICAÇÃO INDIVIDUAL DAQUELA PARTE. Você e a BNEA também concordam em não tentar combinar nenhuma ação ou arbitragem com qualquer outra ação ou arbitragem sem o consentimento de todas as partes para o presente EULA e para todas as outras ações e arbitragens.
+14.10. Caso o acordo contido nesta Seção de não iniciar nem participar de nenhuma ação coletiva, ação geral com advogados particulares ou arbitragem coletiva vier a ser ilegal ou inexequível, você e a BNEA concordam que essa parte do contrato não será separável, que esta Seção inteira ficará inexequível, e que qualquer reivindicação ou disputa será resolvida em um tribunal, não em uma arbitragem coletiva.
+14.11. Não obstante as disposições desta Seção, você tem o direito de pleitear qualquer disputa no tribunal de pequenas causas, caso sejam cumpridas todas as exigências do tribunal de pequenas causas, incluindo qualquer limitação sobre a jurisdição e a quantia em jogo na disputa.
+14.12. Esta Seção será aplicável na medida máxima permitida pelo direito aplicável. Caso as leis da sua jurisdição proíbam a execução de uma ou mais de uma das disposições desta Seção, não obstante a Seção 16 (Lei de Regência), essas disposições não serão aplicáveis a você.</text>
+<text id="601016">
+
+15. LEI DE REGÊNCIA. Qualquer disputa que não esteja sujeita à arbitragem, ou caso não tenha sido decidido recorrer à arbitragem, será resolvida pelo tribunal estadual ou federal localizado no Condado de Santa Clara, na Califórnia, nos EUA, e você e a BNEA concordam em se sujeitar à jurisdição desse tribunal. Exceto conforme determinado em contrário neste instrumento, o presente EULA será regido e interpretado de acordo com a legislação da Califórnia e dos Estados Unidos da América, sem importar os princípios do direito de escolha ou das leis conflitantes. A Convenção das Nações Unidas sobre os "Contratos para a venda internacional de mercadorias" é repudiada de forma expressa.</text>
+<text id="601017">
+
+16. DISPOSIÇÕES GERAIS. Caso qualquer disposição do presente EULA seja considerada inválida ou inexequível, essa disposição será eliminada e todas as outras disposições continuarão em vigor e serão executadas como se a disposição inválida ou inexequível não fizessem parte do EULA. A omissão da BNEA com relação a qualquer violação cometida por você ou por outras partes não significa uma renúncia ao direito que a empresa tem de tomar uma atitude com relação a violações posteriores ou parecidas. Você não poderá atribuir nem transferir o presente EULA ou seus direitos, e qualquer tentativa de fazer isso será considerada nula. Este instrumento determina a totalidade de entendimentos e acordos existentes entre você e a BNEA com relação ao objeto do escopo.</text>
+<text id="601018">
+
+Caso tenha qualquer pergunta com relação ao presente EULA, entre em contato com o atendimento ao cliente da BANDAI NAMCO Entertainment America Inc. pelos endereços http://www.bandainamcoent.com/company/support.html ou BANDAI NAMCO Entertainment America Inc., 2051 Mission College Boulevard, Santa Clara, California 95054, USA.</text>
+<text id="601019">%null%</text>
+<text id="601020">%null%</text>
+<text id="601021">%null%</text>
+<text id="601022">%null%</text>
+<text id="601023">%null%</text>
+<text id="602000">%null%</text>
+<text id="602001">%null%</text>
+<text id="602002">%null%</text>
+<text id="602003">%null%</text>
+<text id="602004">%null%</text>
+<text id="602005">%null%</text>
+<text id="602006">%null%</text>
+<text id="602007">%null%</text>
+<text id="602008">%null%</text>
+<text id="602009">%null%</text>
+<text id="602010">%null%</text>
+<text id="602011">%null%</text>
+<text id="602012">%null%</text>
+<text id="602013">%null%</text>
+<text id="602014">%null%</text>
+<text id="602015">%null%</text>
+<text id="602016">%null%</text>
+<text id="602017">%null%</text>
+<text id="602018">%null%</text>
+<text id="602019">%null%</text>
+<text id="602020">%null%</text>
+<text id="602021">%null%</text>
+<text id="602022">%null%</text>
+<text id="602023">%null%</text>
+<text id="603000">%null%</text>
+<text id="603001">%null%</text>
+<text id="603002">%null%</text>
+<text id="603003">%null%</text>
+<text id="603004">%null%</text>
+<text id="603005">%null%</text>
+<text id="603006">%null%</text>
+<text id="603007">%null%</text>
+<text id="603008">%null%</text>
+<text id="603009">%null%</text>
+<text id="603010">%null%</text>
+<text id="603011">%null%</text>
+<text id="603012">%null%</text>
+<text id="603013">%null%</text>
+<text id="603014">%null%</text>
+<text id="603015">%null%</text>
+<text id="603016">%null%</text>
+<text id="603017">%null%</text>
+<text id="603018">%null%</text>
+<text id="603019">%null%</text>
+<text id="603020">%null%</text>
+<text id="603021">%null%</text>
+<text id="603022">%null%</text>
+<text id="603023">%null%</text>
+<text id="610000">DARK SOULS Ⅲ 日本リージョン向け利用規約ダミーテキスト：PS4：日本リージョン：ブラジルポルトガル語
+
+第１条
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+</text>
+<text id="610001">第２条
+
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと
+あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと</text>
+<text id="610002">%null%</text>
+<text id="610003">%null%</text>
+<text id="610004">%null%</text>
+<text id="610005">%null%</text>
+<text id="610006">%null%</text>
+<text id="610007">%null%</text>
+<text id="610008">%null%</text>
+<text id="610009">%null%</text>
+<text id="610010">%null%</text>
+<text id="610011">%null%</text>
+<text id="610012">%null%</text>
+<text id="610013">%null%</text>
+<text id="610014">%null%</text>
+<text id="610015">%null%</text>
+<text id="610016">%null%</text>
+<text id="611000">Termos e condições</text>
+<text id="611001">
+
+BANDAI NAMCO ENTERTAINMENT AMERICA INC.
+CONTRATO DE LICENÇA DO USUÁRIO FINAL (ou "EULA") PARA
+TÍTULO DO JOGO: DARK SOULS™ III: THE FIRE FADES™ EDITION
+DATA DE ENTRADA EM VIGOR: 21 DE ABRIL DE 2017
+
+
+IMPORTANTE: SUA ACEITAÇÃO DOS TERMOS DEFINIDOS NESTE EULA FIRMA UM CONTRATO LEGAL ENTRE VOCÊ E A BANDAI NAMCO ENTERTAINMENT AMERICA INC. ("BNEA") EM RELAÇÃO A UM JOGO EM PARTICULAR. ALÉM DE CONCEDER CERTOS DIREITOS E IMPOR CERTAS OBRIGAÇÕES, OS TERMOS DO CONTRATO PODEM EXIGIR QUE VOCÊ E A BNEA RESOLVAM CERTAS DISPUTAS ATRAVÉS DE ARBITRAGEM VINCULATIVA OBRIGATÓRIA (VER SUBSEÇÃO 16.a) E RENUNCIEM A QUALQUER DIREITO A PARTICIPAR EM UMA AÇÃO COLETIVA RELACIONADA A TAIS DISPUTAS (VER SUBSEÇÃO 16.b). EMBORA AS PROVISÕES DE ARBITRAGEM E AÇÃO COLETIVA SÓ SE APLIQUEM A RESIDENTES DOS ESTADOS UNIDOS DA AMÉRICA, A BNEA ACONSELHA FORTEMENTE QUE VOCÊ LEIA OS TERMOS A SEGUIR ATENTAMENTE ANTES DE ACEITÁ-LOS.
+
+A COMPRA E O USO DE ITENS ESTÃO SUJEITOS AOS TERMOS DE SERVIÇO E CONTRATO DO USUÁRIO DA NETWORK. ESTE SERVIÇO ONLINE FOI SUBLICENCIADO A VOCÊ PELA SONY INTERACTIVE ENTERTAINMENT AMERICA (A "OPERADORA DA PLATAFORMA"). A FORMA COMO VOCÊ USA O JOGO TAMBÉM ESTÁ SUJEITA AOS TERMOS E CONDIÇÕES DETERMINADOS NOS TERMOS DE SERVIÇO DA SONY INTERACTIVE ENTERTAINMENT AMERICA NETWORK, NO CONTRATO DE LICENÇA DE SOFTWARE DO SISTEMA PLAYSTATION®4 DA SONY INTERACTIVE ENTERTAINMENT LLC E EM OUTROS TERMOS E CONTRATOS APLICÁVEIS AO HARDWARE, CONFORME ESTABELECIDO ABAIXO.
+
+
+SE ESTE DOCUMENTO FOI APRESENTADO A VOCÊ EM UM IDIOMA DIFERENTE DO INGLÊS, OBSERVE QUE QUALQUER DESACORDO OU INCONSISTÊNCIA ENTRE OS TERMOS DA VERSÃO DE LÍNGUA INGLESA E A VERSÃO APRESENTADA A VOCÊ SERÁ RESOLVIDO EM FAVOR DA VERSÃO DE LÍNGUA INGLESA, NA MEDIDA DO PERMITIDO PELA LEI APLICÁVEL.</text>
+<text id="611002">
+
+LEIA ATENTAMENTE OS TERMOS A SEGUIR:
+
+1. DEFINIÇÕES. Neste EULA, certas palavras e frases em maiúsculas têm definições específicas. Essas palavras ou frases podem ser identificadas quando aparecem pela primeira vez entre aspas. Por exemplo, para fins deste EULA, "Você" refere-se a qualquer indivíduo, pessoa física, que obteve devidamente uma cópia do Jogo (incluindo ao baixar quaisquer atualizações do Jogo) e posteriormente instalou, acessou, jogou ou utilizou de alguma forma essa cópia do Jogo. </text>
+<text id="611003">
+
+2. DATA DE ENTRADA EM VIGOR. Se, a qualquer momento, na ou após a Data de Entrada em Vigor definida acima (a "Data de Entrada em Vigor"), Você obtiver uma cópia do Jogo e tiver estes termos apresentados a Você (inclusive como link para uma cópia online deste EULA, ou incorporado em uma cópia do Jogo) e, então, a seguir, instalar, acessar, jogar ou usar de alguma forma uma cópia do Jogo, Você e a BNEA estarão legalmente vinculados pelos termos deste EULA até que: (i) este EULA seja rescindido por Você ou pela BNEA, conforme permitido por seus termos; ou (ii) este EULA seja substituído pelos termos de um contrato de licença atualizado para o Jogo, que será apresentado a Você e aceito por Você após a Data de Entrada em Vigor.</text>
+<text id="611004">
+
+3. DIREITOS DE PROPRIEDADE INTELECTUAL NO JOGO. O Jogo é licenciado, não vendido, para Seu uso sob os termos deste EULA, exceto quando substituídos por um contrato de licença separado por escrito, executado por um representante autorizado da BNEA; nesse caso, os termos desse contrato de licença separado da BNEA terão preferência em relação aos termos deste EULA. Excetuando-se os direitos concedidos nos termos da Licença limitada expressamente definida abaixo, todos os direitos de propriedade intelectual existentes dentro e com relação ao Jogo acima referido (incluindo o software armazenado em qualquer mídia de gravação tangível comprado por Você e quaisquer Itens Virtuais, Dinheiro do Jogo e quaisquer vídeos, áudios e outros conteúdos incorporados a esse material ou baixados posteriormente (coletivamente, o “Jogo”) e todas as titularidades e propriedades de todas e quaisquer cópias do Jogo são de propriedade exclusiva da BNEA e/ou de suas licenciadoras, e são protegidas por leis de direito autoral locais e internacionais, além de por tratados internacionais. Exceto conforme exigido pela lei aplicável, a Licença concedida a Você pela BNEA não autoriza Você a ganhar ou adquirir qualquer propriedade, seja ela monetária ou de outra natureza, de qualquer elemento, ferramenta ou conteúdo contido ou relacionado ao Jogo. Entre Você e a BNEA, a BNEA reserva-se todos os direitos dentro e com relação ao Jogo que não são expressamente concedidos a Você através deste EULA.</text>
+<text id="611005">
+
+4. PRÉ-CONDIÇÕES DA LICENÇA. A Licença concedida no presente EULA está condicionada ao cumprimento integral de todos os outros termos e condições estabelecidos neste EULA:
+-Ser maior de idade na Sua jurisdição. Caso ainda seja menor de idade na Sua jurisdição, Seu representante legal (ou seja, um dos Seus pais ou alguém que tenha esse nível de autoridade jurídica sobre Você) terá que agir em Seu nome para concordar cumprir e assumir responsabilidade total pelo cumprimento do presente EULA antes que Você use o Jogo;
+-Aceitar e cumprir todos os termos do presente EULA, além de quaisquer outros termos que possam ser aplicáveis ao Jogo, o que é comprovado pelo fato de que Você acessa e usa o Jogo;
+-Não baixar, instalar acessar, jogar ou usar o Jogo de qualquer forma, exceto em dispositivos de propriedade ou controle exclusivamente Seu, executando cópias com as devidas licenças dos sistemas operacionais para os quais o Jogo foi projetado atendendo às exigências mínimas determinadas pela BNEA (em conjunto, o "Hardware");
+-Não utilizar nenhum hack, crack, bots ou software de terceiros que possam modificar ou copiar o código ou a experiência do usuário com o Jogo de forma temporária ou permanente, seja no Seu Hardware ou nos servidores que possibilitam o uso de qualquer ferramenta do Jogo;
+-Aceitar e estar em conformidade com todos os termos e condições da Operadora da Plataforma a partir da qual o Seu Hardware baixará, instalará ou acessará qualquer cópia do Jogo, quaisquer atualizações do Jogo, ou através da qual podem ser realizadas quaisquer transações monetárias feitas em relação ao Jogo; e
+-Atender a todas as medidas de segurança necessárias para utilizar o Jogo por completo, o que pode incluir a exigência de registrar o Jogo com um código de série, a exigência de ter acesso ininterrupto à Internet; e/ou a aceitação das ferramentas de gestão da proteção e dos direitos digitais. Sua falha ou incapacidade de cumprir inteiramente tais medidas de segurança pode prejudicar ou impedir o Seu acesso ou uso do Jogo, seus Recursos Online, Itens Virtuais, Dinheiro do Jogo ou Dinheiro do Jogo Comprado.</text>
+<text id="611006">
+
+5. LICENÇA DE USO LIMITADO. Sujeito à Sua estrita conformidade com os termos do presente EULA, a BNEA concede a Você a licença e o direito não exclusivo, intransferível, revogável e limitado de acessar e usar uma cópia do Jogo apenas para Seu uso pessoal no Seu Hardware (a "Licença"). Você fica estritamente proibido de usar o Jogo para fins comerciais. Para acessar e usar o Jogo, Você precisará ter recebido o Jogo da BNEA de forma legal, assim como todos os Hardwares e/ou produtos e serviços de terceiros necessários para executar o Jogo e/ou acessar qualquer Recurso Online do Jogo que não for fornecido pela BNEA. Você é responsável por pagar todas as tarifas, impostos e custos de outra natureza que possam ser necessários para acessar e usar o Jogo, incluindo, sem limitação, despesas relacionadas compra ou manutenção de Seu Hardware, Seu serviço da Internet e produtos ou serviços de terceiros obrigatórios para acessar qualquer Recurso Online do Jogo. Nem o presente EULA nem a utilização do Jogo dá direito a qualquer versão futura do Jogo, nem a nenhuma expansão, continuação ou produto auxiliar ou semelhante. Você não detém a propriedade, seja ela monetária ou de outra natureza, de nenhuma ferramenta ou conteúdo contido ou relacionado ao Jogo.</text>
+<text id="611007">
+
+6. PROPRIEDADE. Todos os direitos de propriedade intelectual existentes dentro e com relação ao Jogo (incluindo, sem limitação, a vídeos, áudios e outros conteúdos incorporados a esse material ou baixados no futuro) e todas as titularidades e propriedades de todas e quaisquer cópias do Jogo são de propriedade exclusiva da BNEA e/ou de suas licenciadoras, e Você não tem nenhum direito ou parte disso além da Licença limitada concedidas de forma expressa por meio deste instrumento. Sem limitar os termos anteriores, Você fica expressamente proibido de:
+-Copiar o Jogo (exceto para uma única cópia de segurança);
+-Vender, alugar, arrendar, licenciar, sublicenciar, distribuir ou realizar outras formas de transferência ou disponibilização do Jogo para qualquer outra pessoa, em sua totalidade ou em parte;
+-Usar o Jogo ou qualquer parte dele em qualquer contexto comercial, incluindo, sem limitação, para uso em um site comercial ou escritório de serviços, lan house, centro de jogos de computador ou qualquer outra instalação comercial na qual os usuários que não compraram o Jogo nem receberam a autorização da BNEA poderão acessar ou usar o Jogo ou os elementos do Jogo;
+-Aplicar engenharia reversa, extrair o código fonte, modificar, descompilar, desmontar ou criar obras derivadas do Jogo ou de qualquer trecho do Jogo, no todo ou em parte;
+-Remover, desativar ou burlar qualquer aviso ou marcação de propriedade contida ou associada ao Jogo ou a qualquer Recurso Online do Jogo; ou
+-Exportar ou reexportar o Jogo ou qualquer cópia ou adaptação dele, direta ou indiretamente, ocasionando uma violação de qualquer lei dos EUA, incluindo, sem limitação, restrições de exportação aplicáveis. </text>
+<text id="611008">
+
+7. RECURSOS ONLINE, ITENS VIRTUAIS E DINHEIRO DO JOGO.
+a. Recursos Online. No Jogo, Você pode também ser autorizado a acessar determinados recursos online ou para download, ou funcionalidades que podem incluir multijogador, conteúdo no Jogo "apenas para multijogador", "patches" para download e outras atualizações de software para o Jogo, a Loja Online (conforme definido abaixo) e conteúdos adicionais, como Itens Virtuais ou Dinheiro do Jogo (conforme definido abaixo) que não foram totalmente incluídos ou disponibilizados com a cópia do Jogo inicialmente obtida por Você (coletivamente, "Recursos Online"). Não obstante qualquer Licença concedida pela BNEA nos termos deste EULA, Você pode não conseguir acessar Recursos Online do Jogo sem satisfazer e continuar a atender determinados requisitos, tais como Sua localização, a localização de Sua residência, Sua idade, Sua capacidade de obter acesso lícito à Internet e a capacidade de Seu Hardware estabelecer e manter uma conexão de Internet segura. Consulte Seus contratos com a Operadora da Plataforma para mais informações sobre quaisquer requisitos que devem ser atendidos para acessar quaisquer Recursos Online do Jogo. Salvo conforme exigido pela lei aplicável, a BNEA não pode garantir e não garantirá Seu acesso a qualquer Recurso Online do Jogo, e renuncia expressamente qualquer responsabilidade decorrente da Sua incapacidade de acessar qualquer Recurso Online do Jogo por qualquer motivo.
+b. Itens Virtuais e Dinheiro do Jogo. Através do Jogo, a BNEA pode oferecer a Você a oportunidade de obter uma Licença limitada para certos produtos ou serviços virtuais dentro do Jogo (coletivamente, "Itens Virtuais"), completando determinadas tarefas ou atividades no Jogo, conforme nele especificados. Certos Itens Virtuais podem ser resgatados, por Você, dentro do Jogo (coletivamente, "Dinheiro do Jogo") para obter uma Licença limitada para outros Itens Virtuais ou outras formas de Dinheiro do Jogo. Não obstante os termos acima, exceto quando proibido pela lei aplicável ou conforme expressamente estabelecido neste EULA, todos os Itens Virtuais e Dinheiro do Jogo: (i) estão sujeitos aos termos de Licença estabelecidos na Seção 5, acima, independentemente de sua forma de obtenção; (ii) não têm qualquer valor equivalente a dinheiro real, não podem ser utilizados como substitutos de dinheiro real e não podem ser resgatados ou trocados por dinheiro real; (iii) não podem ser resgatados, transferidos, vendidos, trocados, negociados, arrendados, sublicenciados ou alugados, exceto conforme expressamente permitido pela BNEA, apenas dentro do Jogo; (iv) podem estar sujeitos a ações, realizadas pela BNEA a seu exclusivo critério, que podem impactar o valor percebido de tais Itens Virtuais ou Dinheiro do Jogo, incluindo administração, modificação, suspensão e/ou remoção de tais Itens Virtuais ou Dinheiro do Jogo sem aviso prévio; e (v) estarão sujeitos à mesma classificação etária do Jogo.
+c. Rescisão da Licença de Itens Virtuais e Dinheiro do Jogo. Exceto conforme exigido pela lei aplicável ou expressamente estabelecido neste EULA, a Sua Licença a quaisquer Itens Virtuais ou Dinheiro do Jogo será rescindida quando da ocorrência de qualquer dos seguintes itens (aquele que ocorrer primeiro): (i) o Seu consumo ou perda de tais Itens Virtuais através do uso normal do Jogo (incluindo Recursos Online do Jogo); (ii) Seu resgate ou troca do Dinheiro do Jogo por qualquer outro Item Vou outra forma de Dinheiro do Jogo; ou (iii) a rescisão deste EULA, conforme expressamente permitido. Exceto conforme proibido em contrário pelo direito aplicável, a BNEA se reserva e detém todos os direitos, titularidades e propriedade de todos os Itens Virtuais e Dinheiro do Jogo.
+d. Loja Online, Itens Virtuais Comprados e Dinheiro do Jogo Comprado. Os Recursos Online do Jogo também podem incluir ou permitir que Você acesse um mercado online, administrado pela Operadora da Plataforma do Jogo (a "Loja Online"), através da qual Você pode ter permissão para criar uma conta, manter um saldo de conta e/ou adquirir uma Licença limitada para certos Itens Virtuais (coletivamente, "Itens Virtuais Comprados" e/ou Dinheiro do Jogo (coletivamente, "Dinheiro do Jogo Comprado"). Após a Operadora da Plataforma ter processado qualquer pagamento exigido de Você, a Sua licença a qualquer Item Virtual Comprado ou Dinheiro do Jogo Comprado correspondente será ativada ou disponibilizada dentro ou através da cópia do Jogo em Seu Hardware, automaticamente ou seguindo e completando quaisquer instruções necessárias fornecidas a Você no momento da Sua compra. Caso Seu pagamento tenha sido processado, mas a Licença aos Itens Virtuais Comprados ou Dinheiro do Jogo Comprado correspondentes não tenha sido ativada ou disponibilizada conforme acima descrito, entre em contato com o apoio ao cliente, cujas informações de contato podem ser encontradas em Seu(s) contrato(s) com a Operadora da Plataforma ou no site oficial dela. Excetuando-se o preço de compra aplicável a quaisquer Itens Virtuais Comprados ou Dinheiro do Jogo Comprado, a BNEA não cobrará de Você quaisquer taxas adicionais para acessar, usar ou não usar quaisquer Itens Virtuais Comprados ou Dinheiro do Jogo. Exceto conforme exigido pela lei aplicável ou expressamente estabelecido neste EULA, todas as compras de Itens Virtuais Comprados e Dinheiro do Jogo Comprado são definitivas, não são reembolsáveis, transferíveis ou permutáveis, e serão consideradas entregues e aceitas por Você quando a Licença correspondente for ativada ou disponibilizada dentro ou através da cópia do Jogo em Seu Hardware. Sem limitar os termos anteriores, o Dinheiro do Jogo Comprado será resgatado quando da ocorrência de qualquer dos seguintes itens (aquele que ocorrer primeiro): (i) Sua escolha de permutar Dinheiro do Jogo Comprado por uma Licença limitada de qualquer outro Item Virtual, incluindo qualquer outra forma de Dinheiro do Jogo, dentro do Jogo; ou (ii) emissão de um reembolso a Você do valor pago para adquirir a Licença limitada para esse Dinheiro do Jogo Comprado, caso exigido pela lei aplicável. Exceto quando proibido pela lei aplicável, qualquer valor monetário pago por uma Licença limitada para qualquer Dinheiro do Jogo Comprado será anulado por Seu resgate desse Dinheiro Comprado do Jogo, e não será transmitido nem continuado em qualquer Item Virtual ou outra forma de Dinheiro do Jogo obtido através desse resgate.</text>
+<text id="611009">
+
+8. PRIVACIDADE. A BNEA respeita Seus direitos de privacidade. Todas as informações pessoais fornecidas por Você para a BNEA através dos Recursos Online do Jogo estarão sujeitas à política de privacidade acessível através do Jogo e disponível antes do download de qualquer cópia do Jogo da Operadora da Plataforma. Ao acessar e usar este Jogo, Você reconhece e concorda que, sujeito à política de privacidade aplicável e à legislação aplicável, o Jogo pode usar tecnologias de rastreamento, incluindo marcas de pixel, arquivos de registros e outras tecnologias nativas de Seu Hardware, e poderá recolher periodicamente dados técnicos e informações relacionadas do Seu Hardware, incluindo, sem limitação, informações sobre seu sistema operacional, dispositivos periféricos e outras aplicações de software executadas em conexão ao Jogo, que podem ser utilizadas para facilitar o fornecimento de atualizações de software, suporte ao produto e outros serviços relacionados para Você, em conexão ao Seu acesso e uso do Jogo. Você também reconhece e concorda que a BNEA pode utilizar essas informações, de forma que não identifique Você pessoalmente, inclusive com o objetivo de melhorar seus produtos e fornecer a Você seus serviços ou tecnologias.</text>
+<text id="611010">
+
+9. SERVIÇOS DE TERCEIROS. Você também reconhece que, sujeito à política de privacidade aplicável da BNEA e à legislação aplicável, o Jogo pode permitir a integração e acesso a determinados serviços de terceiros para Sua conveniência, o que pode exigir acesso à Internet, a compra de acesso a tais serviços de terceiros e/ou um contrato separado com o fornecedor terceirizado de tais serviços. Não obstante os termos acima, a BNEA reserva-se o direito de alterar, suspender, remover ou desabilitar o acesso ou a integração entre o Jogo e quaisquer serviços de terceiros, a qualquer momento, sem aviso prévio. Portanto, na extensão máxima da lei aplicável, Seu uso do Jogo constitui Seu reconhecimento e aceitação que: (i) a BNEA não é afiliada aos fornecedores terceirizados de tais serviços, não os endossa e não possui autoridade para exercer controle direto sobre eles; (ii) a BNEA não é responsável pelo exame ou avaliação da exatidão, integridade, prontidão, validade, legalidade, decência, qualidade ou qualquer outro aspecto de tais serviços de terceiros, ou as práticas de privacidade deles, que podem ser diferentes das da BNEA; (iii) Seu acesso e uso de tais serviços de terceiros será por Sua própria conta e risco; (iv) Você arcará com quaisquer custos incorridos em conexão ao acesso ou uso de tais serviços de terceiros, incluindo a garantia de que Seu acesso e uso de tais serviços de terceiros está em conformidade com todas as leis aplicáveis; (v) Você é o único responsável pelo cumprimento de todos os termos, condições ou leis aplicáveis ao Seu acesso e uso de tais serviços de terceiros; e (vi) salvo quando expressamente estabelecido neste EULA, a BNEA não será responsável por qualquer falha ou perda de acesso ou uso de tais serviços de terceiros, mesmo se causada pela cessação do acesso da BNEA a tais serviços de terceiros através do Jogo ou em conexão com ele. </text>
+<text id="611011">
+
+10. CONTEÚDO GERADO PELO USUÁRIO. Em contrapartida pelo acesso e uso do Jogo e conforme Você for criando conteúdos ao acessar e usar o Jogo (o “Conteúdo Gerado pelo Usuário”), Você concede à BNEA o direito e a licença globais, exclusivos, perpétuos, irrevogáveis, isentos de royalties, completamente transferíveis e sublicenciáveis por meio deste instrumento para que a empresa use Conteúdo Gerado pelo Usuário de qualquer forma e para qualquer finalidade que envolva o Jogo e os produtos e serviços relacionados, incluindo o direito de reproduzir, copiar, adaptar, modificar, realizar, criar obras derivadas, exibir, publicar, emitir, transmitir, usar de outras maneiras, distribuir, explorar e divulgar ao público por todo e qualquer meio e mídia que seja conhecido no momento ou venha a ser criado no futuro sem nenhum aviso prévio ou compensação de qualquer tipo a Você durante todo o tempo da proteção concedida aos direitos de propriedade intelectual de acordo com o direito aplicável e as convenções internacionais. Na medida permitida pelo direito aplicável, Você renuncia a qualquer direito moral de paternidade, publicação, reputação ou atribuição no que diz respeito ao uso que a BNEA e outros jogadores fizerem desses ativos no contexto do Jogo e dos produtos e serviços relacionados de acordo com o direito aplicável. A concessão da licença à BNEA e a renúncia explicada acima a quaisquer direitos morais aplicáveis subsistirão qualquer rescisão do presente EULA.</text>
+<text id="611012">
+
+11. CONDUTA ONLINE.
+a. A BNEA não filtra o conteúdo de postagens ou chats online através dos Recursos Online do Jogo antes de tal conteúdo ser mostrado a Você, e não assume qualquer responsabilidade pelo Conteúdo Gerado pelo Usuário, inclusive por qualquer falha em remover Conteúdo Gerado pelo Usuário ou qualquer atraso na remoção. No entanto, a BNEA renuncia expressamente a qualquer expectativa de privacidade com relação a qualquer Conteúdo Gerado pelo Usuário que Você possa criar ou contribuir através do Jogo, incluindo através de qualquer postagem em fórum ou chats online, e reserva-se o direito de analisar todo esse Conteúdo Gerado pelo Usuário sempre que a BNEA tiver suspeita razoável de que possa ter ocorrido uma violação da presente Seção ou de qualquer outra disposição deste EULA. A BNEA pode armazenar todo esse Conteúdo Gerado pelo Usuário por um período de no mínimo 90 (noventa) dias, sem ter obrigação de realizar esse armazenamento. Sem limitar qualquer outro dos seus direitos e recursos nos termos do presente EULA ou da lei aplicável, se a BNEA fizer objeção a qualquer Conteúdo Gerado pelo Usuário, por qualquer motivo, a BNEA, a seu exclusivo critério, pode (por si própria ou, se for o caso, mediante solicitação à Operadora da Plataforma): (a) remover o Conteúdo Gerado pelo Usuário; (b) dar avisos às pessoas aplicáveis e/ou (c) restringir, suspender ou cancelar o acesso e uso dos Recursos Online do Jogo sem aviso prévio.
+b. Você concorda que será diretamente responsável pelo acesso e uso dos Recursos Online do Jogo e por todas as Suas mensagens e atividades relacionadas ao Jogo, incluindo qualquer Conteúdo Gerado pelo Usuário.
+c. Em conexão a qualquer atividade realizada através dos Recursos Online do Jogo, Você concorda em não:
+-Assediar, ameaçar, envergonhar ou fazer qualquer outra coisa desagradável a outros usuários do Jogo, conforme determinado pela BNEA ao critério exclusivo dela.
+-Transmitir ou facilitar a distribuição de conteúdos que sejam nocivos, abusivos, preconceituosos contra raças ou etnias, vulgares, de teor sexual, explícitos, difamatórios, infratores, que invadam a privacidade ou os direitos publicitários, ou condenáveis de acordo com o critério exclusivo da BNEA. Discursos agressivos não serão tolerados.
+-Violar qualquer termo ou política informado pela BNEA a qualquer momento.
+-Promover ou incentivar qualquer atividade ilícita, incluindo invasões do sistema (hacking).
+-Divulgar os dados pessoais da Sua própria atividade ou dos outros usuários a terceiros.
+-Passar-se por outra pessoa ou entidade, incluindo qualquer diretor da BNEA, moderadores de fóruns, guias, anfitriões, funcionários ou agentes, ou dar uma declaração falsa ou deturpar de outra forma Sua associação com qualquer pessoa ou entidade.
+-Prejudicar ou interromper o Jogo ou o fluxo normal da jogabilidade ou dos diálogos, ou usar palavras de baixo calão, ser agressivo, dar gritos em excesso (USANDO O CAPS LOCK, por exemplo), enviar spam ou usar qualquer método perturbador ou prejudicial com o intuito de incomodar outros usuários do Jogo.
+-Trapacear ou utilizar códigos ilícitos relacionados ao Jogo.
+-Usar ou tirar vantagem de qualquer bug, erro ou falha de design para acessar ou usar o Jogo sem autorização ou para ganhar uma vantagem injusta com relação aos outros jogadores do Jogo.
+-Violar qualquer direito aplicável, incluindo, sem limitação, ao publicar, transmitir, promover ou distribuir conteúdos que violem qualquer lei ou regulamento aplicável.
+-Violar qualquer regra sobre o uso de tecnologias e conteúdos de terceiros, regras de prestadores de serviço interativos, assim como qualquer lei internacional, federal, estadual ou local conforme o caso.
+-Fazer qualquer coisa que interfira na forma como os outros usuários se divertem com o Jogo de acordo com Suas regras, ou de uma maneira que aumente de forma significativa as despesas ou dificuldades incorridas pela BNEA ou pelo terceiro prestador de serviços (se for o caso) na manutenção do Jogo para que todos os usuários se divirtam.
+-Desconectar-se da rede de propósito durante um jogo online ou aceitar ser derrotado por um jogador específico várias vezes para ajudá-lo a aumentar Sua classificação ou Suas vitórias no Jogo.</text>
+<text id="611013">
+
+12. LIMITAÇÃO DE RESPONSABILIDADE E INDENIZAÇÃO E RENÚNCIA DE GARANTIAS.
+a. Limitação de Responsabilidade. ATÉ O LIMITE MÁXIMO PERMITIDO POR LEI, EM HIPÓTESE ALGUMA A BNEA, INCLUINDO SUAS FORNECEDORAS, LICENCIADORAS OU QUAISQUER DE SEUS RESPECTIVOS CONSELHEIROS, DIRETORES, FUNCIONÁRIOS, CONTRATADOS OU AGENTES, SERÃO RESPONSÁVEIS POR QUAISQUER INDENIZAÇÕES ESPECIAIS, INCIDENTAIS, PUNITIVAS OU POR DANO INDIRETO DE QUALQUER NATUREZA DECORRENTES OU RELACIONADOS À POSSE, ACESSO, USO, OU INCAPACIDADE DE USAR O JOGO, ASSIM COMO PELA INCAPACIDADE DE PRESTAR SERVIÇOS DE SUPORTE. A LIMITAÇÃO DE RESPONSABILIDADE ACIMA SERÁ APLICADA A QUALQUER REIVINDICAÇÃO RESULTANTE DE QUEBRA DE CONTRATO, NEGLIGÊNCIA (QUE NÃO SEJA NEGLIGÊNCIA GRAVE), VIOLAÇÃO DE PROPRIEDADE INTELECTUAL OU RESPONSABILIDADE PELO PRODUTO.
+b. Limitação de Indenização. ATÉ O LIMITE MÁXIMO PERMITIDO POR LEI, A RESPONSABILIDADE TOTAL MÁXIMA DISPONÍVEL PARA VOCÊ A PARTIR DA BNEA, INCLUINDO SUAS FORNECEDORAS, LICENCIADORAS OU QUAISQUER DE SEUS RESPECTIVOS CONSELHEIROS, DIRETORES, FUNCIONÁRIOS, CONTRATADOS OU AGENTES, POR TODAS E QUAISQUER INDENIZAÇÕES DECORRENTES OU RELACIONADAS AO JOGO OU A ESTE EULA, SERÁ LIMITADA AO MENOR DOS SEGUINTES VALORES: (i) O MONTANTE TOTAL PAGO A VOCÊ PARA COMPRAR UMA LICENÇA PARA UMA ÚNICA CÓPIA DO JOGO, JUNTAMENTE COM QUALQUER VALOR POSTERIORMENTE PAGO POR VOCÊ À BNEA (E NÃO REEMBOLSADO OU COBRADO DE VOLTA) POR LICENÇAS PARA QUAISQUER ITENS VIRTUAIS COMPRADOS OU DINHEIRO DO JOGO COMPRADO; OU (ii) US$ 500,00 (QUINHENTOS DÓLARES AMERICANOS).
+c. Renúncia de Garantias. A BNEA E SUAS FORNECEDORAS E LICENCIADORAS NÃO FAZEM NENHUMA PROMESSA OU GARANTIA DE QUE O JOGO FUNCIONARÁ DIREITO. VOCÊ RECONHECE E CONCORDA QUE A BNEA E SUAS LICENCIADORAS E FORNECEDORAS NÃO SÃO RESPONSÁVEIS POR: (i) VÍRUS OU OUTRO ELEMENTO PREJUDICIAL QUE AFETE SEU ACESSO OU USO DO JOGO; (ii) INCOMPATIBILIDADE ENTRE O JOGO, OUTROS SERVIÇOS E O HARDWARE; (iii) QUALQUER ATRASO OU DEFEITO AO INICIAR, REALIZAR OU CONCLUIR QUALQUER TRANSMISSÃO OU OPERAÇÃO NO CONTEXTO DO JOGO DE UMA FORMA PRECISA E EM TEMPO HÁBIL; OU (iv) OUTRAS INTERRUPÇÕES DE SUA APRECIAÇÃO E USO DO JOGO QUE ESTIVEREM ALÉM DO CONTROLE RAZOÁVEL DA BNEA. O JOGO E TODOS OS OUTROS SERVIÇOS ESTÃO DISPONÍVEIS EM SEU ESTADO ATUAL. EXCETO CONFORME DESCRITO NESTE INSTRUMENTO, A BNEA E SUAS LICENCIADORAS E FORNECEDORAS REPUDIAM DE FORMA EXPRESSA QUALQUER GARANTIA OU CONDIÇÃO DE QUALQUER NATUREZA, DE MANEIRA EXPLÍCITA, IMPLÍCITA OU REGULAMENTAR, INCLUINDO, SEM LIMITAÇÃO, AS GARANTIAS IMPLÍCITAS DE TITULARIDADE, AUSÊNCIA DE VIOLAÇÃO, COMERCIABILIDADE E ADEQUAÇÃO PARA UMA FINALIDADE ESPECÍFICA.
+d. Restrições de competência sobre limitações de responsabilidade e indenizações. NÃO OBSTANTE OS TERMOS ANTERIORES, SE VOCÊ FOR UM RESIDENTE DE UMA JURISDIÇÃO CUJA LEGISLAÇÃO LOCAL RESTRINJA OU PROÍBA LIMITAÇÕES DE RESPONSABILIDADE OU INDENIZAÇÕES DE FORMA INCONSISTENTE COM A SUBSEÇÃO 12.a OU 12.b (INCLUSIVE POR MORTE OU DANOS PESSOAIS CAUSADOS POR NEGLIGÊNCIA DA BNEA, QUALQUER PREJUÍZO SOFRIDO POR VOCÊ COMO RESULTADO DE SUA CONFIANÇA EM QUALQUER AFIRMAÇÃO FALSA FEITA PELA BNEA A VOCÊ E QUALQUER OUTRA RESPONSABILIDADE QUE, POR LEI, NÃO POSSA SER EXCLUÍDA OU LIMITADA), AS LIMITAÇÕES DEFINIDAS NA SUBSEÇÃO 12.a OU 12.b, ACIMA, SERÃO CONSIDERADAS MODIFICADAS CONFORME NECESSÁRIO PARA CUMPRIR COM AS LEIS LOCAIS.</text>
+<text id="611014">
+
+13. RESCISÃO/SUSPENSÃO.
+a. O presente EULA entrará em vigor quando Você concordar em ficar vinculado pelos termos dele e continuará em vigor até ser rescindido por Você ou pela BNEA. Você poderá rescindir o presente EULA a qualquer momento apagando ou destruindo toda e qualquer cópia do Jogo que esteja em Sua posse, custódia e controle.
+b. Exceto conforme proibido pelas leis aplicáveis, a BNEA poderá limitar, suspender ou rescindir as Licenças concedidas por meio deste instrumento, assim como Seu acesso e uso do Jogo, incluindo os Recursos Online do Jogo, caso Você não cumpra os termos e condições deste EULA.
+c. Após a rescisão deste EULA, os Seus direitos de acessar e usar o Jogo, incluindo quaisquer Licenças para Itens Virtuais, dados de usuários, pontos, progressos de personagens e quaisquer outras informações de qualquer natureza com relação ao Jogo, serão rescindidos de imediato, e Você terá que parar de usar o Jogo.</text>
+<text id="611015">
+
+14. DIREITOS RESTRITOS AO GOVERNO DOS ESTADOS UNIDOS. O Jogo inteiro foi desenvolvido apenas com investimentos privados e é vendido como "Jogos de computador para fins comerciais" ou "Jogos restritos de computadores". Seu uso, cópia ou divulgação pelo governo dos Estados Unidos ou por uma de suas subcontratadas está sujeito às restrições determinadas no subparágrafo (c)(1)(ii) das cláusulas sobre os "Direitos sobre dados técnicos e jogos de computador" do DFARS 252.227-7013 ou conforme estabelecido nos subparágrafos (c)(1) e (2) das cláusulas sobre os "Direitos restritos sobre jogos de computador para fins comerciais" do FAR 52.227-19, se for o caso. A Contratada/Fabricante é a BANDAI NAMCO Entertainment Inc., 5-37-8, Shiba, Minato-ku, Tóquio 108-0014, Japão.</text>
+<text id="611016">
+
+15. RESOLUÇÃO DE DISPUTAS (APENAS PARA RESIDENTES FORA DOS EUA). Se Você é um residente de qualquer país excetuando os Estados Unidos da América, Você ou a BNEA podem submeter qualquer disputa relacionada ou decorrente deste EULA ou do Jogo para resolução alternativa de disputas (como conciliação ou arbitragem) com consentimento prévio por escrito da outra parte. Não obstante os termos anteriores, os termos do presente EULA não impedirão que Você leve qualquer disputa ou reivindicação que possa estar sujeita à presente Seção 15: (i) ao conhecimento de quaisquer órgãos governamentais locais, estaduais ou federais que possam, caso a lei permita, entrar com uma ação contra a BNEA em Seu nome; (ii) apresentar, em qualquer tribunal de jurisdição competente, qualquer reinvindicação contra a BNEA que não seja arbitrável ou para a qual a arbitragem seja proibida ou restrita por lei aplicável; ou (iii) apresentar qualquer reivindicação perante um tribunal de pequenas causas, sujeito às limitações de competência e exigências do tribunal de pequenas causas.</text>
+<text id="611017">
+
+16. RESOLUÇÃO DE DISPUTAS (APENAS PARA RESIDENTES DOS EUA). Se Você é um residente dos Estados Unidos da América, ao aceitar os termos deste EULA, Você e a BNEA: (i) concordam em resolver certos conflitos através da arbitragem legal obrigatória, conforme prevista na Subseção 16.a e cada subparte dela (coletivamente, o "Acordo de Arbitragem"); e (ii) renunciam expressamente o direito a um julgamento por júri ou a participar em qualquer ação coletiva movida contra a outra parte, nos termos da Subseção 16.b (a "Renúncia a Ações Coletivas"); a menos que (iii) Você exerça o Seu direito de optar por não participar do Acordo de Arbitragem e/ou da Renúncia a Ações Coletivas, conforme definido na Subseção 16.c.
+a. ARBITRAGEM VINCULATIVA OBRIGATÓRIA. ATÉ O LIMITE MÁXIMO PERMITIDO PELA LEI APLICÁVEL, VOCÊ E A BNEA: (i) RECONHECEM E CONCORDAM EM RESOLVER TODAS AS DISPUTAS E REIVINDICAÇÕES ENTRE VOCÊ E A BNEA ATRAVÉS DA ARBITRAGEM VINCULATIVA, NOS TERMOS DA LEI FEDERAL DE ARBITRAGEM, INCLUINDO, SEM LIMITAÇÃO (EXCETO SE EXPRESSAMENTE DISPOSTO NA SUBPARTE 16.a.iii) QUALQUER DISPUTA OU REIVINDICAÇÃO BASEADA EM TEORIAS JURÍDICAS DE QUEBRA DE CONTRATO, PREJUÍZO ILÍCITO, VIOLAÇÕES LEGAIS, FRAUDE, CONCORRÊNCIA DESLEAL, DIREITOS DE PRIVACIDADE, FALSIDADE IDEOLÓGICA OU QUALQUER OUTRA TEORIA LEGAL QUE POSSA SURGIR OU DIZER RESPEITO A QUALQUER ASPECTO DO RELACIONAMENTO ENTRE VOCÊ E A BNEA, QUALQUER TERMO OU DISPOSIÇÃO DESTE EULA, OU SEU ACESSO OU USO DO JOGO (CADA UMA É UMA "REIVINDICAÇÃO"); (ii) RENUNCIAM EXPRESSA E IRREVOGAVELMENTE A QUALQUER DIREITO DE EXERCER QUAISQUER REIVINDICAÇÕES EM JUÍZO OU TER QUAISQUER REIVINDICAÇÕES APRESENTADAS OU JULGADAS PERANTE UM JUIZ OU JÚRI; (iii) NÃO APRESENTARÃO OU PARTICIPARÃO DE UMA ARBITRAGEM REPRESENTATIVA OU COLETIVA CONTRA A OUTRA PARTE, MESMO QUE PERMITIDO PELA LEI FEDERAL DE ARBITRAGEM; E (iii) NÃO PROCURARÃO CONSOLIDAR OU COMBINAR QUALQUER ARBITRAGEM DE QUALQUER REIVINDICAÇÃO SUA OU DA BNEA COM QUALQUER AÇÃO OU ARBITRAGEM MOVIDA POR UM TERCEIRO OU CONTRA ELE SEM CONSENTIMENTO EXPRESSO POR ESCRITO DE CADA PARTE TERCEIRA E AMBAS AS PARTES DESTE EULA. A MENOS QUE VOCÊ ENVIE O DEVIDO AVISO DE RECUSA (EM ESTRITO CUMPRIMENTO À SUBSEÇÃO 16.c), VOCÊ E A BNEA CONCORDAM QUE QUAISQUER REIVINDICAÇÕES CONTRA A OUTRA PARTE SERÃO REALIZADAS APENAS ATRAVÉS DE ARBITRAGEM VINCULATIVA OBRIGATÓRIA.
+i. Resolução de disputas informal pré-arbitragem. Antes de iniciar a arbitragem de qualquer Reivindicação sujeita a este Acordo de Arbitragem, Você e a BNEA concordam em realizar esforços razoáveis e de boa-fé para resolver informalmente qualquer disputa ou Reivindicação entre Você e BNEA. A parte que levanta tal disputa ou Reivindicação deverá enviar à outra parte um aviso por escrito, descrevendo a natureza e a base dessa disputa ou Reivindicação e identificando a indenização solicitada. Todos os avisos escritos para a BNEA devem ser enviados através de correio prioritário a: BANDAI NAMCO Entertainment America Inc., Attn: Legal &amp; Business Affairs Department, 2051 Mission College Blvd., Santa Clara, CA 95054, EUA. Se Você e a BNEA não concordarem em resolver essa disputa ou Reivindicação no prazo de 30 dias após o recebimento da notificação por escrito, a parte que solicita a disputa ou Reivindicação pode mover uma ação de arbitragem contra a outra, conforme permitido pelo Acordo de Arbitragem acima.
+ii. Procedimento de Arbitragem. A arbitragem é um processo juridicamente vinculativo, através do qual uma das partes pode solicitar tutelas judiciais de ou contra outra parte, semelhante a uma ação judicial levada ao tribunal, mas que geralmente impõe menos formalidades processuais estritas, é realizado perante uma terceira parte que age como árbitro neutro (em vez de perante um juiz ou júri), prevê divulgação mais limitada e custos jurídicos potencialmente reduzidos para cada parte, e está sujeito a revisão limitada pelos tribunais. O procedimento de arbitragem de qualquer Reivindicação nos termos deste Acordo de Arbitragem será regido pelas Regras de Arbitragem Comercial da Associação Americana de Arbitragem ("AAA") e, sempre que possível, pelos Procedimentos Complementares para Disputas Relacionadas ao Consumidor. Os dois documentos estão disponíveis no endereço http://www.adr.org. Não obstante o acima disposto, Você e a BNEA concordam que qualquer arbitragem será realizada em língua inglesa, e permitem o envio eletrônico de documentos e a participação por telefone ou teleconferência, ou em pessoa, em um local mutuamente acordado.
+iii. Reivindicações excluídas. Não obstante o disposto acima, os termos deste Acordo de Arbitragem não impedirão que Você ou a BNEA levem qualquer Reivindicação: (i) ao conhecimento de quaisquer órgãos governamentais locais, estaduais ou federais com a autoridade governamental e jurisdição competente para entrar em Seu nome ou em nome da BNEA contra a outra parte ou (ii) perante um tribunal de pequenas causas, sujeito às limitações de competência e exigências do tribunal de pequenas causas.
+iv. Desvinculação do Acordo de Arbitragem. Você e a BNEA concordam que nenhuma disposição do presente Acordo de Arbitragem poderá ser executada contra Você ou a BNEA e todas as Reivindicações serão regidas pela Seção 17, a seguir, caso ocorra pelo menos uma das seguintes hipóteses: (i) um tribunal de jurisdição competente determine de forma conclusiva que qualquer termo ou disposição deste Acordo de Arbitragem é inaplicável, proibido pela lei aplicável, ou não aplicável a qualquer Reivindicação ou (ii) Você envie um devido Aviso de Recusa (em conformidade com a Subseção 16.c), em que Você expressou Sua escolha de não optar por este Acordo de Arbitragem.
+b. RENÚNCIA A AÇÕES COLETIVAS. VOCÊ E BNEA CONCORDAM QUE: (i) CADA REIVINDICAÇÃO É PESSOAL PARA VOCÊ E A BNEA E SÓ SERÁ REALIZADA COMO ARBITRAGEM INDIVIDUAL (OU UM PROCESSO INDIVIDUAL NO TRIBUNAL, EM RELAÇÃO A REIVINDICAÇÕES EXCLUÍDAS DO ACORDO DE ARBITRAGEM, NOS TERMOS DA SUBPARTE 16.a.iii) E NÃO COMO UMA AÇÃO COLETIVA OU OUTRA FORMA DE AÇÃO REPRESENTATIVA; (ii) RENUNCIAM EXPRESSAMENTE A QUALQUER DIREITO DE APRESENTAR OU PARTICIPAR DE UMA AÇÃO COLETIVA OU BUSCAR INDENIZAÇÃO EM BASE REPRESENTATIVA OU COLETIVA E (iii) O ÁRBITRO (OU TRIBUNAL, EM RELAÇÃO ÀS AÇÕES EXCLUÍDAS DO ACORDO DE ARBITRAGEM, DE ACORDO COM A SUBPARTE 16.a.iii) SÓ PODERÁ REALIZAR UMA ARBITRAGEM INDIVIDUAL (OU AÇÃO EM TRIBUNAL, EM RELAÇÃO ÀS AÇÕES EXCLUÍDAS DO ACORDO DE ARBITRAGEM, DE ACORDO COM A SUBPARTE 16.a.iii), NÃO PODENDO CONSOLIDAR REIVINDICAÇÕES DE MAIS DE UM INDIVÍDUO, E NÃO PODE PRESIDIR QUALQUER FORMA DE PROCESSO REPRESENTATIVO OU COLETIVO RELATIVO A ESSAS REIVINDICAÇÕES. A MENOS QUE VOCÊ ENVIE O DEVIDO AVISO DE RECUSA (CONFORME DESCRITO NA SUBSEÇÃO 16.c) VOCÊ E A BNEA CONCORDAM QUE CADA UM PODERÁ LEVANTAR REIVINDICAÇÕES CONTRA A OUTRA APENAS NA SUA CAPACIDADE INDIVIDUAL, E NÃO COMO UM AUTOR OU MEMBRO COLETIVO EM QUALQUER PROCESSO REPRESENTATIVO OU COLETIVO.
+i. Desvinculação de Renúncia a Ações Coletivas. Você e a BNEA concordam que nenhuma disposição da presente Renúncia a Ações Coletivas poderá ser executada contra Você ou a BNEA e todas as Reivindicações serão regidas pela Seção 17, a seguir, caso ocorra pelo menos uma das seguintes hipóteses: (i) um tribunal de jurisdição competente determine de forma conclusiva que qualquer termo ou disposição desta Renúncia a Ações Coletivas é inaplicável, proibido pela lei aplicável, ou não aplicável a qualquer Reivindicação ou (ii) Você envie um devido Aviso de Recusa (em conformidade com a Subseção 16.c), em que Você expresse Sua escolha de não optar por esta Renúncia a Ações Coletivas. Sob nenhuma hipótese a desvinculação da Renúncia a Ações Coletivas será interpretada ou considerada como consentimento por Você ou pela BNEA para participar de uma ação coletiva ou arbitragem coletiva.
+c. PROCEDIMENTO DE RECUSA. Você tem o direito de não optar e não ficar vinculado pelo Acordo de Arbitragem e pela Renúncia a Ações Coletivas acima apresentados, através do envio de uma notificação por escrito de Sua escolha onde Você opte por não aderir ao Acordo de Arbitragem e/ou Renúncia a Ações Coletivas (o "Aviso de Recusa") em estrita conformidade com os seguintes requisitos das subpartes 16.c.i a 16.c.iii:
+i. Forma e endereço. Seu Aviso de Recusa deve ser enviado para o seguinte endereço: BANDAI NAMCO Entertainment America Inc., ATTN: Legal &amp; Business Affairs, 2051 Mission College Blvd., Santa Clara, CA 95054, EUA, por: (i) correio prioritário, com envio pré-pago, certificado e com recibo de retorno ou (ii) serviço de envio rápido (como Federal Express).
+ii. Limitações de tempo. A menos que um período mais longo seja exigido pela lei aplicável, o Seu Aviso de Recusa deve ser enviado dentro de: (i) 30 dias após a compra da Sua cópia do Jogo ou (ii) se nenhuma compra foi feita, então dentro de 30 dias a contar da data de Seu primeiro acesso ou uso de Sua cópia do Jogo.
+iii. Informações necessárias. Seu Aviso de Recusa deve incluir: (i) o título do Jogo específico ao qual o Seu Aviso de Recusa destina-se a ser aplicado; (ii) Seu nome e sobrenome; (iii) Seu endereço; (iv) Seu número de telefone; (v) Seu endereço de e-mail; (vi) se Você for um usuário registrado do Jogo ou de qualquer outro produto ou serviço da BNEA, cada um de Seus nomes de usuário do Jogo e de quaisquer outros produtos e serviços da BNEA; e (vii) uma declaração de que Você não concorda com o Acordo de Arbitragem e/ou com a Renúncia a Ações Coletivas. A BNEA pode usar as informações acima incluídas no Aviso de Recusa para registrar, processar, manter e administrar a Sua recusa do Acordo de Arbitragem e/ou Renúncia a Ações Coletivas, conforme o caso, mas não para fins de marketing.
+iv. Efeitos do Aviso de Recusa. Se o Seu Aviso de Recusa atender a todos os requisitos acima, Você e a BNEA serão considerados como tendo optado por não aderir ao Acordo de Arbitragem e/ou à Renúncia a Ações Coletivas, sujeito à Sua declaração nesse Aviso de Recusa, no que diz respeito a este EULA. O envio de um Aviso de Recusa válido aplica-se apenas a Reivindicações decorrentes ou relacionadas ao Jogo e ao EULA nele identificados, e entre a BNEA e o indivíduo identificado no Aviso de Recusa.
+v. Efeitos do Aviso de Recusa inadequado. Se Você enviar um Aviso de Recusa que não cumpra qualquer dos requisitos estabelecidos nas Subpartes 16.c.i a 16.c.iii, Você e a BNEA estarão vinculados pelo Acordo de Arbitragem e pela Renúncia a Ações Coletivas definidos neste EULA.</text>
+<text id="611018">
+
+17. DIREITO APLICÁVEL E FORO.
+a. Na medida exigida pela lei aplicável, todos os termos e disposições do presente EULA serão regidos e interpretados de acordo com todas as leis aplicáveis obrigatórias, mesmo se inconsistente com a lei definida nas seguintes subpartes desta Subseção 17.a:
+i. Para todos os usuários: (i) as leis do Estado da Califórnia (EUA), excluindo suas regras de conflitos de leis, regem este EULA e/ou o Seu uso do Jogo e (ii) Você concorda expressamente que, para reclamações e disputas que não estão sujeitas ao Acordo de Arbitragem na Seção 16.a, acima, a competência exclusiva para qualquer reivindicação ou ação decorrente ou relacionada a este EULA e/ou o Seu uso do Jogo será dos tribunais federais ou estaduais que regem o Condado de Santa Clara, Califórnia, EUA, e Você concorda expressamente com o exercício da competência em razão da pessoa (ratione personae) de tais tribunais. Observe que a Sua conduta também pode estar sujeita a outras leis locais, estaduais, nacionais e internacionais. As partes concordam que a Convenção das Nações Unidas sobre Contratos para a Venda Internacional de Mercadorias (Viena, 1980) não se aplica a esta Licença ou a qualquer disputa ou transação decorrente deste EULA.
+b. Sob nenhuma hipótese a aplicação ou interpretação dos termos deste EULA, sob qualquer lei competente contemplada por qualquer subparte da subseção 17.a excluirá, limitará, ou restringirá quaisquer direitos adquiridos Seus, como consumidor, em qualquer lei de proteção do consumidor aplicável.</text>
+<text id="611019">
+
+18. DISPOSIÇÕES GERAIS. Caso um tribunal de jurisdição competente determine conclusivamente que qualquer termo ou disposição do presente EULA seja inaplicável, inexequível, proibido pela lei aplicável ou nulo, essa disposição será eliminada e todas as outras disposições continuarão em vigor e serão executadas como se a disposição inexequível, proibida ou inválida não fizesse parte do EULA. A omissão da BNEA com relação a qualquer violação cometida por Você ou por outras partes não significa uma renúncia ao direito que a empresa tem de tomar uma atitude com relação a violações posteriores ou parecidas. Na medida do permitido pela lei aplicável, Você não pode ceder ou transferir este EULA ou os direitos concedidos a Você sob este EULA e, salvo se proibido, qualquer tentativa do contrário será nula ab initio. Este EULA estabelece o completo entendimento e acordo entre a BNEA e Você em relação à Sua posse, instalação, acesso, reprodução ou outro uso do Jogo, sob qualquer forma.</text>
+<text id="611020">
+
+Se Você tiver alguma dúvida sobre este EULA, Você pode contatar o suporte ao cliente da BNEA em https://www.bandainamcoent.com/support ou escrevendo para nós: BANDAI NAMCO Entertainment America Inc., 2051 Mission College Blvd., Santa Clara, CA 95054, EUA.</text>
+<text id="611021">%null%</text>
+<text id="611022">%null%</text>
+<text id="611023">%null%</text>
+<text id="612000">%null%</text>
+<text id="612001">%null%</text>
+<text id="612002">%null%</text>
+<text id="612003">%null%</text>
+<text id="612004">%null%</text>
+<text id="612005">%null%</text>
+<text id="612006">%null%</text>
+<text id="612007">%null%</text>
+<text id="612008">%null%</text>
+<text id="612009">%null%</text>
+<text id="612010">%null%</text>
+<text id="612011">%null%</text>
+<text id="612012">%null%</text>
+<text id="612013">%null%</text>
+<text id="612014">%null%</text>
+<text id="612015">%null%</text>
+<text id="612016">%null%</text>
+<text id="612017">%null%</text>
+<text id="612018">%null%</text>
+<text id="612019">%null%</text>
+<text id="612020">%null%</text>
+<text id="612021">%null%</text>
+<text id="612022">%null%</text>
+<text id="612023">%null%</text>
+<text id="613000">%null%</text>
+<text id="613001">%null%</text>
+<text id="613002">%null%</text>
+<text id="613003">%null%</text>
+<text id="613004">%null%</text>
+<text id="613005">%null%</text>
+<text id="613006">%null%</text>
+<text id="613007">%null%</text>
+<text id="613008">%null%</text>
+<text id="613009">%null%</text>
+<text id="613010">%null%</text>
+<text id="613011">%null%</text>
+<text id="613012">%null%</text>
+<text id="613013">%null%</text>
+<text id="613014">%null%</text>
+<text id="613015">%null%</text>
+<text id="613016">%null%</text>
+<text id="613017">%null%</text>
+<text id="613018">%null%</text>
+<text id="613019">%null%</text>
+<text id="613020">%null%</text>
+<text id="613021">%null%</text>
+<text id="613022">%null%</text>
+<text id="613023">%null%</text>
+</entries>
+</fmg>

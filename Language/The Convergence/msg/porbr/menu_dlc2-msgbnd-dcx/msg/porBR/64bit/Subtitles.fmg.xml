@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000000">Ah, sim.</text>
+<text id="1000001">Chama-se Lothric,</text>
+<text id="1000002">o lugar onde as terras transitórias dos Lordes das Cinzas convergem.</text>
+<text id="1000100">Aventurando-se ao norte,</text>
+<text id="1000101">os peregrinos descobrem a verdade das antigas palavras.</text>
+<text id="1000200">"O fogo desvanece...</text>
+<text id="1000201">... e os lordes ficam sem tronos."</text>
+<text id="1000300">Quando a acensão do fogo é ameaçada, o sino toca,</text>
+<text id="1000301">trazendo os antigos Lordes das Cinzas de volta de seus túmulos.</text>
+<text id="1000400">Aldrich, Santo das Profundezas.</text>
+<text id="1000401">A Legião dos Mortos-vivos de Farron, os Vigilantes do Abismo.</text>
+<text id="1000402">E o recluso lorde da Capital Profanada,</text>
+<text id="1000403">Yhorm, o Gigante.</text>
+<text id="1000500">Contudo, na verdade...</text>
+<text id="1000501">Os lordes abandonarão seus tronos</text>
+<text id="1000502">e os Inacesos surgirão.</text>
+<text id="1000600">Mortos-vivos amaldiçoados e sem nome, indignos até mesmo de se tornarem cinzas.</text>
+<text id="1000601">Então é isso.</text>
+<text id="1000602">Que cinzas busquem brasas.</text>
+</entries>
+</fmg>

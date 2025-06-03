@@ -1,0 +1,2747 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="3000">Elementary sorcery.
+Fire soul arrow.
+
+Soul arrows inflict magic damage, making them
+effective against iron armor, tough scales,
+and other physically resilient materials.</text>
+<text id="3001">%null%</text>
+<text id="3002">%null%</text>
+<text id="3003">%null%</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">Sorcery which improves upon Soul Arrow.
+Fire strong soul arrow.
+
+At the Vinheim Dragon School,
+the acquisition of this spell marks an
+apprentice's coronation as a sorcerer.
+</text>
+<text id="3011">%null%</text>
+<text id="3012">%null%</text>
+<text id="3013">%null%</text>
+<text id="3014">%null%</text>
+<text id="3015">%null%</text>
+<text id="3016">%null%</text>
+<text id="3017">%null%</text>
+<text id="3018">%null%</text>
+<text id="3019">%null%</text>
+<text id="3020">Soul sorcery emphasizing power.
+Fire heavy soul arrow.
+
+A more powerful, but also slower sorcery.
+Difficult to use due to a long cool down and
+a limitation on the number of castings.</text>
+<text id="3021">%null%</text>
+<text id="3022">%null%</text>
+<text id="3023">%null%</text>
+<text id="3024">%null%</text>
+<text id="3025">%null%</text>
+<text id="3026">%null%</text>
+<text id="3027">%null%</text>
+<text id="3028">%null%</text>
+<text id="3029">%null%</text>
+<text id="3030">Sorcery which improves upon Heavy Soul Arrow.
+Fire strong heavy soul arrow.
+
+As difficult to use as Heavy Soul Arrow,
+but powerful enough to make it well worth it.
+Adored by certain sorcerers.</text>
+<text id="3031">%null%</text>
+<text id="3032">%null%</text>
+<text id="3033">%null%</text>
+<text id="3034">%null%</text>
+<text id="3035">%null%</text>
+<text id="3036">%null%</text>
+<text id="3037">%null%</text>
+<text id="3038">%null%</text>
+<text id="3039">%null%</text>
+<text id="3040">Sorcery developed by Big Hat Logan.
+Fire homing soulmass.
+
+Life originates in the soul; no wonder the
+soulmass draws toward it. This sorcery is a
+window into seeker Logan's methods.</text>
+<text id="3041">%null%</text>
+<text id="3042">%null%</text>
+<text id="3043">%null%</text>
+<text id="3044">%null%</text>
+<text id="3045">%null%</text>
+<text id="3046">%null%</text>
+<text id="3047">%null%</text>
+<text id="3048">%null%</text>
+<text id="3049">%null%</text>
+<text id="3050">Sorcery boosted by the knowledge.
+Logan acquired at the Regal Archives.
+Fire homing crystal soulmass.
+
+The mysteries of souls, crystals, and the
+sorceries are deeply intertwined.</text>
+<text id="3051">%null%</text>
+<text id="3052">%null%</text>
+<text id="3053">%null%</text>
+<text id="3054">%null%</text>
+<text id="3055">%null%</text>
+<text id="3056">%null%</text>
+<text id="3057">%null%</text>
+<text id="3058">%null%</text>
+<text id="3059">%null%</text>
+<text id="3060">Sorcery developed by Big Hat Logan.
+Fire piercing soul spear.
+
+A symbol of Logan's strength, the soul spear
+is referenced repeatedly in the legends, and
+is said to be on par with Lord Gwyn's lightning.</text>
+<text id="3061">%null%</text>
+<text id="3062">%null%</text>
+<text id="3063">%null%</text>
+<text id="3064">%null%</text>
+<text id="3065">%null%</text>
+<text id="3066">%null%</text>
+<text id="3067">%null%</text>
+<text id="3068">%null%</text>
+<text id="3069">%null%</text>
+<text id="3070">Sorcery boosted by the knowledge.
+Logan acquired at the Regal Archives.
+Fire piercing crystal soul spear.
+
+These pale magic spears, sharpened
+through crystallization, are on par with
+the armaments of the ancient lords.</text>
+<text id="3100">Sorcery for casters who wield swords.
+Magic augmentation: right weapon.
+
+The power of the magic swordsmen of Vinheim
+is predicated upon this and Magic Shield.
+Many warriors learn sorcery just for this.</text>
+<text id="3101">%null%</text>
+<text id="3102">%null%</text>
+<text id="3103">%null%</text>
+<text id="3104">%null%</text>
+<text id="3105">%null%</text>
+<text id="3106">%null%</text>
+<text id="3107">%null%</text>
+<text id="3108">%null%</text>
+<text id="3109">%null%</text>
+<text id="3110">Sorcery which improves upon Magic Weapon.
+High magic augmentation: right weapon.
+
+At Vinheim Dragon School, only magic
+swordsmen on special orders are allowed
+to learn this spell which grants powerful
+augmentation to various weapons.</text>
+<text id="3111">%null%</text>
+<text id="3112">%null%</text>
+<text id="3113">%null%</text>
+<text id="3114">%null%</text>
+<text id="3115">%null%</text>
+<text id="3116">%null%</text>
+<text id="3117">%null%</text>
+<text id="3118">%null%</text>
+<text id="3119">%null%</text>
+<text id="3120">Sorcery boosted by the knowledge.
+Logan acquired at the Regal Archive.
+High magic + crystallization: right weapon
+
+Logan's trials were successful, and the
+crystal medium facilitated a stronger bond
+between weapon and soul.</text>
+<text id="3300">Sorcery for casters who wield swords.
+Magic augmentation: left shield.
+
+Shields augmented by magic are resistant to
+magic attacks and have higher stability.
+This spell makes it possible to challenge
+powerful foes with a small shield.</text>
+<text id="3301">%null%</text>
+<text id="3302">%null%</text>
+<text id="3303">%null%</text>
+<text id="3304">%null%</text>
+<text id="3305">%null%</text>
+<text id="3306">%null%</text>
+<text id="3307">%null%</text>
+<text id="3308">%null%</text>
+<text id="3309">%null%</text>
+<text id="3310">Sorcery which improves upon Magic Shield.
+High magic augmentation: left shield.
+
+At Vinheim Dragon School, only magic
+swordsmen on special orders are allowed
+to learn this spell which grants temporary
+strength to greatshields.</text>
+<text id="3400">Ancient sorcery of the lost land of Oolacile.
+Turns right weapon invisible.
+
+Not a simple augmentation, making it
+dependent on the skill of its caster. 
+An example of the capacity of Oolacile
+sorceries to control light.</text>
+<text id="3401">%null%</text>
+<text id="3402">%null%</text>
+<text id="3403">%null%</text>
+<text id="3404">%null%</text>
+<text id="3405">%null%</text>
+<text id="3406">%null%</text>
+<text id="3407">%null%</text>
+<text id="3408">%null%</text>
+<text id="3409">%null%</text>
+<text id="3410">Ancient sorcery of the lost land of Oolacile.
+Turns body nearly invisible.
+
+Although perfect invisibility is unachievable
+due to the risk of dissipation, the caster
+need only stand still for a moment to blend
+in to environs with astounding camouflage.
+
+
+
+</text>
+<text id="3500">Ancient sorcery of the lost land of Oolacile.
+Cast a bright light upon surroundings.
+
+This light-producing sorcery is elementary
+but nonetheless demonstrates the achievements
+in mysticism of Oolacile. Such magic has
+not been developed even in Vinheim.</text>
+<text id="3501">%null%</text>
+<text id="3502">%null%</text>
+<text id="3503">%null%</text>
+<text id="3504">%null%</text>
+<text id="3505">%null%</text>
+<text id="3506">%null%</text>
+<text id="3507">%null%</text>
+<text id="3508">%null%</text>
+<text id="3509">%null%</text>
+<text id="3510">Sorcery developed by a certain surreptitious
+sorcerer at Vinheim Dragon School.
+Masks all noises of caster.
+
+Effectively, Vinheim is controlled by the
+Dragon School, and it is no wonder that the
+town has its share of dark secrets.</text>
+<text id="3511">%null%</text>
+<text id="3512">%null%</text>
+<text id="3513">%null%</text>
+<text id="3514">%null%</text>
+<text id="3515">%null%</text>
+<text id="3516">%null%</text>
+<text id="3517">%null%</text>
+<text id="3518">%null%</text>
+<text id="3519">%null%</text>
+<text id="3520">Sorcery used by playful sorcerers.
+Lure enemies away by creating a
+sound originating in the distance.
+
+This spell is not the first choice for
+serious sorcerers, but it has a surprising
+amount of applications, some of them
+extremely effective.
+</text>
+<text id="3521">%null%</text>
+<text id="3522">%null%</text>
+<text id="3523">%null%</text>
+<text id="3524">%null%</text>
+<text id="3525">%null%</text>
+<text id="3526">%null%</text>
+<text id="3527">%null%</text>
+<text id="3528">%null%</text>
+<text id="3529">%null%</text>
+<text id="3530">Ancient sorcery of the lost land of Oolacile.
+Repair equipped weapons and armor.
+
+This sorcery was a part of everyday life in
+Oolacile. Its effects resemble Repair Powder,
+which must have found its way into the
+culture of this lost land.
+</text>
+<text id="3531">%null%</text>
+<text id="3532">%null%</text>
+<text id="3533">%null%</text>
+<text id="3534">%null%</text>
+<text id="3535">%null%</text>
+<text id="3536">%null%</text>
+<text id="3537">%null%</text>
+<text id="3538">%null%</text>
+<text id="3539">%null%</text>
+<text id="3540">Sorcery developed by a certain surreptitious
+sorcerer at Vinheim Dragon School.
+Reduce damage and noise from fall.
+
+This sorcery, along with Hush, explains the
+extravagant cost of hiring Vinheim spooks.
+
+
+</text>
+<text id="3541">%null%</text>
+<text id="3542">%null%</text>
+<text id="3543">%null%</text>
+<text id="3544">%null%</text>
+<text id="3545">%null%</text>
+<text id="3546">%null%</text>
+<text id="3547">%null%</text>
+<text id="3548">%null%</text>
+<text id="3549">%null%</text>
+<text id="3550">Ancient sorcery of the lost land of Oolacile.
+Transform into something inconspicuous.
+
+A separate stealth spell from Hidden Body.
+A skilled stealth sorcerer must be aware of
+his or her surroundings and of which
+objects are prime candidates for imitation.
+</text>
+<text id="3600">Sorcery of the red-robed remedician.
+Ingward, guardian of the seal in New Londo
+Sacrifice humanity to undo curse.
+
+Abhorrent curses eat away at the core of
+one's very existence, and cleansing oneself
+of curses is no easy task indeed.</text>
+<text id="3601">%null%</text>
+<text id="3602">%null%</text>
+<text id="3603">%null%</text>
+<text id="3604">%null%</text>
+<text id="3605">%null%</text>
+<text id="3606">%null%</text>
+<text id="3607">%null%</text>
+<text id="3608">%null%</text>
+<text id="3609">%null%</text>
+<text id="3610">Sorcery of the red-robed Yulva,
+one of the Sealers of New Londo.
+Reduce bleeding and poison build-up,
+and undo various poisonous effects.
+
+One of New Londo's unique healing sorceries.
+Perhaps she abandoned her Sealer duty to
+take her healing arts back to Blighttown.</text>
+<text id="3700">Sorcery developed by Logan during his
+infatuation with Seath the Scaleless.
+Emit crystal breath of Seath the Scaleless.
+
+Although it no longer causes curses, what
+madness caused old Big Hat to appropriate
+this frightful power of the ancient dragons?</text>
+<text id="4000">Standard pyromancy of the Great Swamp.
+Hurl fireball.
+
+The fire damage caused by fireballs makes
+them effective against corporeal beasts and
+Undead, who by nature fear flame.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">Pyromancy which improves upon Fireball.
+Hurl fire orb.
+
+The flaming fire orb explodes upon impact,
+causing fire splash damage in a spectacle
+which seems to symbolize the strength of
+the fire-manipulating pyromancers.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">%null%</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">Ultimate fireball pyromancy.
+Hurl giant fireball.
+
+Salaman the Master Pyromancer, also called
+the Great Fireball after this spell, believed
+pyromancy was rooted in an adoration of fire.
+Those who acquire this spell usually agree.
+
+</text>
+<text id="4021">%null%</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">%null%</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">Primal pyromancy taught by Quelana of Izalith.
+Erect fire pillars in vicinity.
+
+The storm of flame is indiscriminate,
+and incinerates all nearby life.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">Primal pyromancy of Quelana of Izalith.
+Erect giant fire pillars in vicinity.
+
+The tempestuous raging flames resemble those
+summoned by the Daughters of Chaos when they
+challenged the ancient dragons and scorched
+the very earth.</text>
+<text id="4041">%null%</text>
+<text id="4042">%null%</text>
+<text id="4043">%null%</text>
+<text id="4044">%null%</text>
+<text id="4045">%null%</text>
+<text id="4046">%null%</text>
+<text id="4047">%null%</text>
+<text id="4048">%null%</text>
+<text id="4049">%null%</text>
+<text id="4050">Pyromancy foreign to the Great Swamp.
+Create a surge of flame from palm of hand.
+
+Not all pyromancy originates in the Great
+Swamp. One hears rumors of unknown
+pyromancers inhabiting various lands, and
+this spell is the work of one such outlander.</text>
+<text id="4051">%null%</text>
+<text id="4052">%null%</text>
+<text id="4053">%null%</text>
+<text id="4054">%null%</text>
+<text id="4055">%null%</text>
+<text id="4056">%null%</text>
+<text id="4057">%null%</text>
+<text id="4058">%null%</text>
+<text id="4059">%null%</text>
+<text id="4060">Primal pyromancy taught by Quelana of Izalith.
+Sweep foes with fire whip.
+
+The root pyromancy of Combustion,
+but much more difficult to wield.</text>
+<text id="4100">Elementary pyromancy.
+Create powerful flame in hand.
+
+One of the most basic pyromancies.
+For this very reason, the flame thus
+created is fierce.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Pyromancy which improves upon Combustion.
+Create powerful, giant flame in hand.
+
+Great Combustion creates a powerful flame,
+but many sorcerers mock the simplicity of
+this spell.</text>
+<text id="4200">Unique pyromancy crafted by Eingyi,
+considered a heretic even at the Great Swamp
+Create poison mist.
+
+Eingyi became an egg-bearing Undead who
+serves a deformed young girl who speaks
+an unintelligible tongue.</text>
+<text id="4201">%null%</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Unique pyromancy crafted by Eingyi,
+considered a heretic even at the Great Swamp
+Create intense poison mist.
+
+Why was Eingyi driven from the Great Swamp?
+One only need cast this pyromancy, a perverse
+diversion from the art of fire, to find out.</text>
+<text id="4211">%null%</text>
+<text id="4212">%null%</text>
+<text id="4213">%null%</text>
+<text id="4214">%null%</text>
+<text id="4215">%null%</text>
+<text id="4216">%null%</text>
+<text id="4217">%null%</text>
+<text id="4218">%null%</text>
+<text id="4219">%null%</text>
+<text id="4220">Pyromancy foreign to the Great Swamp.
+Emit acid which corrodes weapons and armor.
+
+Not all pyromancy originates in the Great
+Swamp. One hears rumors of unknown
+pyromancers inhabiting various lands, and
+this spell is the work of one such outlander.</text>
+<text id="4300">Pyromancy of Carmina, who harnessed the power
+of flame to actualize the inner-self.
+Iron flesh boosts defense and resilience.
+
+Use of this pyromancy requires caution,
+as the caster becomes exceedingly heavy
+and unable to move freely.</text>
+<text id="4301">%null%</text>
+<text id="4302">%null%</text>
+<text id="4303">%null%</text>
+<text id="4304">%null%</text>
+<text id="4305">%null%</text>
+<text id="4306">%null%</text>
+<text id="4307">%null%</text>
+<text id="4308">%null%</text>
+<text id="4309">%null%</text>
+<text id="4310">Pyromancy of Carmina, who harnessed the power
+of flame to actualize the inner-self.
+Intense sweating reduces flame damage.
+
+Carmina, the most accomplished pupil of
+Salaman the Master Pyromancer, pioneered
+new directions for the art of pyromancy.</text>
+<text id="4311">%null%</text>
+<text id="4312">%null%</text>
+<text id="4313">%null%</text>
+<text id="4314">%null%</text>
+<text id="4315">%null%</text>
+<text id="4316">%null%</text>
+<text id="4317">%null%</text>
+<text id="4318">%null%</text>
+<text id="4319">%null%</text>
+<text id="4320">%null%</text>
+<text id="4360">Advanced pyromancy of Quelana of Izalith.
+Charm Undead and gain temporary allies.
+
+The living are lured by flame, and this
+relationship is part and parcel to the art of
+pyromancy. Can be used by either gender.</text>
+<text id="4400">Pyromancy of Carmina, who harnessed the power
+of flame to actualize the inner-self.
+Short strength/endurance boost, but lose HP.
+
+Excessive power eats away the life-force of
+its caster, and like all dangerous spells,
+Power Within was kept secret for eons.</text>
+<text id="4500">Art of the Flame of Chaos, which engulfed
+the Witch of Izalith and her daughters.
+Hurl giant chaos fireball, which changes
+strength depending on humanity.
+
+The Flame of Chaos can melt stone,
+producing a short-lived lava glob.</text>
+<text id="4501">%null%</text>
+<text id="4502">%null%</text>
+<text id="4503">%null%</text>
+<text id="4504">%null%</text>
+<text id="4505">%null%</text>
+<text id="4506">%null%</text>
+<text id="4507">%null%</text>
+<text id="4508">%null%</text>
+<text id="4509">%null%</text>
+<text id="4510">Art of the Flame of Chaos, which engulfed
+the Witch of Izalith and her daughters.
+Erect localized chaos fire pillars which
+change strength depending on humanity.
+
+The Witch of Izalith, in an ambitious attempt
+to copy the First Flame, created instead the
+Flame of Chaos, a twisted bed of life.</text>
+<text id="4511">%null%</text>
+<text id="4512">%null%</text>
+<text id="4513">%null%</text>
+<text id="4514">%null%</text>
+<text id="4515">%null%</text>
+<text id="4516">%null%</text>
+<text id="4517">%null%</text>
+<text id="4518">%null%</text>
+<text id="4519">%null%</text>
+<text id="4520">Art of the Flame of Chaos, which engulfed
+the Witch of Izalith and her daughters.
+Sweep foes with chaos fire whip which
+changes strength depending on humanity.
+
+The fire whip was wielded by the
+eldest of the Daughters of Chaos.</text>
+<text id="5000">Elementary miracle cast by clerics.
+Restores HP.
+
+To cast a miracle, the caster learns a tale
+of the Gods, and says a prayer to be blessed
+by its revelations. Heal is the shortest
+of such miraculous tales.</text>
+<text id="5001">%null%</text>
+<text id="5002">%null%</text>
+<text id="5003">%null%</text>
+<text id="5004">%null%</text>
+<text id="5005">%null%</text>
+<text id="5006">%null%</text>
+<text id="5007">%null%</text>
+<text id="5008">%null%</text>
+<text id="5009">%null%</text>
+<text id="5010">Great miracle cast by advanced clerics.
+Restores high HP.
+
+Great Heal is a long tale, only learned by a
+select few. No caster will be disappointed
+by the bountiful life that it yields.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">Great miracle cast by advanced clerics.
+Restores high HP.
+
+Great Heal Excerpt borrows from only
+several verses of Great Heal. As a result,
+it can only be cast a stark few times.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">Special miracle granted to the maidens
+of Gwynevere, Princess of the Sun.
+Restores high HP for self and vicinity.
+
+The miracles of Gwynevere, the princess 
+cherished by all, grant their blessing to
+a great many warriors.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">Common miracle amongst cleric knights.
+Gradual HP restoration.
+
+Beware of the cleric knight blessed by
+Replenishment, for he shall not fall easily.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">Special miracle granted to the maidens
+of Gwynevere, Princess of the Sun.
+Gradual HP restoration for self and vicinity.
+
+The miracles of Gwynevere, the princess 
+cherished by all, grant their blessing to
+a great many warriors.</text>
+<text id="5100">Miracle known only by the servants of
+the first dead, Gravelord Nito.
+Giant Gravelord swords jut out in vicinity.
+
+Nito sleeps deep within the Giant Catacombs,
+quietly overseeing all death, and waiting for
+his servants to usher in the Eye of Death.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">%null%</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">Miracle known only by the servants of
+the first dead, Gravelord Nito.
+Giant Gravelord swords jut out in vicinity.
+
+Many have died, and many eyes were claimed to
+realize the Greatsword Dance, a Gravelord
+ritual known only by his closest servants.</text>
+<text id="5200">Lost miracle, foreign to the Way of White
+While active, no losses incurred upon death
+
+The Way of White recognizes death itself,
+but admonishes the Undead. It is for this
+very reason that this miracle was lost.</text>
+<text id="5201">%null%</text>
+<text id="5202">%null%</text>
+<text id="5203">%null%</text>
+<text id="5204">%null%</text>
+<text id="5205">%null%</text>
+<text id="5206">%null%</text>
+<text id="5207">%null%</text>
+<text id="5208">%null%</text>
+<text id="5209">%null%</text>
+<text id="5210">Great miracle cast by advanced clerics.
+Return to last bonfire rested at.
+
+Would normally link to one's homeland,
+only the curse of the Undead has distorted
+its power, redirecting casters to a bonfire.
+Or perhaps for Undead, this serves as home?
+</text>
+<text id="5300">Common miracle amongst cleric knights.
+Create shockwave.
+
+This quickly-acting miracle inflicts no
+damage, but propels foes back and defends
+against arrows. Cleric knights use this
+miracle when charging into enemy mobs.
+
+
+
+</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">Primal form of Force.
+Create powerful shockwave.
+
+Wrath of the Gods was an epic tale that
+tattered over time and devolved into the
+modern Force. This primal form of Force
+emits a shockwave that also inflicts damage.</text>
+<text id="5311">%null%</text>
+<text id="5312">%null%</text>
+<text id="5313">%null%</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Outland miracle, foreign to the Way of White.
+Emit shockwave.
+
+Considered an alternate branching of Force.
+Emits an expanding shockwave orb.</text>
+<text id="5400">Miracle of clerics on an Undead mission.
+Display more guidance from other worlds.
+
+Guidance facilitates communication between
+Undead, but their value varies greatly.
+A balance of faith and wisdom is required.</text>
+<text id="5500">Miracle passed down to those bound by
+the Warrior of Sunlight covenant.
+Hurl lightning spear.
+
+Lightning spears inflict rare lightning
+damage, and are very effective against
+magic, fire, and most of all, dragons.</text>
+<text id="5501">%null%</text>
+<text id="5502">%null%</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Miracle passed down to those bound by
+the Warrior of Sunlight covenant.
+Hurl giant lightning spear.
+
+The weapon of the God of War, who inherited
+the sunlight of Lord Gwyn, but had
+respect only for arms, and nothing else.</text>
+<text id="5511">%null%</text>
+<text id="5512">%null%</text>
+<text id="5513">%null%</text>
+<text id="5514">%null%</text>
+<text id="5515">%null%</text>
+<text id="5516">%null%</text>
+<text id="5517">%null%</text>
+<text id="5518">%null%</text>
+<text id="5519">%null%</text>
+<text id="5520">Miracle born from the fading soul of Gwyn.
+Hurl sunlight spear.
+
+In the war that marked the dawn of the Age
+of Fire, Gwyn wielded these rays of sunlight,
+which remain fierce even as they fade.</text>
+<text id="5600">Miracle of Bishop Havel the Rock.
+Cover body in defensive magic coating.
+
+This coating greatly boosts magic defense,
+assisting warriors who must face the magic
+which Bishop Havel countered so proficiently.</text>
+<text id="5601">%null%</text>
+<text id="5602">%null%</text>
+<text id="5603">%null%</text>
+<text id="5604">%null%</text>
+<text id="5605">%null%</text>
+<text id="5606">%null%</text>
+<text id="5607">%null%</text>
+<text id="5608">%null%</text>
+<text id="5609">%null%</text>
+<text id="5610">Miracle of Bishop Havel the Rock.
+Cover body in powerful def. magic coating.
+
+Havel the Rock, an old battlefield compatriot
+of Lord Gwyn, was the sworn enemy of Seath
+the Scaleless. He despised magic, and made
+certain to devise means of counteraction.</text>
+<text id="5700">Miracle of the black-haired witch Velka.
+Temporary auto counter vs. heavy damage.
+
+For each sin there is a punishment, and
+it is the task of Goddess Velka to define
+the sin, and mete out the punishment.</text>
+<text id="5701">%null%</text>
+<text id="5702">%null%</text>
+<text id="5703">%null%</text>
+<text id="5704">%null%</text>
+<text id="5705">%null%</text>
+<text id="5706">%null%</text>
+<text id="5707">%null%</text>
+<text id="5708">%null%</text>
+<text id="5709">%null%</text>
+<text id="5710">%null%</text>
+<text id="5800">Outland miracle, foreign to the Way of White.
+Slows all walking within effect area.
+
+This miracle is normally used to flee, as
+it slows walking but does not affect attacks,
+but nevertheless defines peace perfectly.</text>
+<text id="5801">%null%</text>
+<text id="5802">%null%</text>
+<text id="5803">%null%</text>
+<text id="5804">%null%</text>
+<text id="5805">%null%</text>
+<text id="5806">%null%</text>
+<text id="5807">%null%</text>
+<text id="5808">%null%</text>
+<text id="5809">%null%</text>
+<text id="5810">Secret rite of the black-haired witch Velka.
+Prevents casting of magic within effect area.
+
+Velka, the Goddess of Sin, is a rogue deity,
+but she is versed in arts both new and old,
+and is considered to have a great range of
+influence even as gods are concerned.</text>
+<text id="5900">Miracle wielded by Lord Gwyn's firstborn.
+Boost right weapon with rays of Sun.
+
+The power of sunlight, manifested as
+lightning, is very effective against dragons.
+When the eldest son was stripped of his
+deific status, he left this on his father's
+coffin, perhaps as a final farewell.</text>
+<text id="5901">%null%</text>
+<text id="5902">%null%</text>
+<text id="5903">%null%</text>
+<text id="5904">%null%</text>
+<text id="5905">%null%</text>
+<text id="5906">%null%</text>
+<text id="5907">%null%</text>
+<text id="5908">%null%</text>
+<text id="5909">%null%</text>
+<text id="5910">Miracle granted to those bound by covenant
+to Gwyndolin, Lord Gwyn's lastborn.
+Boost right weapon with rays of Darkmoon.
+
+The power of the rays of the Darkmoon are
+manifested in vengeance, and the deeper the
+animus, the more devastating the attack.</text>
+<text id="1200000">Variation of Soul Arrow developed
+by sorcerers of the Undead Legion of Farron.
+
+Fire a soul dart.
+
+Well known among the Farron sorceries,
+it is learned far and wide due to its ease of use.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1210000">Sorcery which improves upon Farron Dart.
+Fires a more powerful soul dart.
+
+Entrusted to the leader of the Legion's acolytes,
+and apparently a sorcery of his daughter, Heysel,
+that was refined by a Crystal Sage.</text>
+<text id="1300000">Elementary sorcery.
+Fires a soul arrow.
+
+To use sorceries, equip a staff
+and attune a sorcery at a bonfire.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1301000">Sorcery which improves upon Soul Arrow.
+Fires a more powerful soul arrow.
+
+Many sorceries inflict magic damage,
+making them effective against iron armor,
+tough scales, and other physically resilient materials.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1302000">Elementary, yet practical sorcery from long ago.
+Fires a heavy soul arrow.
+
+Offers greater power but slower casting time, entailing a vulnerability that makes this sorcery trickier to handle.</text>
+<text id="1303000">Sorcery which improves upon Heavy Soul Arrow.
+Fires a more powerful heavy soul arrow.
+
+Sorceries are a logical discipline; their strength
+influenced by the caster's intelligence.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1304000">Sorcery developed by Big Hat Logan,
+the great sorcerer who left the Dragon School in an age long past.
+
+Releases a homing soulmass.
+
+This sorcery may offer a clue as to what Logan sought,
+but further investigation suggests its attraction to
+living things mirrors the nature of the dark.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1305000">Sharpens Homing Soulmass via crystallization.
+
+Releases a homing crystal soulmass.
+Crystal soulmass has piercing qualities.
+
+According to the Crystal Sages, old Big Hat achieved enlightenment within the Regal Archives, where he came to find the quintessence of sorcery in the facets of a certain crystal.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1306000">Sorcery developed by Big Hat Logan, the great sorcerer who left the Dragon School in an age long past.
+
+Fires a soul spear.
+
+The spear boasts superior penetrating power,
+and is testament to Logan's strength in battle.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1307000">Further sharpens Soul Spear via crystallization.
+
+Fires a piercing crystal soul spear.
+
+
+According to the Crystal Sages, old Big Hat achieved enlightenment within the Regal Archives, where he came to find the quintessence of sorcery in the facets of a certain crystal.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1308000">Sorcery of Archdeacon Royce and his deacons,
+said to have been imparted to them by McDonnell
+of the Boreal Valley.
+
+Fires dark soul dregs.
+
+Souls which swell from the deep
+pursue their target, drawn towards life.</text>
+<text id="1309000">Sorcery which improves upon Deep Soul.
+Fires powerful darkened soul dregs.
+
+Archdeacon McDonnell, a sorcerer himself,
+delighted in the cathedral's stagnating souls.
+For him, they represented the glorious bedrock
+of this world.</text>
+<text id="1310000">Sorcery for casters who wield swords.
+Reinforces right weapon with magic. Lasts for 90 seconds.
+
+The power of the sorcerer-swordsmen of Vinheim
+is predicated upon this and Magic Shield.
+Many warriors learn sorcery just for this enchantment.</text>
+<text id="1311000">Sorcery which improves upon Magic Weapon.
+Greatly reinforces right weapon with magic. Lasts for 60 seconds.
+
+Only sorcerer-swordsmen with special duties
+are permitted the use of this spell. The azure blade
+is said to cut down heavily armored knights with ease.</text>
+<text id="1312000">Further sharpens Magic Weapon via crystallization.
+Reinforces right weapon with crystal. Lasts for 30 seconds.
+
+After much experimentation, Logan found the
+crystal medium facilitated a stronger bond
+between weapon and soul.</text>
+<text id="1330000">Sorcery for casters who wield swords.
+Reinforces left shield with magic. Lasts for 60 seconds.
+
+Shields augmented by magic have
+higher stability and damage absorption.
+
+Even the smallest of shields can be toughened
+considerably with the use of this spell.</text>
+<text id="1331000">Sorcery which improves upon Magic Shield.
+Greatly reinforces left shield with magic. Lasts for 30 seconds.
+
+Only sorcerer-swordsmen with special duties are permitted the use of this spell, which temporarily grants even the smallest of shields fortitude more akin to that of a greatshield.</text>
+<text id="1340000">Lost sorcery from Oolacile,
+land of ancient golden sorceries.
+Turns right weapon invisible. Lasts for 120 seconds.
+
+The weapon itself undergoes no inherent changes.
+Effective use of this, like any tool, perhaps,
+is reliant upon the ingenuity of its caster.</text>
+<text id="1341000">Lost sorcery from Oolacile,
+land of ancient golden sorceries.
+Turns body nigh on invisible. Lasts for 60 seconds.
+
+Although perfect invisibility is unachievable
+due to the risk of dissipation, the caster
+need only stand still for a moment to blend
+in to environs with astounding camouflage.</text>
+<text id="1350000">Lost sorcery of Oolacile, land of ancient golden sorceries.
+
+Casts a light to illuminate surroundings and boosts lightning damage by 10%.
+
+This light-producing magic is elementary, but nonetheless demonstrates the pure nature of golden sorceries: the likes of which have not been developed even at the Dragon School.</text>
+<text id="1353000">Lost sorcery from Oolacile,
+land of ancient golden sorceries.
+
+Repairs equipped weapons and armor.
+Includes weapons with exhausted durability.
+
+While the effects of this spell are rather subtle,
+its foundations are a well-guarded secret.
+Light is time, and the reversal of its effects
+is a forbidden art.</text>
+<text id="1354000">Sorcery developed by a certain surreptitious
+sorcerer at Vinheim Dragon School.
+
+Masks noises of the caster and prevents fall damage. Lasts for 60 seconds.
+
+Their mastery of this sorcery alone allows
+Vinheim spooks to demand handsome payment
+for their services. </text>
+<text id="1355000">Lost sorcery from Oolacile,
+land of ancient golden sorceries.
+Transforms into something inconspicuous.
+
+Far from formally developed, this magic was
+instead born from the mischief of a young girl who
+sought relief from the solitude of the woods at dusk.</text>
+<text id="1356000">Sorcery developed by a certain surreptitious
+sorcerer at Vinheim Dragon School.
+
+Distracts foes with a distant sound.
+
+The sound carries with it a strangely infectious
+resonance that may cause one to stray from their
+post and expose their back.</text>
+<text id="1370000">Sorcery of the Dragonkin Beast.
+
+Emits crystal breath of Seath the Scaleless.
+Crystal breath has piercing qualities.
+
+Seath's research seemed to strike a chord with
+old Big Hat who, in his mad, disrobed state,
+made divine works such as this, his own.
+The Dragonkin Beast was no doubt edified by this.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1372000">Sorcery which improves upon Farron Dart.
+Fires a cascade of soul darts.
+
+Entrusted to the leader of the Legion's acolytes,
+and apparently a sorcery of his daughter, Heysel,
+that was refined by a Crystal Sage.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1373000">Unique sorcery developed by extraordinary
+preacher twins known as the Crystal Sages.
+
+Casts a cascade of small crystal soulmasses from above. Crystal soulmasses have piercing qualities.
+
+In a pact said to have been formed long ago,
+one of the Sages allied with the Undead Legion
+in order to train the sorcerers of Farron.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1374000">Sorcery developed primarily for sorcerer-swordsmen.
+Attacks with a greatsword formed from souls.
+
+The ephemeral blade only exists as an extension
+of the caster, but its power is said to rival
+that of physical greatswords.
+Even the most obstinate magic purists
+may resort to this spell in times of crisis.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1375000">Alteration of Soul Greatsword developed
+by sorcerers of the Undead Legion of Farron.
+
+The Legion has a tendency to emphasize speed
+over power, and this practical alteration of
+an existing sorcery is no exception.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1603000">A forbidden dark sorcery.
+Casts a dark manifestation of humanity.
+
+It appears to be an expression of envy, or perhaps
+love towards another, that will tenaciously pursue
+its target. Even if, like so many human desires,
+it amounts to nothing but misfortune.</text>
+<text id="1613000">A forbidden dark sorcery.
+Strikes with blade formed of humanity's darkness.
+
+Passed from mother to daughter,
+this blade was intended for both protection
+and as a means of taking one's own life.
+The young girl never swung it more than once.</text>
+<text id="1620000">Sorcery imparted by the first of the Scholars,
+when Lothric and the Grand Archives were but young.
+
+Fires a torrential volley of souls.
+
+The first of the Scholars doubted the linking of the fire, and was alleged to be a private mentor to the Royal Prince.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1651000">Lost sorcery from Oolacile,
+land of ancient golden sorceries.
+Distorts light in order to deflect magic and damages enemies that touch it for 20 seconds.
+
+A closely-guarded light manipulation spell
+that contorts the very fabric of fundamental laws,
+negating magic by denying its claim to physicality.</text>
+<text id="1740000">Highly dangerous sorcery employed by Dragon
+School spooks. Only taught to trusted members.
+
+Releases dense mist that eats away at HP.
+Beware, as the caster is not immune to its effect.
+
+A body caught in the silent mist cloud lies still,
+while the face twists in a tortured scream.
+The names of these learned sorcerers became feared for this gruesome spectacle.</text>
+<text id="1802000">Sorcery developed by a Vinheim scholar, said to be an apprentice to the eminent Logan.
+
+Fires soul wave that pierces enemies.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1811000">A forbidden dark sorcery.
+
+Strikes with blade formed of humanity's darkness.
+
+Passed from mother to daughter,
+this blade was intended for both protection
+and as a means of taking one's own life.
+The young girl never swung it more than once.</text>
+<text id="1812000">Sorcery of Archdeacon Royce and his deacons, said to have been imparted to them by McDonnell of the Boreal Valley. Even a sliver of dark holds great power.
+
+Hurl homing soul sediment.
+
+Souls which swell from the deep pursue their target, drawn towards life and flame alike.</text>
+<text id="1815000">Sorcery of Archdeacon Royce and his deacons,
+said to have been imparted to them by McDonnell
+of the Boreal Valley.
+
+Cast cascade of homing soul sediment from sky.
+
+Souls which swell from the deep
+pursue their target, drawn towards life.</text>
+<text id="1822000">Sorcery of Archdeacon Royce and his deacons,
+said to have been imparted to them by McDonnell
+of the Boreal Valley.
+
+Fire powerful soul dreg.
+
+Souls which swell from the deep
+pursue their target, drawn towards life.</text>
+<text id="1824000">A sorcery brought to Lothric by travelers from New Forossa. Cautious after a tragic past, they are a people that do not impart their techniques openly.
+
+Strike foes with a sudden blast of wind.
+
+“Our lord is the champion of the skies above. Listen close, and you can hear his call on the eastern winds.”</text>
+<text id="1825000">Forossan knights were known for their powerful sweeping attacks that could cleave enemies in two. Survivors of the destruction of their homeland have learned to adapt these skills into effective sorceries.
+
+Send a penetrating blade of air flying at your enemies.
+
+"Nothing shall stand in the way of our intent."</text>
+<text id="1826000">Trained as warriors and not as academics, New Forossans adopted incantations for their practical use rather than as intellectual pursuits.
+
+Call down a flurry of winds around yourself, damaging nearby enemies.
+
+"We do not falter in the eye of the storm."</text>
+<text id="1827000">Before the fall of Forossa, the first born saw the clouds gathering on the horizon and prophesized the doom they brought with them.
+
+Call down ripping wind upon your foes.
+
+"Let this now be a sign of doom for all who stand against me."</text>
+<text id="1828000">Beyond the veil of Lordran, in a land previously unnamed, Gwyn's eldest son found sanctuary after his disinheritance. It's inhabitants were kin to the dragons and the everlasting sky in which they took flight. 
+
+Launch a shockwave of air at foes.
+
+"Feel the current beneath your wings and know that it is your ally."</text>
+<text id="1829000">The natives welcomed their new lord as the survivors of Forossa arrived in droves. They built great temples on the mountain peaks in his honor and sought to turn skin to scales in pursuit of the eternal sky.
+
+Send torrents of wind rolling over foes in front of you.
+
+"Exalt the might of our Lord and leave this weak flesh upon the rocks!"</text>
+<text id="1830000">A spell created in Forossa, but celebrated by mages of Oolacile for its shared properties with light sorcery. Many pilgrims traveling to pay Filianore homage employed this magic on their journey.
+
+Temporarily increase casting speed. During this time, sprint with no stamina usage, increase stamina recovery, and reduce fall damage.
+Lasts for 30 seconds.
+
+“We once wished to move through the world like wind. We found it easier, instead, to move like it through time.”</text>
+<text id="1831000">An aeromancy past down from before the time of Forossa. None still living can trace the origins of this spell.
+
+Cleave enemies with a downward blade of air.
+
+Ancient and ominous, this spell seems to have been created to hunt creatures no longer part of this world.</text>
+<text id="1833000">A simple air sorcery of Forossa. It was once taught to all citizens, no matter their station, to mark their coming of age.
+
+Knock enemies back with a sudden blast of wind.
+
+“We need not fear for our sons and daughters in battle. None will touch them.”</text>
+<text id="1834000">A once lost aeromancy of Azal of Forossa returned to him by a stranger in the dark.
+
+Blast foes with a tunnel of twisting wind.
+
+Alsanna eventually fled Eleum Loyce after the Ivory King had departed.  She carried many of his tomes and scrolls brought from his homeland of Forossa long ago.
+</text>
+<text id="1836000">A sorcery first employed by the black witch and then later her daughter. It suggests a certain kinship with the abyss; to be embraced by it but not overcome by it.
+
+The caster's body phases partially into the abyss inflicting curse on nearby enemies while also increasing all defences by 20%.
+Lasts for 30 seconds. This time cannot be extended with Lingering Dragoncrest Ring.
+
+"My child, remember to make an ally of your fears. They will serve you well."
+</text>
+<text id="1837000">A rudimentary aeromancy taught to initiates of New Forossa. Aeromancies were once lost, and this magic was once considered an important milestone in developing their replacement.
+
+Conjure a close-range spike of air from your hand.
+
+“Hold close the violent tempest, shape the cyclone into a point, and let the wind propel itself.”</text>
+<text id="1838000">A pyromancy derived from the self-proclaimed Pontiff.
+
+Breath out a heated wave to damage your enemies.
+
+
+Sulyvahn marked his minions with rings, the gift of which was a clever ruse to ensure his power over them.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="1839000">A hex wrought by Karla after the great convergence.
+
+Curse an enemy, using their own darkness against them, causing damage for 10 seconds.
+
+“Darkness lives within all creatures. For some, it can be a mighty tool. For most, it is a terrible burden.”
+</text>
+<text id="1840000">A hex derived by Saint Aldrich before his glorious transformation.
+
+Curse an enemy with the insidious nature of the abyss, causing damage and lowering resistance to dark for 20 seconds.
+
+“It is our duty to bring this power to all...both to the willing and the unwilling.”
+</text>
+<text id="1841000">Disrupt your own soul power to augment your magic.
+
+Reduces your total HP to 50%, Increases all spell power by 20% and increases your stamina regeneration.</text>
+<text id="1842000">A short-range sorcerery developed by a group of delinquent students in Vinheim.
+These mages believed that the true power of magic could only be drawn out in close combat.
+Short lived, they never had a chance to name their group, and the folly this belief is still echoed in scholastic halls to this day.
+
+Fires a volley of souls at your enemies from close range.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.
+</text>
+<text id="1843000">The corruption of the Abyss is everlasting.
+Long ago, in an ancient land, a council of kings betrayed the Lord of Sunlight to gain such power of darkness.
+They could not predict how it would turn them into enemies of all life.
+
+This spell infects a target with a tendril of this corrupting Abyss, granting them protection, but turning them hostile to all other creatures.</text>
+<text id="1844000">A dark sorcery that unleashes a wave of minor soul dregs.
+Developed by sorcerers of the deep, this sorcery was used to clear murkmen in great numbers, easing the effort spent on harvesting their souls for research.
+Murkmen were sometimes known to possess dreg souls, though their human-like qualities did little to dissuade such sorcerers.
+
+Fires a volley of soul sediments at your enemies from close range.
+It also applies a curse on an enemy, using their own darkness against them, causing damage for 10 seconds.</text>
+<text id="1845000">A hex that was once part of a greater spell that would allow travel through the abyss. This incantation is only the initial ritual which will crack the veil between worlds but not wide enough to allow for entry.
+
+Open a gateway to oblivion at your feet, exposing enemies to the malice of the abyss. Causes damage and lowers enemies' resistance to dark while near it.</text>
+<text id="1846000">A technique made in homage to the eight ruling knights of the Old Forossan council. 
+
+Conjure eight swords of air that seek and pierce your foes.
+
+Once fractious and mistrusting, the eight regions of Forossa did not achieve greatness until unified under an iron-clad creed of chivalry and honor.</text>
+<text id="1847000">While traditionally outlawed in Vinheim, mages would still occasionally settle disputes through arcane duels. This sorcery was especially useful in such an event.
+
+Prevents an enemy from casting spells for 5 seconds.</text>
+<text id="1848000">Seen as dishonorable, this aeromancy is rarely employed by the pilgrims of New Forossa.
+
+Suction the air from your opponent’s lungs, causing damage and preventing spell casting for 15 seconds.</text>
+<text id="1849000">Unleash your inner power of the lion knights. Lasts till warp or death.
+
+This buff cancels passive FP regen, but makes you acquire 15% FP upon each successful hit on an enemy.
+It increases all your resistances and weapon damage by 10% and reduces your weapon stamina consumption by 20%.</text>
+<text id="1850000">An advanced technique of air manipulation employed only by the most experienced of aeromancers.
+
+Conjure a twisting whirlwind of air that persistently follows an enemy and pulls them into it while dealing damage.</text>
+<text id="1851000">A ritual in which the caster somewhat disengages with the corporeal world in order to draw more directly on the power of the abyss.
+
+Fuse your body with the abyss, reducing spell power and attack power by 85%. Also, reduce all FP costs by 75%, gain 99 casting speed, become less likely to stagger and gain healing of 25 HP per second.
+
+Canceled using Rune of Severance.</text>
+<text id="1852000">Simple and efficient, this aeromancy combines the martial and the cerebral aspects of New Forossa into a single, elegant iteration.
+
+Conjure a focused blade of air on your catalyst and slash at foes.</text>
+<text id="1853000">A curse exploiting the temporary nature of humanity, accelerating the journey back into the darkness.
+
+Instantly removes 15% of the creature’s total HP but only works while the creature has 15% HP or less.</text>
+<text id="1854000">Fortify your soul with your magical energies. 
+
+Disables spell casting but increases defense by 30%, increases weapon damage by 10% and reduces weapon stamina consumption by 10%.
+
+Canceled by using the Grounding Crystal.</text>
+<text id="1900000">A basic spell of lost Oolacile, which discovered the power of light.
+
+Fire a focused projectile of piercing light at an enemy.
+
+It was research and academia that led to the advent of light sorcery. After the fall of Oolacile, Princess Dusk turned that research to combat, in hopes to protect other lands from suffering as her’s did.</text>
+<text id="1901000">A spell used by Dusk of Oolacile to shatter the resolve of enemies.
+
+Fire a small orb of light at enemies, knocking them back and inflicted poise and stamina damage.
+
+In the wake of the destruction of Oolacile, those that survived found the only way to avoid the insidious corruption of the abyss was to keep a great distance between themselves and those already corrupted.</text>
+<text id="1902000">A latter-age spell of the survivors of Oolacile, crafted as a weapon against the dark.
+
+Fire a continuous beam of light at enemies dealing damage.
+
+Before Halflight was cast out of the Ringed City by the Storm King, he worked to weaponize much of the old power of Oolacile to better protect the Princess.</text>
+<text id="1903000">An advanced spell of lost Oolacile. 
+
+Fire a powerful projectile of light at an enemy.
+
+It was research and academia led to the advent of light sorcery. It was much later that some techniques were adapted for combat.</text>
+<text id="1904000">A latter-age spell of the survivors of Oolacile, crafted as a weapon against the dark.
+
+Releases a homing lightmass, dealing damage to enemies.
+
+Before Halflight was cast out of the Ringed City by the Storm King, he worked to weaponize much of the old power of Oolacile to better protect the Princess</text>
+<text id="1905000">A latter-age spell of the survivors of Oolacile, crafted as a weapon against the dark.
+
+Release a row of light spears in front of you, dealing damage to enemies.
+
+Before Halflight was cast out of the Ringed City by the Storm King, he worked to weaponize much of the old power of Oolacile to better protect the Princess.</text>
+<text id="1906000">A sorcery of light that suppresses the power of the darkness within creatures.
+
+Emit a circle of light in all directions around you that weakens enemies by 60% for 10 seconds.
+
+“This power thus reveals, that without the shadows of anger and malice, oft there is nought within mankind.</text>
+<text id="1907000">A sorcery of Dusk of Oolacile.
+
+Channel the light around you to restore your health.
+
+Dusk found great compassion in the power of her homeland. Power that could, in time, heal the wounds of her fallen people.</text>
+<text id="1908000">A dazzling sorcery of lost Oolacile.
+
+Release a projectile that causes some enemies to lose the will to fight.
+
+“Blinded and awestruck, Shira suddenly realized that this strange man would never harm the Princess. He was the Spear they had been seeking.”</text>
+<text id="1909000">A sorcery that shelters the caster from harm.
+
+Create a layer of light around you that prevents interruption and raises defenses.
+Lasts for 30 seconds.
+
+When the doom came to Oolacile, only a few of it’s most gifted citizens were able to protect themselves from the catastrophe.</text>
+<text id="1910000">A high form of magic, unique to the lost land of Oolacile. The princess wept when her champion did not return from the Abyss.
+Her shimmering tears burned away at the corruption of the dark. This spell was created in her memory, its beauty and power said to evoke the purity of a maiden's hope.
+
+Calls upon a storm of light descending upon enemies.</text>
+<text id="1911000">Discovered through research in temporal manipulation, this spell does not actually relocate the caster to a different place. It rather allows the caster a brief movement forward in time.
+
+Teleport a short distance in front of you. Sprinting increases the distance.
+
+Many of the great sorcerers of the old kingdom warned against the use of such a spell. Potential to throw yourself from the top of cliffs aside, movements forward in time had always been hazardous and thus became taboo.</text>
+<text id="1912000">Originally conceived for the defense of Oolacile before the great fall.
+These mystical sentries were highly effective at preventing unwanted intruders. Sadly, they could not protect the kingdom from threats hiding within.
+
+Conjures a sentry of light to defend yourself against your enemies.</text>
+<text id="1913000">A golden sorcery of lost Oolacile. This technique was a mainstay of the few fighting elite that served in the defense of that idyllic land.
+
+Conjure a sword of light and slash enemies in front of you, dealing damage and knocking them away.</text>
+<text id="1914000">Your weapon becomes untethered in time for 60 seconds, causing anything struck by it to rapidly age.
+Each time you hit an enemy, your weapon deals 100 damage over 5 seconds, this ability can stack.</text>
+<text id="2400000">Elementary pyromancy that is often learned when a pyromancer comes of age. As the second pyromancy most learn, the immediate benefit of combining their two spells is obvious to most.
+
+Hurls a moderately sized ball of fire from your hand.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2402000">The signature flame-manipulating spell common to
+pyromancers. Hurls a giant fire orb.
+
+The blazing fire orb explodes on impact,
+dealing fire damage to the surrounding area.
+
+They say that once a pyromancer learns this spell,
+their understanding of the flame deepens,
+together with a yearning for it.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2403000">Primal pyromancy taught by Quelana,
+a daughter of the Witch of Izalith.
+
+Surrounds the caster with multiple pillars of flame.
+
+The raging storm is indiscriminate;
+such is the intrinsic horror of the flame.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2405000">Pyromancy of Cornyx of the Great Swamp.
+Emits a constant stream of fire.
+
+Cornyx is a venerable pyromancer of an older mold, said to have restored a number of spells lost to the past, amongst which this is the most well-known.
+
+Heat Stroke - Adds a stacking debuff that lowers the enemy's resistance to fire damage by 5% per stack, lasts 10 seconds.</text>
+<text id="2407000">Pyromancy discovered from the Abyss
+by High Lord Wolnir that inspired
+the black arts of the grave wardens.
+
+Releases undulating black flames that trace the ground.
+
+Be it sorcery or pyromancy, all techniques that
+infringe on humanity lead to the same place.
+That is to say, they all seek a will of their own.
+
+Cancels frostbite.</text>
+<text id="2410000">An elementary spell for new pyromancers.
+Releases flame in front of the caster.
+
+The simplest pyromancy of all,
+but surprisingly effective.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2411000">Pyromancy which improves upon Combustion.
+Creates a powerful, giant flame in hand.
+
+A very powerful, yet simple spell to use.
+
+Pyromancy is to at once know fear and longing,
+the resultant power of which depends on
+both the caster's intelligence and faith.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2420000">Unique geomancy crafted by Eingyi, a heretic inhabiting the Great Swamp long ago. Infuses the earth with a corrupting flame, turning it to a poison mist.
+
+Eingyi was driven from the Great Swamp, as he had abandoned the path of the pyromancer for a more toxic power. Even so, his geomancies continue to succeed him.
+
+Perhaps the dwellers of the Great Swamp were reminded that their very existence is one rooted in heresy.
+</text>
+<text id="2421000">Unique pyromancy of Eingyi that never
+gained currency in the Great Swamp.
+
+Creates an intense poison mist.
+
+Driven from the Great Swamp, they say that at the
+end of his journey, Eingyi happened upon a
+virulent poison and a young lady.</text>
+<text id="2422000">Pyromancy of Carthus of the Sands.
+Emits an acid which corrodes weapons and armor.
+
+Carthus' swordsmen attached great value to victory,
+and would not shun the use of such pyromancies.
+For where is the honor in death and scoured bones?</text>
+<text id="2430000">Pyromancy that internalizes flame.
+
+Iron flesh boosts damage absorption and resistance,
+but significantly increases weight.
+Lasts for 15 seconds.
+
+Not advisable for walking in marshlands, perhaps
+resulting in its obsolescence in the Great Swamp.</text>
+<text id="2431000">Unique pyromancy of the Great Swamp associated
+with Carmina.
+
+Intense sweating increases fire damage absorption.
+Lasts for 30 seconds.
+
+An influential pyromancy that internalizes flame,
+likely forming the foundation for many subsequent spells.</text>
+<text id="2435000">Pyromancy of Carthus of the Sands.
+Reinforces right weapon with flame.
+Lasts for 60 seconds.
+
+Warriors of Carthus favored supplemental pyromancies such as this, which was used to enhance the curved blades of its swordsmen.</text>
+<text id="2436000">Advanced pyromancy of Quelana,
+a daughter of the Witch of Izalith.
+
+Charms the enemy, making them a temporary ally.
+
+The living are lured by flame, and this tendency is
+elemental to the art of pyromancy.</text>
+<text id="2440000">Forbidden pyromancy amongst those who internalize flame.
+
+Temporarily boosts attack, but gradually lose HP.
+Lasts for 30 seconds.
+
+A pyromancer fears the flame.
+However, this fear subsides once it is
+accepted as a substitute for strength.</text>
+<text id="2450000">Art of the Flame of Chaos, from Ancient Izalith.
+Hurls a great chaos fire orb.
+
+Chaotic flame melts even great boulders,
+and creates a brief surge of molten lava on impact. 
+
+The Witch of Izalith and her daughters birthed
+the Flame of Chaos, but it devoured them
+along with their home.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2451000">Art of the Flame of Chaos, from Ancient Izalith.
+Erects multiple chaos fire pillars in vicinity.
+
+Chaotic flame melts even great boulders,
+and creates a brief surge of molten lava on impact. 
+
+The all-engulfing Chaos Flame eventually formed
+a tumultuous seedbed, which birthed the twisted things
+known as Demons.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2452000">Primal pyromancy taught by Quelana,
+daughter of the Witch of Izalith.
+Sweeps foes with a fire whip.
+
+The caster manipulates the flames at will,
+making this an extremely difficult spell to use.
+
+Pyromancy is at once the knowledge of controlling
+flame, and the knowledge that control is impossible.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2453000">Pyromancy discovered by grave wardens
+after High Lord Wolnir fell to the Abyss.
+
+Creates a giant, black flame in hand
+
+Black flames born from the Abyss bear no shadow.
+They are said to be the impenetrable fires of humanity.
+Cancels frostbite.</text>
+<text id="2455000">Pyromancy deriving from the Profaned Flame.
+
+Engulfs foes at range and burns them to ashes.
+
+The Profaned Capital was consumed by fire
+after Yhorm the Giant became a Lord of Cinder.
+The fire, born of the sky, is said to have
+incinerated naught but human flesh.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2456000">Traces of the tumultuous seedbed that birthed
+the beings known as Demons.
+
+Hurls chaos flame that scorches vicinity.
+
+Demons born from fire bore its smoldering essence and perished soon after. Man shares this rapport with the flames to this day.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2470000">Peculiar pyromancy of the Mound-makers.
+Creates a gentle flame that restores HP on touch.
+
+They feared separation from the gods
+and sought a familial bond, perhaps leading to
+the creation of this flame of harmony.</text>
+<text id="2562000">Advanced pyromancy that internalizes flame,
+associated with Carmina.
+
+Profuse sweating temporarily boosts resistance
+to bleeding, poison, frost and curses.
+Lasts for 60 seconds.
+
+The yellowish sweat cures all kinds of ailments.</text>
+<text id="2600000">A hex modified from an old sorcery by
+Gilleah, the father of Hexing.
+Fires a heavy orb of darkness.
+
+To use hexes, equip a sacred chime or staff,
+and attune a hex at a bonfire.
+Required equipment depends on hex.
+
+Catalyst: staff</text>
+<text id="2610000">Pyromancy discovered by grave wardens
+after High Lord Wolnir fell to the Abyss.
+
+Hurls a black fireball.
+
+The black flame inflicts dark damage,
+striking targets with weighty force.
+Cancels frostbite.</text>
+<text id="2620000">Pyromancy of old restored by Cornyx.
+One of the Great Swamp's more advanced spells.
+
+Hurls an exploding fireball.
+
+A rare technique that undergoes change after
+leaving the caster's hand, making this a spell
+renowned for its difficulty.
+
+Heat Stroke - Adds a stacking debuff that lowers the enemy's resistance to fire damage by 5% per stack, lasts 10 seconds.</text>
+<text id="2630000">Art of a stray demon of stifled flame.
+
+Spews a boulder from one's mouth.
+
+The boulder is heavy, but shatters easily.</text>
+<text id="2640000">Pyromancy taught amongst savages.
+Flame burrows inside foes and ignites.
+
+Originally used in a ceremony for cleansing
+sacrificial impurities, thereby lending the spell its name.
+
+As barbaric as it seems, this may in fact be
+quite fitting for the savage pyromancers
+who consider themselves servants of the divine.</text>
+<text id="2650000">The most obscure pyromancy developed
+in Carthus of the Sands.
+
+Damage increases with consecutive attacks.
+Lasts for 30 seconds.
+
+Carthus's aggression has been likened to
+an uncontrollable fire, and since ancient times
+its beacon has been used as a signal for war.</text>
+<text id="2702000">Pyromancy belonging to Salaman.
+
+Release flaming chaos orbs from sky towards foes.
+
+One of the first human pyromancers, Salaman is said to have created this pyromancy during the final years of his life.
+</text>
+<text id="2707000">Dark pyromancy that unleashes a large mass of Dark. 
+
+This momentous mass of Dark dances to signal the joy of its own release, or perhaps merely to taunt foes as it veers towards them.
+
+Dark pyromancies are an expression of human depravity, of which this dance is a perfect example.
+</text>
+<text id="2708000">Pyromancy discovered by grave wardens
+after High Lord Wolnir fell to the Abyss.
+
+Summons black fire-spitting orb.
+
+Those who linger too long on the brink of the Abyss will often slip. What they find within can astound even the most learned man.
+</text>
+<text id="2710000">Heretical pyromancy discovered by pyromancers during a great pilgrimage.
+
+Call down boulders from the sky to rain down upon foes.
+
+Look up.</text>
+<text id="2712000">Heretical pyromancy discovered by pyromancers during a great pilgrimage.
+
+Heave earth in multiple locations in vicinity to harm foes.
+
+The earth itself responds to the flame, as to why, it is unknown.</text>
+<text id="2713000">Heretical pyromancy discovered by geomancers who abandoned the flame, and sought to become more like their new teachers.
+
+Call forth stone, boosting absorption by 30%. Grants 80 attack deflection and prevents the user from being staggered.
+Lasts for 30 seconds.
+
+Stone Form protects the adept geomancer in times of trouble. Unlike their masters, this stone was adopted willingly, and is not permanent, allowing a geomancer to use as needed.</text>
+<text id="2714000">A lost pyromancy of the legion of Izalith which allowed travel by dematerializing the caster’s body into a jet of flame.
+
+Dash forward instantly with a fiery outburst.</text>
+<text id="2717000">Pyromancy discovered by grave wardens
+after High Lord Wolnir fell to the Abyss.
+
+Fire ball of black fire.
+
+Those who linger too long on the brink of the Abyss will often slip. What they find within can astound even the most learned man.</text>
+<text id="2719000">Dunnel is accredited as the first pyromancer to discover the inversion of chaos, a power developed in his years spent with Priscilla of the Painted World.
+
+Cast an orb of ice that bursts upon impact.
+
+“A frozen tear for my beloved crossbreed. May my power now show the world my remorse.”</text>
+<text id="2720000">Zullie the Witch found many applications 
+for pulling dark flames from the abyss. Many were too unstable to be useful until after Dunnel's pilgrimage.
+
+Conjure a frozen abyssal storm around yourself filled with icy sediment.
+
+"To find strength, one must often submit to fear"</text>
+<text id="2721000">After the first flame consumed her, 
+Elfriede sought simple refuge in the painted world. What she found was a mentor and mother in Priscilla.
+
+Emit a trail of ice along the ground in front of you.
+
+"No betrayal is greater than the betrayal among family."</text>
+<text id="2722000">Dunnel saw an inevitable madness waiting for him in the darkness. If not for his grief, he perhaps would not have also found comfort in it.
+
+Throw a seething ice shard that detonates into dark flame.
+
+"This accursed world of flame will now see its end."</text>
+<text id="2723000">A cryomancy developed in a foreign land of frost and ivory. To fight against Chaos, they embraced the biting cold. Fledgling cryomancers were taught this early, as it was both a test of stoicism and a great tool for keeping enemies at bay.
+
+Surround yourself with an aura of frost, dealing damage and frostbite to foes close to you. Unlike flame, cold is staggering.
+Lasts for 25 seconds. This time cannot be extended with Lingering Dragoncrest Ring.</text>
+<text id="2724000">Eingyi was shunned for his curiosity, from this he learned to keep his most powerful secrets hidden.
+
+Breathe an explosive toxin forward on the ground in front of you.
+
+"This might come naturally to some, but they would need to be basking in the flames of our great mother."</text>
+<text id="2725000">Traces of the tumultuous seedbed that birthed the black flame.
+
+Hurls black flame that scorches vicinity.
+
+The black flame born from the fire bore its smoldering essence and perished in the abyss soon after.</text>
+<text id="2726000">Art of the common hollow.
+
+Spew fecal matter from one's mouth.
+
+As in life, the common peasant has little to say on matters of worth.</text>
+<text id="2728000">Sulyvahn looked into the dark and saw his past as endless grey and bitter cold. He vowed to turn away from the painting and all he had learned there.
+
+Summon icy shards that seek your foes.
+
+"To craft a new world, we must leave the past behind us."</text>
+<text id="2729000">Zullie had attempted to open a gateway to the abyss, in a vain attempt to draw power directly from it. She found that the cold emptiness was too much for her to endure.
+
+Tear open a freezing vacuum in reality around you, dealing damage and frostbite to your foes.
+
+"Would that I could better fortify myself against it...The darkness offers such wonderous gifts."</text>
+<text id="2730000">A geomancy originating from the demons of stifled flame.
+
+Conjure a lump of rock in your hand and fling it at enemies.
+
+Left to wander for ages, the stray demons' flames were eventually doused as they awakened a new kinship with the earth under their feet.</text>
+<text id="2731000">A geomancy originating from the demons of stifled flame.
+
+Spews gravel from one's mouth.
+
+Flames are fluid and never singular. This was perhaps the first geomancy, as the earth attempts to mimic the formless fire.</text>
+<text id="2732000">A pyromancy invented by Cornyx of the great swamp.
+
+Summon three wisps of flame around you that seek enemies.
+
+"Do not be gone for long..."
+
+Heat Stroke - Adds a stacking debuff that lowers the enemy's resistance to fire damage by 5% per stack, lasts 10 seconds.</text>
+<text id="2733000">A chaos pyromancy only used previously by greater demons.
+
+Call a tower of flame from the ground below the nearest enemy.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2734000">A savage cryomancy used by the elders of the northern tribes.
+
+Hurl a frozen spear of ice at enemies.</text>
+<text id="2735000">One of the spells left behind by the young sorcerer Sulyvahn before leaving the Painted World. Creates a cloud of near-freezing mist.
+
+Sulyvahn was born and raised inside the painting, yet had little use for his frigid homeland, since he had not yet experienced loss.</text>
+<text id="2736000">One of the spells left behind by the young sorcerer Sulyvahn before leaving the Painted World.
+
+Summon multiple spots of frost in vicinity.
+
+Sulyvahn was born and raised inside the painting, yet had little use for his frigid homeland, since he had not yet experienced loss.</text>
+<text id="2737000">A refinement wrought from the stifled flame. No demon could have conceived such a skill.
+
+Launch a heavy missile of earth at foes that bursts on impact.
+
+"There is no heresy in strength."</text>
+<text id="2739000">A basic pyromancy, commonly taught to the children of pyromancers of the Great Swamp.
+This spell lacks power, making it a perfect learning tool, and even adult pyromancers can find use for such a flame.
+
+Shoot a tiny ball of flame from your hand.
+
+Heat Stroke - Adds a stacking debuff that lowers the enemy's resistance to fire damage by 5% per stack, lasts 10 seconds.</text>
+<text id="2740000">A cryomancy from the depths of the abyss.
+
+Emit a wave of icy fire along the ground in front of you.
+
+Wolnir struggled for a time against the vacuum of the darkness that held him. He conjured mighty spells from the darkness to free him from his bonds but to no avail. He resolved to wait until something from the world of flame sought him out. Only then could he capture the embers he needed to melt away his frozen prison.</text>
+<text id="2741000">After the first flame consumed her, Elfriede sought simple refuge in the painted world. What she found was a mentor and mother in the Crossbreed, Priscilla.
+
+Emit a burst of ice along the ground in front of you.
+
+“No betrayal is greater than the betrayal among family.”
+</text>
+<text id="2742000">Adds 80 dark damage to your right-hand weapon for 60 seconds.</text>
+<text id="2743000">One of the lost cryomacies of Ariandel. After father Ariandel restored the painted world with blood, the mighty cryomancer Pandari appeared and swore his loyalty to him. He wanted to protect his homeland from anyone who possesses the power of the flame. With the power of the frostfire flowers, he beat anyone who wanted to bring the flame back to the painted world.
+
+Deals frost damage to those that enter the patch of flowers.</text>
+<text id="2745000">A geomancy originating from the demons of doused flame.
+
+Throw a mass of mud at your enemies.
+
+As demonkind found itself severed from the fires of Chaos, many of the weakest demons struggled to cope with their lack of power. Some found solace in this spell, a spark of flame propelling liquid earth, but many refused to abandon their pride.
+</text>
+<text id="2746000">A geomancy originating from the demons of stifled flame.
+
+Conjure a lump of rock in your hand and fling it at enemies.
+
+Left to wander for ages, the stray demons' flames were eventually doused as they awakened a new kinship with the earth under their feet.</text>
+<text id="2747000">Fabled throughout the painted world and elsewhere, this curse was lost to the world until it was uttered as the last words of the Champion of the Forlorn.
+
+Curse an enemy with a persistent, biting cold. Causes intense frostbite build up continuously for 60 seconds.</text>
+<text id="2748000">Conjure a cold, rudimentary flame from the abyss. A crude application of cryomantic principles.
+
+Cancels frostbite.</text>
+<text id="2749000">A destructive pyromancy used in times of war by the Izalith Legion.
+
+Launch a high flying flame orb that bombards enemies from above.
+
+First employed in the great siege of Izalith, this modification of fire orb was one of the earliest iterations of latter-day pyromancy, having no trace of the lingering flames of chaos.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2750000">Efficacious and foul, this adaptation provides the dwellers of the Great Swamp with a potent deterrent for those that would wish them harm.
+
+Conjure an orb of poisonous earth and hurl it at enemies causing poison build up.</text>
+<text id="2751000">Geomancers of the Great Swamp are intimately acquainted with all of the tiny fauna of the wetlands. Eingyi always saw the potential of harnessing their tenacity.
+
+Conjure a swarm of venomous insects that seek and harass foes, causing massive toxic build up.</text>
+<text id="2752000">The Old Demon King, while shriveled and wan, keeps many secrets of Old Izalith. His memory reaches back before the time of chaos.  
+
+Rain down numerous flaming meteors upon foes.
+
+“I, alone, remain that bore witness to the cloaks of flame that were draped upon the dragon host. All consuming and alive, a fire that sought flesh. Reaching from sky, land and sea; our great mother gazed, and there became ash.”
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="2753000">Priscilla sought to mentor her ward, Elfriede, after her worldly disgrace. She passed on her kinship with the cold and the fortitude found in the darkness. Escape from the world of flame offered this unexpected boon. Friede had found both a new home and new strength.
+
+Invoke the power of the dragon crossbreed, increasing defenses by 20%, increasing dark damage by 15% but lowering total SP and FP by 30%
+
+Lasts until warp or death, canceled by using Lock of the Crossbreed.</text>
+<text id="2754000">A conjuration that opens a rift to the cold flames of the abyss. Rifts like these were unexpected and often deadly before Wolnir learned to control them. It took many years of study to perfect the technique.
+
+Call the icy flames of the abyss upon your foe, causing a whirlwind of black flame to encircle them for a short duration. Each time an enemy is struck, they receive a debuff that increases damage from dark by 10% and frostbite is canceled.</text>
+<text id="2755000">Attune your body to the ancient world, leaving behind the burdens of the flame.
+
+Increases defense by 30%, increases physical damage by 10%, decreases weapon stamina consumption by 30%, grants immunity to all status effects and decreases chance to be interrupted while attacking. Disables spell casting, disables FP regen, reduces the amount of souls gained from enemies by 50% and slows movement speed.
+
+Canceled using the Rune of Disparity.</text>
+<text id="2756000">Quelana was not alone in her quest to find the source of pyromantic power. She encountered Eingyi on the outskirts of the great swamp. Through their brief partnership, a strange healing power was discovered, when she suggested inverting an application of toxin. 
+
+Tap into the powers of the earth to restore your body, healing you quickly over 5 seconds.</text>
+<text id="2900000">Summon a vicious hound as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2901000">Summon a small, venomous rat as your minion. Natural minions are a staple of druidic magic, calling upon creatures bonded to the user through a connection of life essence. As nature grew twisted, so too did the summons of the druids, until, eventually, life essence could no longer form a link between such terrible beasts.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2902000">Summon a large poison rat as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2903000">Summon a giant crab as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2904000">Summon a sewer centipede as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2905000">Summon a rock lizard as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2906000">Summon a ravenous crystal lizard as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2907000">Summon a ghru leaper as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2908000">Summon an elder ghru as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2909000">The magic of the Druidic Conclave of Vinheim is a unification of academia and knowledge of the natural world. Rather than relying on the power of souls, or the studied manipulation of energies, a druid’s magic manipulates the power of all living things, called life essence.
+
+Fire a small, magical projectile at enemies from long range, dealing damage and draining HP for a short duration.</text>
+<text id="2910000">Once a small clandestine order, the Conclave grew after the sorcerers of Vinheim began to enact laws that allowed for practices once thought to be heretical. As such, the names many of the early innovators in druidic magic have been lost.
+
+Fire a spear of life essence and deals magic damage and drains HP over a short duration.</text>
+<text id="2911000">Druids must utilize a combination of intuition and practical knowledge to manipulate the natural world. This skill cannot be taught in a traditional way and depended on the innate ability of the practitioner, much to the chagrin of the elders of the Dragon School.
+
+Fire a small water projectile at enemies that deals damage.
+Hold to fire at a continuous rate.</text>
+<text id="2912000">A basic manipulation of life essence, allowing the caster to regenerate wounds at an accelerated rate.
+
+Restores HP and SP slowly for 120 seconds.
+
+Life essence is not the power of souls, and does not interact with them in any known way. Alchemists who have seen druidic power would liken it to the ability to control the body directly, and, like medicine, it can become deadly when used wrong.</text>
+<text id="2913000">Originally employed as forest camouflage, this spell has been weaponized with the intention of keeping enemies at arm’s length.
+
+Cover your body with sharp limbs and thorns, raising defenses and dealing damage to any enemy nearby when you roll.
+Lasts for 60 seconds.
+
+Giving oneself completely to the flow of life essence, an act commonly referred to as “becoming one with nature,” is a dangerous process. Humans, with their inherent darkness, are foreign to the natural world, but to give up one’s darkness is to give up one’s humanity, and lose one’s self completely.</text>
+<text id="2914000">Druids enjoy a kinship with the natural world, including the more vicious aspects of nature.
+
+Invoke the fury of a wild beast, increasing damage and defense for you and any nearby summon for a short time.
+Lasts for 60 seconds. This time cannot be extended with Lingering Dragoncrest Ring.</text>
+<text id="2915000">This powerful outburst of energy can instantly knit otherwise fatal wounds and is only used by the most gifted druids.
+
+A strong healing spell that affects you and any nearby summon.</text>
+<text id="2916000">Druids found that the same principles of conjuration that affected life essence could be applied to water as well, the source of all life.
+When properly manipulated it can be used to devastating effect in combat.
+
+Throw a water-filled projectile at your enemies.</text>
+<text id="2917000">Druids found that the same principles of conjuration that affected life essence could be applied to water as well, the source of all life.
+When properly manipulated it can be used to devastating effect in combat.
+
+Unleash a powerful stream of water.</text>
+<text id="2918000">Druids found that the same principles of conjuration that affected life essence could be applied to water as well, the source of all life.
+When properly manipulated it can be used to devastating effect in combat.
+
+Summon heavy rainfall transferring life essence of your enemies to you, healing you over time.</text>
+<text id="2919000">Adds 80 magic damage to your right-hand weapon for 60 seconds.</text>
+<text id="2920000">Summon a wretch as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2921000">Summon an outrider knight as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="2922000">A conjuration unique to Caimar the wanderer. While seeking the spirit-trees of the world, Caimar made many discoveries which he never shared with the Conclave.
+
+Release several orbs of essence that seek enemies and drain HP upon impact.</text>
+<text id="2923000">While many druids make use of crystallized life essence, Caimar was able to weaponize the crystallization process itself with this conjuration.
+
+Send life essence into the ground around you, causing crystals to violently erupt, dealing damage to enemies.</text>
+<text id="2924000">Druids found that the same principles of conjuration that affected life essence could be applied to water as well, the source of all life. When properly manipulated it can be used to devastating effect in combat.
+
+Conjure a surging pool of water at your feet, damaging all nearby enemies.</text>
+<text id="3490000">Miracle imparted as charity to those of little faith.
+A show of tolerance from the Way of White.
+
+Slightly restores HP.
+
+To use miracles, equip a talisman or sacred chime
+and attune a miracle at a bonfire.</text>
+<text id="3500000">Elementary miracle cast by clerics.
+Restores HP for self and those in the vicinity.
+
+To use miracles, equip a talisman or sacred chime
+and attune a miracle at a bonfire.</text>
+<text id="3501000">Miracle superior to Heal.
+Restores moderate HP for self and those in the vicinity.
+
+Miracles are fruit of the study of divine tales, a blessing received from the gods through acts of prayer. Miracle strength depends on the caster's faith.</text>
+<text id="3502000">Glorious miracle used by high-ranking clerics.
+Restores a large amount of HP for self and those in the vicinity.
+
+Only a select few have learned to recite this
+epic tale in its entirety, but those who do
+are amply rewarded. </text>
+<text id="3503000">Special miracle granted to the maidens
+of the Princess of Sunlight.
+
+Restores a large amount of HP for self and those in the general area.
+
+The miracles of Gwynevere, the princess
+cherished by all, bestow their blessing on
+a great many warriors.</text>
+<text id="3504000">Miracle once cherished by cleric knights.
+Gradually restores HP. Lasts for 120 seconds.
+
+Replenishment is a relic of the old Lloyd faith,
+whose cleric knights were unfaltering in battle.</text>
+<text id="3505000">Special miracle granted by the Princess of Sunlight.
+
+Gradually restores a large amount of HP for self and those in the vicinity.
+Lasts for 120 seconds.
+
+The miracles of Gwynevere, loved as both
+mother and wife bestow their blessing on
+a great many warriors.</text>
+<text id="3507000">Miracle taught to knights by Gertrude,
+holy maiden to the Queen.
+
+Gradually restores a large amount of HP. Lasts for 120 seconds.
+
+The Heavenly Daughter is said to be
+the Queen's child.</text>
+<text id="3508000">Miracle taught by Morne, the Archbishop's apostle.
+
+Cures bleeding, poison and frost for self and those in the vicinity.
+
+Caressing Tears is a tale of the many deaths
+surrounding the goddess Caitha, of whom
+Morne was a known follower.</text>
+<text id="3510000">This miracle is the tale of how Gwyn, the Lord of Sunlight, first recruited Gough into the ranks of his most loyal knights.
+The giant archer would receive the title of Hawkeye, and even though he was blind, his arrows would always fly true.
+The power of this story is said to come from Gough's unending devotion to his lord.
+
+Channel divine energy into a malleable bow of solid lightning. Drawing back the string creates a large spear of arcing electricity, which acts as the arrow.
+Once it strikes a target, the lightning splits, and continues to damage adjacent enemies.</text>
+<text id="3511000">The purest form of the lightning arrow miracle, practiced by female knights in the great dragon war. Using all the range and accuracy of a traditional lightning arrow, this miracle unleashes the power of sunlight from a great distance.
+
+Fire a sunlight arrow at enemies that calls down a lightning storm on impact.</text>
+<text id="3513000">A micracle that causes distress only to those that have turned hollow.
+
+To hollows, there is no greater affliction than the temptation of death. To them, this agony transcends imagination.</text>
+<text id="3520000">Miracle taught by Morne, the Archbishop's apostle.
+
+Grants one chance to endure when HP reaches 0
+
+Intended to grant the dying a few moments
+for a final farewell. Tears are shed for the sake
+of the living, more so than the deceased.</text>
+<text id="3521000">Miracle taught to traveling clerics.
+Returns caster to the last bonfire used for resting, 
+or to the bonfire in the shrine.
+
+It would normally link to one's homeland,
+only the curse of the Undead has twisted
+its power, redirecting casters to a bonfire.
+Perhaps for Undead, the bonfire serves as home.</text>
+<text id="3530000">An elementary miracle among clerics, this story of momentary protection can be found in any age.
+Creates a shockwave of force.
+
+While it inflicts no direct damage, this miracle propels foes back, staggering them.
+Can also defend against incoming arrows.</text>
+<text id="3531000">Primal form of Force.
+Creates a powerful shockwave.
+
+Wrath of the Gods is an epic tale, while Force is but a woefully incomplete version of that yarn.
+
+This primal account of profound fury
+emits a shockwave that also inflicts damage.</text>
+<text id="3532000">Traditional miracle of Catarina.
+Releases a shockwave in front.
+
+The people of lands known for festivity and drink
+are typically outspoken. One can be sure that they
+will not bottle their emotions, instead venting
+anger and the like with confidence.</text>
+<text id="3540000">Miracle of stray souls.
+Displays more help from other worlds
+and reveals summon signs without using an ember.
+
+Faith serves as a guide for clerics, meaning they
+should have no need for secondhand wisdom.
+
+Be that as it may, this miracle has been passed
+down from soul to soul, providing a tiny ray
+of hope for the lost.</text>
+<text id="3550000">Miracle allegedly used by Warriors of Sunlight.
+
+Hurls a lightning spear.
+
+The spears inflict lightning damage, providing an
+effective counter to magic or fire.
+Especially powerful against metal armor and dragons.</text>
+<text id="3551000">Primal account of Lightning Spear,
+which tells of an ancestral dragonslayer.
+
+Hurls a giant lightning spear.
+
+Gwyn, the First Lord, slew dragons with his sunlight spear, a tradition upheld by his firstborn and the greatspear he wielded.
+
+Much of this resplendent tale of father and son, while epic, remains tragically untold. </text>
+<text id="3552000">Miracle of Gwyn, the First Lord.
+Hurls a sunlight spear.
+
+The tales of Gwyn's Archdragon hunts describe
+the inception of the Age of Fire.</text>
+<text id="3553000">Miracle of the Nameless King,
+ally to the ancient dragons.
+
+Calls forth furious bolts of lightning.
+
+Once a slayer of dragons, the former king
+and wargod tamed a Stormdrake,
+on which he led a lifetime of battle.
+This miracle is likely a tale of their bond.</text>
+<text id="3554000">A bloody miracle taught by Rosaria in the Cathedral of the Deep.
+
+Summons a large swarm of insects to feast on foes, inflicting damage and bleed.
+
+These insects, which lurk in the deep, have tiny jaws lined with fangs to tear open the skin and burrow into the flesh in the blink of an eye, causing intense bleeding.
+It is no wonder that both priests of the deep and those bound to blood find kinship in such creatures, though for different reasons.
+</text>
+<text id="3555000">Miracle of Dorhys the deranged evangelist.
+
+Summons great insect swarm to feast on foes.
+
+Those who linger too long on the brink of the Deep will often slip. Dorhys is sure to have wallowed in this darkness, intoxicated by its peril.</text>
+<text id="3560000">Miracle of clerics who wield weapons.
+
+Increases magic damage absorption by covering the body in a white protective coating.
+Lasts for 60 seconds.
+
+There was a short period in history where
+clerics and sorcerers opposed one another.
+Thus it became necessary for even simple clerics
+to have some means of opposing magic.</text>
+<text id="3561000">The tale which was later interpreted as Magic Barrier.
+
+Greatly increases magic damage absorption by covering the body in a strong white protective coating.
+Lasts for 60 seconds.
+
+Said to be a tale of Havel the Rock,
+arch enemy of Seath the Scaleless.
+Havel despised magic, and was never complacent
+in preparing means to counter it.</text>
+<text id="3563000">Miracle of those chosen by the Sunlight covenant.
+
+Temporarily boosts attack and damage absorption for self and those in the vicinity.
+Lasts for 60 seconds.
+
+This is the tale of the Sun's firstborn, his faithful first knight, and the brave dragonslayer who served them both.</text>
+<text id="3581000">Miracle of the Sable Church of Londor.
+
+Prevents spells in vicinity, including one's own.
+Lasts for 15 seconds. This time cannot be extended with Lingering Dragoncrest Ring.
+
+Members of the Sable Church are all trained
+swordsmen, each sworn only to their weapons
+as they bear the leaden silence of Londor.</text>
+<text id="3590000">Miracle allegedly wielded by a certain 
+dragonslayer knight in the Age of Gods.
+
+Reinforces right weapon with lightning.
+Lasts for 60 seconds.
+
+Tales of dragonslayers are now a rare thing, told
+only in fragments and whispers in remote regions.</text>
+<text id="3591000">Miracle of those who devoted themselves
+to the Darkmoon covenant.
+
+Reinforces right weapon with Darkmoon light.
+Lasts for 60 seconds.
+
+Miracles of the Darkmoon are tales of revenge, but Captain Yorshka recites only for the sake of remembering her brother, without knowledge of its meaning.
+
+Perhaps this is better, as revenge is better left to the Blades.</text>
+<text id="3592000">Miracle taught to Lothric Knights. Blesses right weapon, increasing attack power, as well as gradually restoring HP.
+
+The Knight is one of the Three Pillars of Lothric, said to have strengthened ties with the High Priestess after the Scholars acquired the Grand Archives.</text>
+<text id="3640000">Miracle of the Sable Church of Londor.
+
+Reinforces right weapon with blood and dark.
+Lasts for 60 seconds.
+
+The third daughter Liliane, one of the founders
+of the Sable Church, is said to recount tales that
+portray the suffering and conflict of Hollows.</text>
+<text id="3700000">Sacrilegious miracle of the Sable Church of Londor.
+
+Bless corpses, transforming them into traps.
+
+Londor, the Hollow Realm, is a society of undead,
+comprised of the corpses and shades of those
+who led unsavory lives.
+Is such blessing really something one must ponder?</text>
+<text id="3710000">A lost dragonslaying miracle.
+
+Strikes with a stake of lightning.
+
+This tale describes the lost practices of ancient dragonslayers, who found that in order to pierce dragonscale, lightning should not be hurled as a bolt, but rather be thrust as a stake directly into the dragon's hide, to be truly effective.</text>
+<text id="3720000">Miracle of Gertrude, the Heavenly Daughter.
+
+Brings down multiple pillars of light in vicinity.
+
+The Queen's holy maiden Gertrude was visited by an angel, who revealed this tale to her.
+
+Despite losing both her sight and her voice, she was determined to record the tale. Ordinary men cannot decipher her fragmentary scrawl, nor comprehend how it became the foundation of the Angelic faith of Lothric.</text>
+<text id="3730000">Miracle of Aldrich, Devourer of Gods.
+
+Steals HP of foes using an illusory scythe.
+
+Aldrich dreamt as he slowly devoured the God
+of the Darkmoon. In this dream, he perceived
+the form of a young, pale girl in hiding.</text>
+<text id="3750000">Dark miracle taught at the Cathedral of the Deep;
+imparted by the mentor Dorris before she lost her mind.
+
+Summon a swarm of insects that nestles within foes.
+
+The insects bore completely through the body
+before continuing to erode everything in the vicinity.</text>
+<text id="3760000">Miracle taught to Lothric Knights.
+
+Blesses right weapon, increasing attack power,
+as well as gradually restoring HP.
+Lasts for 60 seconds.
+
+The Knight is one of the Three Pillars of Lothric,
+said to have strengthened ties with the High Priestess
+after the Scholars acquired the Grand Archives.</text>
+<text id="3770000">Miracle taught to inaugurated deacons
+of the Cathedral of the Deep.
+
+Slightly boosts attack, damage absorption and resistance, while also increasing stamina recovery speed.
+Lasts for 60 seconds.
+
+The Deep was originally a peaceful and sacred place,
+but became the final rest for many abhorrent
+things. This tale of the Deep offers protection for
+those who worship amidst those horrors.</text>
+<text id="3780000">Miracle given to those cast out
+from the Sable Church of Londor.
+
+Attracts more attention from foes.
+
+This is the only tale known by the exiles,
+who believe it carries words of forgiveness.
+Cursed journeys, too, must ultimately come to an end.</text>
+<text id="3802000">Miracle once used in the great wars of the forgotten sun god.
+
+Summon heavenly thunder that rains down sunlight spears towards foes.
+
+The power of the sun has never been forgotten, and its power burns bright.
+</text>
+<text id="3803000">A lost Way of White miracle. Launches white discuses outwards from the conjurer.
+
+Long ago, when the imprints left by the gods were still deep, miracles of the Way of White existed alongside aureoles.
+
+Those who yearned for the long-lost aureoles fully believed that they would return, one day.</text>
+<text id="3807000">One of the first blood miracles granted by Rosaria to Dorhys, the deranged evangelist.
+
+Summon a swarm of small insects to feast on foes, inflicting damage and bleed.
+
+Those who linger too long on the bring of the deep will often slip. Dorhys is sure to have wallowed in this darkness, intoxicated by its peril, before eventually joining the faithful of Rosaria.</text>
+<text id="3810000">Miracle belonging to Dorhys the deranged evangelist.
+
+Summon massive insect swarm, shooting forth insect swarms to feast on foes, inflicting Bleed.
+
+Those who linger too long on the brink of the Deep will often slip. Dorhys is sure to have wallowed in this darkness, intoxicated by its peril.
+</text>
+<text id="3813000">Miracle used by the followers of Allfather Lloyd.
+Fires a divine arrow that deals holy damage.
+
+Although their bodies are often weakened from fasting and prayer, traveling clerics wield formidable power.</text>
+<text id="3814000">Miracle used by the sickly Prince Lothric.
+
+Fire piercing holy soul spear.
+
+Prince Lothric's mastery over matters of the divine, and his lessons with the Crystal Sage have resulted in a scholarly union, producing this very miracle.</text>
+<text id="3818000">An early innovation by Aldrich's evangelists, it was dismissed as a "terrible waste of blood."
+
+Toss a cluster of maggots on your foe causing bleed build up for 80 seconds.
+
+"Look at the joy we have brought to these tiny creatures! This joy should be ours."</text>
+<text id="3819000">Corrupted by the abyss, the pilgrim's journey was one of hope and certainty.
+
+Throw an orb of blood at foes causing bleed damage.
+
+"What gifts await us? We shall take wing for the glory of Londor!"</text>
+<text id="3820000">This miracle tells of the adoration Dohry felt for the biting creatures of the abyss, both in propensity and hunger. 
+
+Conjure a mass of insect clouds that seek enemies and cause damage and bleeding.</text>
+<text id="3821000">The Dark Soul holds the memories of the lost within its power.
+
+Summon the spirits of humanity to seek vengeance on your foes.
+
+"There is nothing I would not sacrifice to honor my lady's request."</text>
+<text id="3825000">Unbothered by Aldrich's dislike for certain abyssal creatures, Dorhy sought to celebrate the greed of maggots in crafting this highly disciplined miracle.
+
+Unleash clouds of maggots that descend on foes from above causing massive bleeding to the enemy on impact.
+
+"In them we can see ourselves, reveling in our gorging nature."</text>
+<text id="3826000">Miracle of Slave Knight Gael.
+
+Brings down multiple pillars of blue lightning in vicinity.
+
+Towards the end, Slave Knight Gael brimmed with untapped energy. Made manifest, this energy became punishing blue lightning that struck nearby foes.</text>
+<text id="3827000">A passive form of blood magic, created by Rosaria to grant herself and her knights ready access to the target’s blood.
+
+Imbue the caster with the power of blood, causing bleeding to nearby foes and recovering hp of the caster for 45 seconds.
+This time cannot be extended with Lingering Dragoncrest Ring.
+
+Aldrich’s followers learned from Rosaria’s faithful that harnessing power from the deep could be done more efficiently if one bathed in the blood of the accursed. The dark will always seek the dark.</text>
+<text id="3828000">The story of the outlander Gods was finally unearthed during the great convergence of lands. Carried by a pilgrim, the Way of White was stunned at the discovery of the true power of force.
+
+Fire a blessed projectile that erupts into a shockwave of light.</text>
+<text id="3829000">Rorick, Princess Filianore's closest companion, strayed from the path of light and succumbed to the power of the abyss.
+
+Create a circle of light that damages enemies within it.
+
+She sought to confine him and purge the darkness that drove him mad but found that the light now only brought him suffering.</text>
+<text id="3830000">Part of a grand discovery, the forgotten gods had many useful stories to tell.
+
+Create an invisible barrier around you, temporarily knocking back all enemies that get close.
+Lasts for 20 seconds. This time cannot be extended with Lingering Dragoncrest Ring.
+
+"The nature of these old gods has never been more certain."</text>
+<text id="3831000">The Allfather Lloyd stood against the undead and his followers revered him for his piety. 
+
+Block Estus recovery within a limited area and nulls effects of special area effects for 25 seconds.
+
+Dissent from Carim prompted him to create specialized blessings to assist in the hunt for undead creatures, both for his follower's use and to silence the nonbelievers.</text>
+<text id="3832000">A miracle detailing the story of Gwyn's son striding into battle wreathed in lightning.
+
+Channel lightning around you, striking foes on all sides.
+
+"None could stand before him, dragons fell and fled but when the battle was won, his face was a mask of regret."</text>
+<text id="3833000">A miracle of godly intervention for a low peasant on a pilgrimage who was beset by bandits on the road.
+
+Call down lightning from the heavens to strike foes.
+
+"The skies went dark in the blink of an eye and after a flash, all the heathens were brought low; touched by the divine."</text>
+<text id="3834000">A miracle of the pact between the dark lady and her first loyal fingers.
+
+Grants one chance to endure when HP reaches 0, then prevents healing and dramatically reduces stamina and FP costs for 30 seconds
+
+"Death is not a barrier, it is a gateway."</text>
+<text id="3835000">A miracle telling of a holy warrior who was both unfettered by fear and undaunted by malice.
+
+Slam enemies with a holy great-hammer.
+
+"His valor shall never fade."</text>
+<text id="3836000">A miracle taught to all young initiates of Gwyn.
+
+Reach out and strike enemies with lightning from your hand.
+
+"...and thus we hold the power of the father of light in our hands."</text>
+<text id="3837000">A seldom retold miracle recently popularized after the great convergence.
+
+Send a slow concentrated wave of lightning forward that shocks foes near it.
+
+Faraam reclaimed his name when he pledged himself to his new people, this miracle is likely the story of his devotion.</text>
+<text id="3838000">A miracle detailing the story of Gwyn's son striding into battle wreathed in lightning.
+
+Imbue yourself with lightning increasing damage of lightning by 10% and reducing the FP cost of Miracles by 50% for 20 seconds.
+
+"None could stand before him, dragons fell and fled but when the battle was won, his face was a mask of regret."</text>
+<text id="3839000">This miracle tells a macabre tale of a young boy who fell into the abyss during the great convergence. The story invokes the power of the monstrosities that consumed him.
+
+Drain blood from your foes to restore your health.
+
+“Even before the biting creatures surrounded him, he felt his life ebbing away.”
+</text>
+<text id="3840000">An excerpt from the biography of the Allfather, telling of his great learning and mentorship of his pupils.
+
+This blessing reduces the FP cost of miracles by 30% while at full health. Lasts until warp or death.</text>
+<text id="3841000">An excerpt from the biography of the Allfather, telling of his caring nature toward others.
+
+This blessing increases resistance from all status effects and increases absorption by 20% while at 50% health or higher. Lasts until warp or death.</text>
+<text id="3842000">An excerpt from the biography of the Allfather, telling of his intrepid nature toward his goals.
+
+This blessing increases stamina recovery and reduces the stamina cost of weapon attacks and fall damage from moderate heights while at full health. Lasts until warp or death.</text>
+<text id="3844000">Conjure a blood blade dealing dark damage. You gain 5% HP back on every successful hit.</text>
+<text id="3845000">Grasp an enemy and drain their life away while healing the caster.
+
+“Few are fortunate enough to feel the touch of our dark lady”.</text>
+<text id="3846000">A holy miracle, once used by paladins in service of the Way of the White. Though the term paladin is closely associated with Allfather Lloyd, any in service of a deity could be called by such a title. Unique among miracles, this spell affects a wielder's shield, granting them holy resilience against their attackers.
+
+Enhance the shield worn on your left hand with a sliver of divine fury, increasing the defense of the shield. When struck, the defense is lost in a burst of physical damage, knocking enemies around you back.
+Lasts for 30 seconds.
+
+"Their faith in their gods protected their souls, but the stories they told protected them."</text>
+<text id="3847000">The greatest and most destructive of lightning miracles; a chronicle of the last moments of Gwyn’s reign.
+
+Unleash the full power of sunlight with this devastating miracle.
+
+“When Gwyn the Mighty saw that the dying of the light was inevitable, he mustered all of his strength and his anguish into one great pillar of sunlight. All the remaining power of his Lord’s soul was poured into this final act, and the First Flame burned anew.”</text>
+<text id="3849000">An ancient miracle of mysterious origin, recounting a story of a lone warrior who faced insurmountable odds while surrounded by countless foes.
+
+Become immune to damage, stagger and status effects for 15 seconds. While active, your damage is reduced by 100% and spell casting is disabled.</text>
+<text id="3850000">A miracle recounting the tale of Lloyd during his great pilgrimage of mercy. Recognizing his desperation to save his closest followers from death, the Gods carried him across the land on a halo of light, thus allowing him to bring his people redemption.
+
+Instantly travel forward knocking back and dealing damage to any enemy near your landing.</text>
+<text id="3851000">A miracle recounting a story of the old gods’ cleansing of the land from the unrighteous.
+Such an act was not to be considered militant or even violent by the Allfather. Indeed, Lloyd did not believe that the act of slaying undead to be malicious, but rather, the act of liberating them from corruption and impurity, and thus, they could be vindicated in the eyes of the gods.   
+
+Fire a beam of divine power at a single enemy, dealing massive damage.</text>
+<text id="3860000">This miracle tells the story of the final victory of Lord Gwyn over the dragon host.
+
+Unleash a volley of sunlight spears upon your foes.
+
+"From his mighty fist flashed a coruscation of brilliance that peeled back hardened scales and ripped through ancient bodies."
+</text>
+<text id="3861000">The newly discovered comprehensive story of Force. 
+
+Creates a series of devastating shockwaves.
+While in the cast animation you'll be granted invulnerability.
+
+Many details of the original story of Wrath of the Gods were lost, until now. When the forgotten gods make their will known, they leave no doubt as to their intentions.</text>
+<text id="3862000">A sorcery of the god of the Darkmoon.
+
+Unleash a powerful blast of darkmoon magic that pierces foes.
+
+This sorcery displays the full power of the Darkmoon. Gywndolin was unable to pass on this skill to his loyal knights, or even his half-sister. Perhaps because of his unique affinity for the moonlight.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.</text>
+<text id="3863000">A forbidden pyromancy of old Izalith.
+
+Send flames out in front of you that return with a massive explosion.
+
+When the power of the chaos flame is threatened, it gathers its power from all corners of the world to be refocused as the reborn soul of the demon prince. If the first flame persists, the chaos will follow.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="3864000">A primordial geomancy practiced by Aron the wanderer.
+
+Rip open the ground in front of you, dealing damage to enemies.
+
+Only hermetic study has ever led to discoveries in the nature of geomancy. Aron’s solitary travel reaped unexpected results over many eons.
+</text>
+<text id="3865000">A forbidden pyromancy developed in Aldian rites. Fires a giant fireball with a widely encompassing explosion.
+
+Casts an enormous fireball with long range and massive destructive power. Causes damage on impact, and then explodes.
+
+What could possibly justify such excessive destructive power? In all likelihood, the madmen of Aldia never even questioned the need.
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="3866000">A glacial cryomancy of the northern savages.
+
+Fire a frozen ice orb at enemies that emits intense cold.
+
+The northern tribes were inspired by shifting glacial landscapes as ice floes would break and calve apart. They found utility in this extraordinary cold, calling upon temperatures only secreted within those colossal mountains of ice.
+</text>
+<text id="3867000">A Darkmoon sorcery of the Crystal Sage of Farron.
+
+Conjure a moon crystal that bursts upon impact.
+
+Having dealings with Sulyvahn furthered the sage’s knowledge of the secrets of the Darkmoon. The sage infused this power into crystal sorceries, a skill the sage of the Grand Archives never knew.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.</text>
+<text id="3868000">A Darkmoon sorcery of Pontiff Sulyvahn.
+
+Fire a magic Darkmoon lance at enemies.
+
+Sulyvahn learned much in his time as a blade of the Darkmoon. This sorcery is a vulgar attempt to replicate the power of Gwyndolin.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.</text>
+<text id="3869000">A sorcery of the god of the Darkmoon.
+
+Conjure Darkmoon orbs that descend upon foes.
+
+Gwyndolin honed his powers carefully in his many years of vigilance in Anor Londo. He did not seek reverence nor exaltation. Only the preservation of his birthright.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.</text>
+<text id="3870000">A pyromancy used by the witch of Izalith herself.
+
+Detonate a sweeping explosion expanding outward from the caster.
+
+"Dragons, men, gods...all are naught but ash and bones."
+
+Conflagration - Adds a burning effect on the enemy that deals fire damage over 5 seconds.</text>
+<text id="3871000">A miracle of angelic intervention for the righteous.
+
+Release a volley of light projectiles upon foes.
+
+The Allfather had often speculated that as the darkness grew, so too would the light. His faith was centered in the belief that as abyssal creatures grew in strength, as would the weapons of the gods.
+</text>
+<text id="3872000">A Darkmoon sorcery of Pontiff Sulyvahn.
+
+Launch a magic Darkmoon wave at enemies.
+
+Sulyvahn learned much in his time as a blade of the Darkmoon. This sorcery is a vulgar attempt to replicate the power of Gwyndolin.
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.</text>
+<text id="3873000">A miracle never recited in human words, written in a divine tongue.
+
+Call down brilliant pillars of light upon enemies in front of you.
+
+Once translated, this miracle discusses the dire consequences for the unrighteous if the gods were to ever turn their gaze upon them.
+</text>
+<text id="3874000">This miracle tells the story of the final victory of Lord Gwyn over the dragon host.
+
+Call down sunlight spears from above that seek foes.
+
+"As their timeless and ruined wings were dashed upon the earth, our Lord beckoned once again for advance. His voice boomed above the clamor; Praise the Sun!"
+</text>
+<text id="3875000">A once lost aeromancy of Azal of Forossa returned to him by a stranger in the dark.
+
+Launch a piercing wind lance at enemies.
+
+Alsanna, fearing that the son of Gwyn who presided over Azal's people would destroy her for her affinity with the darkness, gifted all her remaining knowledge to the sages of New Forossa before disappearing.
+</text>
+<text id="3876000">A cryomancy conceived by Crossbreed Priscilla.
+
+Call down a massive ice comet on enemies.
+
+Priscilla knew that in the spaces between worlds there was bitter cold and isolation. She could sense the movement of astral bodies floating in the distant dark. A secret she only revealed to one other.
+</text>
+<text id="3877000">An umbral hex from the time of the fall of Oolacile.
+
+Cast a volley of dark orbs that seek and converge upon enemies.
+
+Lord Gwyn never truly feared the darkness of the abyss as it was wanton and mindless. It was the dark intent of humanity he knew would be his ultimate undoing.
+</text>
+<text id="3878000">An umbral hex wrought by the father of the abyss.
+
+Create an abyssal incursion into this realm that rains dregs from above.
+
+The sisters of Londor had spent many years seeking the craft to block the light from the skies. But only Manus had ever before shown the world this power.
+</text>
+<text id="3879000">An umbral hex wrought by the father of the abyss.
+
+Call dark orbs from all directions, converging on the caster.
+
+“Everywhere lies the dark…you cannot hide from your own nature.”
+</text>
+<text id="3880000">Darkness seeks its place, in the hearts of all humanity.
+
+Release a piercing missile of dark blood that causes excessive bleeding.
+
+"With it I shall paint a goodly home..."</text>
+<text id="3881000">A miracle of the First Born.
+
+Call down a bolt of lightning upon an enemy.
+
+Even after his name was lost, the First Born never fully abandoned the lessons of his mighty father.
+</text>
+<text id="3882000">This sanguine miracle tells a story of a martyr from a distant land who was disemboweled and hanged from a tower for witchcraft. 
+
+Call blood to rain from the sky upon your foes.
+
+“As the rope whipped taught, his blood showered the onlookers below. All those who were caught in the spray screamed in agony as sores and blisters rose on their flesh. Many collapsed onto the cobblestones writhing in pain as their bodies bloated and withered.”
+</text>
+<text id="3883000">A primordial geomancy of the ancient world.
+
+Rain boulders down upon foes.
+
+Before the age of fire, demons dwelt deep within the earth pushing up mountains and hills as the dragons above eroded the land with wind and claw. With no disparity, they were at one with the world and sought no strife.
+</text>
+<text id="3884000">A glacial cryomancy of the painted world.
+
+Sweep foes with an icy avalanche.
+
+Dunnel’s murder was an act of cowardice. His attacker was ever unseen and his body was thrown from the tower to the snow below. These snows became the champion’s grave as the wolves howled lamentations around him.
+</text>
+<text id="3885000">A primordial geomancy of the ancient world.
+
+Rupture the earth in front of you, tearing open fissures of toxic fumes.
+
+When fire arose, the first of the surface dwelling demons found no kinship with the flames and sought to smother them once again beneath the stones. Some say this was how the world came together, ancient demons of stone ripping the land asunder, confounded by the flames that upset the balance that came before.
+</text>
+<text id="3886000">A sanguine miracle used in cleansing rituals of Saint Aldrich.
+
+Release dark wisps that seek enemies and pull the blood from their body.
+
+Aldrich’s tutelage to the denizens of the deep inspired many to seek out wayward undead and cleanse them of their blood. Both for the power of the darkness and to free them of the curse of the age.
+</text>
+<text id="3887000">A once lost aeromancy of Azal of Forossa returned to him by a stranger in the dark.
+
+Call down a whirlwind upon foes.
+
+Azal guided her through the darkness to the new homeland of his people in exchange for the safe return of his unfinished work.
+</text>
+<text id="3888000">A once lost aeromancy of Azal of Forossa returned to him by a stranger in the dark.
+
+Call a mighty storm from all directions.
+
+Rather than risk being consumed by the Chaos as the Ivory King had, she embarked upon a difficult journey through the abyss.  It was there she encountered Azal, who had gone beyond death.
+</text>
+<text id="3889000">A pyromancy from a forgotten age, resurrected through the lineage of the Demon Prince.
+
+Emit a beam of focused fire at enemies.
+
+“Our kin cannot die as long as the flame persists. As Gwyn’s flame fades, ours endures. As our children die, we do not grow weaker but more focused. The chaos gathers from many, to few, to one, thus our prince heralds our rebirth.”
+
+Chaos Conflagration - Adds a heavy burning effect on the enemy that deals fire damage.</text>
+<text id="3890000">The power of the ancient gods is not easily ignored. They witness all deeds and seek out those that are found wanting.
+
+Release a multitude of holy missiles at foes.</text>
+<text id="3891000">This miracle is an addendum to the story of the outland’s gods’ wrath. They did not seek wanton destruction, only justice for the meek.
+
+Instantly unleash a powerful shockwave around yourself.</text>
+<text id="3892000">A radiant sorcery of lost Oolacile.
+
+Unleash a cascading storm of light from above, seeking and damaging enemies.
+
+Lothric had spent much time studying the nature of light sorcery and it’s kinship with miracles. Under the guidance of Ca’rel, they wrought this power together.</text>
+<text id="3893000">A sorcery that draws power directly from the sun.
+
+Conjure a solar orb of light that emits light in all directions. Increases your lightning damage by 15% for 10 seconds. Any enemies near the orb receive an additional 15% damage from your lightning attacks.
+
+Dusk discovered that it was indeed possible to draw upon the power of the first flame directly but was never able to communicate this knowledge to her people.</text>
+<text id="3894000">The complete biography of the Allfather, telling of all his great deeds.
+
+This blessing increases resistance from all status effects, increases absorption by 25%, increases stamina recovery, reduces the stamina cost of weapon attacks, reduces the FP cost of miracles by 25% and increases all damage dealt by 10% while above 80% HP.
+
+“He stood before the altar and the congregation knew that he would never betray them, this was a man they could follow.”</text>
+<text id="3895000">The true and complete story of the Gravelord’s wanton destruction upon the ancient dragons. First of the dead and lord of the tombs, Nito’s very presence was the separation of life from death.
+
+Unleash a dark cloud of death and disease upon the world, damaging enemies.</text>
+<text id="3896000">Spell from the Demon Maiden in Black's Soul. Sucks the soul out of whoever it touches. The Maiden in Black, who aids the demon slayers with her command of Soul power, was once one of the oldest, most dangerous demons herself.
+
+Devour the soul of your opponents draining their hp. While devouring your enemy's soul you gain a 5% soul boost for a short while.</text>
+<text id="3897000">Some of the more inquisitive druids began experimenting with the aspect of sorcery that employed crystallization to stabilize projectiles. It was through this process that the true destructive potential for life essence was realized.
+
+Release an essence crystal into the air that then falls on enemies with a massive explosion, dealing damage and draining HP for a short duration.</text>
+<text id="3898000">The crowning achievement of Archdruid Talsik, this spell is an elegant joining of crystallization and life essence in a practical and stable configuration. The life crystals act as beacons, joining leylines of natural power and channeling them into the caster.
+ 
+Cover your body in radiant life crystals, boosting damage and defense and slowly healing yourself and nearby summons.
+Lasts for 60 seconds.</text>
+<text id="3900000">A forbidden dark sorcery. Strikes with a blade formed of humanity's darkness. Imbued with shadowy dregs, the blade bursts upon impact.</text>
+<text id="3901000">Wolnir spent most of his life studying the phenomenon of undeath and its relationship to the fading flame. He devoted much of his empire’s industry toward harnessing the power that this sinister transition could offer.
+
+Violently destroy your undead minion causing damage to any enemy near it and fully restoring your HP.</text>
+<text id="3902000">A moonlight spell developed by an unnamed servant in service of Captain Yorshka, who hoped to convert the never-ending hunger of the deep in service to the light. Cast once to create an ever-dwindling mote of moonlight within oneself, from which masses of light are created through its consumption. Lasts for a significant amount of time before the light is fully devoured by the spell.
+
+"We Darkmoon have always been protectors. Vigilant, proud, in service to a cause greater than the flame. The dark fears us, just as night shies away from moonlight. Let our power reflect that fear and make it our strength!"</text>
+<text id="3903000">An evolved iteration of the crystal sage of the archives, touched by the moon and guardian of the royal prince.
+
+Release a moon wisp into the air that then falls on enemies and erupts into a massive crystal bloom on the ground, sprouting in all directions.</text>
+<text id="3904000">A variant of the soul stream sorcery, perfected under the power of Darkmoon.
+Fires a torrential volley of moon power.</text>
+<text id="3910000">One of the primeval spells of Moon sorceries. Darkmoon Servant Starte was able to draw power from the moon itself to protect her Captain Yorshka.
+"Blessing of the moon upon your journey."
+
+Soul Charge - After casting ten magic sorceries your soul becomes charged with power, augmenting the damage of your next spell by 30%.</text>
+<text id="4500000">Infuses one of the countless fallen bodies of a hollow with your necromantic power. Servants of the Gravelord control undead, as their progenitor once did, but as they lack his power, they are limited to single servants, and thus imbue such servants with greater power.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4501000">Raise a skeletal warrior as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4502000">Raise a corpse-grub made of maggots as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4503000">Raise an undead lycanthrope as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4504000">Raise a thrall of the Settlement as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4505000">Raise a grave warden skeleton of Carthus as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4506000">Raise an abyssal darkwraith  as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4507000">Raise a pus of man as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4508000">Raise a deep accursed as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4509000">A sarcophagal offering of the graveload, conjured from ancient tombs and steeped in power. This skull was one of many that Nito collected over the years, and is still steeped in his lordly power.
+
+Conjure a skull and throw it at enemies, dealing magic damage.</text>
+<text id="4510000">Miracle known only by the servants of the first dead, Gravelord Nito. Giant Gravelord swords jut out in vicinity. 
+
+Summon multiple gravelord’s greatswords, impaling nearby enemies from below.
+
+Many have died, and many eyes were claimed to realize the Greatsword Dance, a Gravelord ritual known only by his closest servants.</text>
+<text id="4511000">The gravelord relished in revealing the nature of mortality to the living. In this, many found no respite.
+
+Terrify enemies around you, causing them to temporarily not attack.</text>
+<text id="4512000">A small excerpt of the story of Nito’s miasma that brought the ancient dragons to their end.
+
+Invoke the corruption of death around your body, draining the HP of enemies nearby.
+Lasts for 20 seconds. This time cannot be extended with Lingering Dragoncrest Ring.</text>
+<text id="4513000">A tale of Nito’s pestilence as it spread across the land. 
+
+Unleash a carpet of disease in front of you that creeps slowly forward damaging enemies and empowering minions within it.</text>
+<text id="4514000">A miracle telling of Nito’s vast dominion and the devotion of his first servants.
+
+Charms an undead enemy, making them a temporary ally.
+
+All undead are servants of the gravelord, necromancers know this beyond any doubt.</text>
+<text id="4515000">A sarcophagal offering of the gravelord, conjured from ancient tombs and steeped in his power.
+
+Conjure a sharpened projectile of bone and throw it at enemies.</text>
+<text id="4516000">The Gravelord offered much of the power of his soul to death itself. In joining with death, he was better able to control all aspects of undeath. 
+
+Embrace the power of death to transform into a lich. While in this form your HP is doubled, all damage you deal is increased by 20%, stamina regeneration is increased and all resistances are reduced significantly. Spells now use HP instead of FP.</text>
+<text id="4517000">A miracle of the gravewardens after the fall of Carthus. 
+
+Conjure an orb of conjoined skeletons and hurl it at enemies.
+
+The prisoners of Wolnir’s war upon his neighbors endure a terrible fate in death. Tangled together, writhing and mindless, they can never escape the consequences of their defeat.</text>
+<text id="4518000">A miracle of the later-age necromancers approximating the clouds of death once wrought by the gravelord. This story is a pale imitation of the true power of Nito.
+
+Spew the vapors of death from your talisman, causing damage, lowering the enemy's magic defence and weakening their attacks for 30 seconds.</text>
+<text id="4519000">Raise a bonewheel skeleton as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4520000">Adds 80 magic damage to your right-hand weapon for 60 seconds.
+Additionally it gives 5% additional soul gain and increases your damage against Undead by 10%.</text>
+<text id="4521000">Raise a hollow manservant as your minion that will attack your enemies.
+
+Unsummon using a green separation crystal.
+When this summon dies it will not be resummonable until either bonfire rest, warp or death.
+
+Summons are disabled in online play.</text>
+<text id="4522000">A great gift from the mighty Gravelord, this blessing of death shows the living what they shall ever become; darkened, formless and hungering.
+
+Hurl a concentrated miasmic ball at enemies, dealing damage, lowering magic defence and weakening their attacks for 30 seconds.</text>
+<text id="4523000">Of the many gifts the gravelord bestowed upon his minions, the gift of eternal life was often paired with a mindless fervor. The need for survival was at once replaced with a desire to end life wherever it was found. With this desire, came great strength.
+
+Assume the form of a mindless undead, disabling spell casting and FP regeneration while also increasing weapon damage by 10%, reducing weapon stamina consumption by 20%, increasing absorption by 10%, gaining immunity from all status effects and increasing STR and DEX by 10 each.
+
+Canceled by using Lich’s Phylactery.</text>
+<text id="4524000">Conjure a miasmic orb that slowly creeps forward.
+Any enemy near it will be violently pushed downward, dealing damage and afflicting them with disease which lowers magic defense and weakens their attacks for 30 seconds.</text>
+<text id="4525000">Using the forces that work to actuate the minions of undeath, this new-world miracle tells a story of a human that sutured cadavers together to construct a monument to Nito, such was her devotion.
+
+Restore a large amount of HP to your summoned minions and allies.</text>
+</entries>
+</fmg>

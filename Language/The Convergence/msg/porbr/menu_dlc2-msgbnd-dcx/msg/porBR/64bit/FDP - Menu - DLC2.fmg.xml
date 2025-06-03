@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="102004">Após 30 itens, cada item adicional colocado substitui o item mais
+antigo. Colocar item mesmo assim?</text>
+<text id="506013">Combatentes da equipe aliada não apareceram a tempo e a partida foi cancelada.</text>
+<text id="506014">Pode ser selecionado em partidas cooperativas quando a senha
+se aplica a "Todos".</text>
+<text id="506015">Pode ser selecionado para partidas cooperativas com senha em uso.</text>
+</entries>
+</fmg>

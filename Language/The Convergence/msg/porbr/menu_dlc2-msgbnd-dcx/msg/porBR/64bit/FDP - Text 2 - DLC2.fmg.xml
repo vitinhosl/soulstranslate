@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="31361">Quantidade de PF consumidos a cada uso.</text>
+<text id="41004">Lanças da igreja</text>
+<text id="60027">Espada grande esplêndida (combinada)</text>
+<text id="60151">Escudo grande (combinado)</text>
+<text id="70200">Lâmina de cristal</text>
+<text id="70201">Passo rápido</text>
+<text id="70202">Braseiro</text>
+<text id="70203">Lâmina do perigo</text>
+<text id="70204">Corte giratório</text>
+<text id="70205">Romper</text>
+<text id="70206">Segurar</text>
+<text id="70207">Chamado das pedras</text>
+<text id="70208">Braseiro</text>
+<text id="70209">Estandarte de guerra de Lothric</text>
+<text id="70210">Roda de vento</text>
+<text id="70211">Tolice do Rei Louco</text>
+<text id="70212">Bloqueio</text>
+<text id="70213">Braseiro</text>
+<text id="70214">Flecha invisível</text>
+<text id="70215">Disparos sucessivos</text>
+<text id="70216">Canto das profundezas</text>
+<text id="70217">Galho para o banquete</text>
+<text id="70218">Oração por um favor</text>
+<text id="70219">Sopro do dragão</text>
+<text id="70220">Rugido do dragão</text>
+<text id="211112">As Ruínas</text>
+<text id="211113">A Cidade Anelada</text>
+<text id="211500">O Príncipe Demônio</text>
+<text id="211501">As Ruínas </text>
+<text id="211502">Ruínas do Pico Terroso</text>
+<text id="211503">Nas Ruínas do Pico Terroso</text>
+<text id="211504">Ruínas de Lothric</text>
+<text id="211505">%null%</text>
+<text id="211506">%null%</text>
+<text id="211507">%null%</text>
+<text id="211508">%null%</text>
+<text id="211509">%null%</text>
+<text id="211510">Igreja de Filianore</text>
+<text id="211511">Midir, o Devorador da Escuridão</text>
+<text id="211512">Vigia do mausoléu</text>
+<text id="211513">Muro interno anelado</text>
+<text id="211514">Ruas da Cidade Anelada</text>
+<text id="211515">Túmulo compartilhado</text>
+<text id="211516">%null%</text>
+<text id="211517">%null%</text>
+<text id="211518">%null%</text>
+<text id="211519">%null%</text>
+<text id="211520">Gael, o Cavaleiro Escravo</text>
+<text id="211521">Descanso de Filianore</text>
+<text id="331142">Lança da igreja</text>
+<text id="331143">%null%</text>
+<text id="331144">%null%</text>
+<text id="331145">%null%</text>
+<text id="331146">%null%</text>
+<text id="331147">%null%</text>
+<text id="331148">Perturbador do sono</text>
+<text id="401002">Dark Souls™Ⅲ: The Fire Fades™ Edition &amp; ©2017 BANDAI NAMCO Entertainment Inc. / ©2011-2017 FromSoftware, Inc.</text>
+<text id="401331">THE RINGED CITY</text>
+<text id="401501">Acordo de usuário do Serviço Online de Dark Souls™ Ⅲ: The Fire Fades™ Edition</text>
+<text id="506105">Equipe favorita</text>
+<text id="506106">A senha se aplica a</text>
+<text id="506304">Praça Circular</text>
+<text id="506600">Qualquer</text>
+<text id="506601">Equipe A</text>
+<text id="506602">Equipe B</text>
+<text id="506800">Todos</text>
+<text id="506801">Apenas equipe aliada</text>
+<text id="506900">Equipes aliada e inimiga se unem
+usando a mesma senha pré-selecionada.</text>
+<text id="506901">A união da equipe aliada é feita com senha própria,
+e a da equipe inimiga é feita com outra.</text>
+</entries>
+</fmg>

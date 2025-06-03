@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4100">Use o item selecionado.</text>
+<text id="4101">Deixe o item selecionado aqui.</text>
+<text id="4102">Descarte o item selecionado.</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">Use os itens selecionados.</text>
+<text id="4111">Deixe os itens selecionados aqui.</text>
+<text id="4112">Descarte os itens selecionados. </text>
+<text id="4113">%null%</text>
+<text id="4114">%null%</text>
+<text id="4115">%null%</text>
+<text id="4116">%null%</text>
+<text id="4117">%null%</text>
+<text id="4118">%null%</text>
+<text id="4119">%null%</text>
+<text id="4120">%null%</text>
+<text id="4121">Selecione os itens para deixar aqui.</text>
+<text id="4122">Selecione os itens para descartar.</text>
+<text id="5100">Use o número selecionado de itens.</text>
+<text id="5101">Deixe o número selecionado de itens aqui.</text>
+<text id="5102">Descarte o número selecionado de itens.</text>
+<text id="5103">%null%</text>
+<text id="5104">Descarte o número selecionado de itens.</text>
+<text id="5105">Armazene o número selecionado de itens.</text>
+<text id="5106">Armazene o número selecionado de itens.</text>
+<text id="5107">Tire o número selecionado de itens.</text>
+<text id="5108">Transponha o número selecionado de itens.</text>
+<text id="6000">Selecione um método de ordenamento.</text>
+<text id="30000">Selecione um tópico para verificar.</text>
+<text id="40331">Confirmar configurações e continuar.</text>
+<text id="40500">Restaura as configurações padrão.</text>
+<text id="102000">Selecione um item para interagir.</text>
+<text id="103000">Selecione um espaço para equipar.</text>
+<text id="103500">Selecione um item para equipar.</text>
+<text id="105000">Verifique a visão geral do personagem.</text>
+<text id="110001">Troca o movimento vertical de câmera.</text>
+<text id="110002">Troca o movimento horizontal de câmera.</text>
+<text id="110003">Restaura a câmera e o eixo y.</text>
+<text id="110004">Ajusta a velocidade de movimento da câmera.</text>
+<text id="110005">Configura a mira automática para fixar em um novo alvo quando o alvo anterior for eliminado.</text>
+<text id="110006">Trava automaticamente a mira em um inimigo ao atacar à curta distância sem trava.</text>
+<text id="110007">Configura o comportamento da câmera em relação a paredes.</text>
+<text id="110008">%null%</text>
+<text id="110009">Configura os controles usados para pular.</text>
+<text id="110010">Permite o controle manual de armas de grande porte ao fixar a mira em um alvo.</text>
+<text id="110101">Define a representação de sangue como ligada, desligada ou moderada.</text>
+<text id="110102">Ativa ou desativa legendas no jogo.</text>
+<text id="110103">Configura como as informações são mostradas no jogo.</text>
+<text id="110104">Configura os efeitos cinematográficos usados durante ataques especiais.</text>
+<text id="110105">Ajusta o nível da música.</text>
+<text id="110106">Ajusta o nível dos efeitos sonoros.</text>
+<text id="110107">Ajusta o nível da voz.</text>
+<text id="110201">Ajusta o brilho da tela.</text>
+<text id="110301">Permite ou restringe o bate-papo por voz.</text>
+<text id="110302">Permite ou restringe pareamento de partidas entre diferentes regiões.</text>
+<text id="110303">Edite para corresponder com jogadores que estiverem usando a mesma senha.</text>
+<text id="110304">Muda as opções de visualização de nomes dos jogadores.</text>
+<text id="110305">Escolha começar o jogo no modo online ou offline.</text>
+<text id="110306">Diminui a visib. do sinal de invocação em mundos de fantasmas inimigos.</text>
+<text id="110500">Salva o jogo e retorna ao menu inicial.</text>
+<text id="211000">Selecione a fogueira para viajar. O braseiro indica a presença do hospedeiro das brasas.</text>
+<text id="212000">Escolha o atributo para subir de nível.</text>
+<text id="212001">Gaste almas e suba de nível.</text>
+<text id="212250">Escolha o atributo para subir de nível.</text>
+<text id="212251">Suba de nível sem gastar almas (somente um nível).</text>
+<text id="212500">Escolha o atributo para subir de nível.</text>
+<text id="212501">Suba de nível sem gastar almas (somente um nível).</text>
+<text id="212750">Escolha o atributo para subir de nível.</text>
+<text id="212751">Comece transmigração.</text>
+<text id="221000">Selecione arma para reforçar.</text>
+<text id="221500">Selecione arma para infundir.</text>
+<text id="221501">Selecione arma para criar.</text>
+<text id="222000">Selecione espaço de conhecimento.</text>
+<text id="222001">Selecione uma magia para aprender.</text>
+<text id="223000">Selecione um item para reparar.</text>
+<text id="231000">Selecione um item para adquirir.</text>
+<text id="232000">Selecione um item para vender.</text>
+<text id="234000">Confirma rol de cavaleiros</text>
+<text id="234001">Exibe as informações do cavaleiro</text>
+<text id="236000">Selecione um item para transpor.</text>
+<text id="251000">Selecione item para armazenar na caixa.</text>
+<text id="251001">Selecione item para tirar da caixa.</text>
+<text id="301000">Selecione um gesto para esse espaço.</text>
+<text id="301001">Selecione um gesto para usar.</text>
+<text id="321000">Edite a mensagem.</text>
+<text id="321001">Mudar gesto vinculado.</text>
+<text id="321002">Finalizar a criação da mensagem.</text>
+<text id="321003">Escolher modelo.</text>
+<text id="321004">Mudar gesto vinculado.</text>
+<text id="321005">Selecionar categoria de palavras.</text>
+<text id="321006">Escolher modelo.</text>
+<text id="321007">Selecionar palavra.</text>
+<text id="321008">Selecionar conjunção.</text>
+<text id="322000">Veja as suas próprias mensagens.</text>
+<text id="324000">Veja mensagens lidas recentemente.</text>
+<text id="402011">Insira um nome.</text>
+<text id="402012">Selecione o gênero.</text>
+<text id="402013">Selecione a faixa etária.</text>
+<text id="402014">Selecione a classe.</text>
+<text id="402015">Selecione o item de sepulcro.</text>
+<text id="402016">Personalize a aparência.</text>
+<text id="402017">Finalize o personagem.</text>
+<text id="402018">Renasça com uma aparência alterada.</text>
+<text id="402201">Masculino
+O gênero não afeta a
+habilidade.</text>
+<text id="402202">Feminino
+O gênero não afeta a
+habilidade.</text>
+<text id="402301">Jovem
+A idade afeta apenas a aparência,
+não a habilidade.</text>
+<text id="402302">Maduro
+A idade afeta apenas a aparência,
+não a habilidade.</text>
+<text id="402303">Idoso
+A idade afeta apenas a aparência,
+não a habilidade.</text>
+<text id="402350">O rosto comum de um plebeu.
+Todos possuem imperfeições, mas um plebeu
+sem falhas é realmente uma criatura rara.</text>
+<text id="402351">O rosto de um guerreiro, como se fosse
+talhado em rocha. É um boato antigo que
+os nórdicos nascem desgastados e velhos.</text>
+<text id="402352">As feições de um verdadeiro sangue
+azul. Olhos azuis e cabelo claro, uma
+lembrança da antiga glória de Astora.</text>
+<text id="402353">De aparência sábia e rosto com traços finos. </text>
+<text id="402354">O rosto de um triste clérigo de Carim.
+A palavra "noviço" é um termo derrogatório
+para os homens do hábito.</text>
+<text id="402355">Os grandes olhos e boca dão a esse rosto uma
+aparência de júbilo. De Catarina, conhecida pelo
+seu gosto pela vida e amor pela bebida.</text>
+<text id="402356">Um rosto incomum definido pelos seus olhos
+e lábios finos. Alguns o elogiam como o
+semblante de um verdadeiro dragão.</text>
+<text id="402357">Um rosto unicamente deformado. Ou apenas
+feio. Preconceito gera descontentamento, e
+descontentamento lota o Grande Pântano.</text>
+<text id="402358">Um rosto sem vida, quase como um Vazio. 
+Londor é um reino dos velhos e Vazios. </text>
+<text id="402359">As feições dos velhos deuses, como de uma
+lenda. Eles dizem que crianças que nascem
+assim estão fadadas ao Vale Boreal.</text>
+<text id="402360">O rosto comum de uma plebeia.
+Todos possuem imperfeições, mas uma plebeia
+sem falhas é realmente uma criatura rara.</text>
+<text id="402361">O rosto de uma guerreira, como se fosse
+talhado em rocha. É um boato antigo que
+as nórdicas nascem desgastadas e velhas.</text>
+<text id="402362">As feições de uma verdadeira sangue
+azul. Olhos azuis e cabelo claro, uma
+lembrança da antiga glória de Astora.</text>
+<text id="402363">De aparência sábia e rosto com traços finos, frequentemente sofre chacota por aparentar ser bem mais jovem.</text>
+<text id="402364">O rosto de uma triste clériga de Carim.
+A palavra "noviça" é um termo derrogatório
+para as mulheres do hábito.</text>
+<text id="402365">Os grandes olhos e boca dão a esse rosto uma
+aparência de júbilo. De Catarina, conhecida pelo
+seu gosto pela vida e amor pela bebida.</text>
+<text id="402366">Um rosto incomum definido pelos seus olhos
+e lábios finos. Alguns o elogiam como o
+semblante de uma verdadeira dragoa.</text>
+<text id="402367">Um rosto unicamente deformado. Ou apenas
+feio. Preconceito gera descontentamento, e
+descontentamento lota o Grande Pântano.</text>
+<text id="402368">Um rosto sem vida, quase como um Vazio. 
+Londor é um reino dos velhos e Vazios. </text>
+<text id="402369">As feições das velhas deusas, como de uma
+lenda. Eles dizem que crianças que nascem
+assim estão fadadas ao Vale Boreal.</text>
+<text id="402401">Soldado de Boletaria que teve sua alma roubada pelos demônios de uma névoa invasora, estrangeira nesta terra.</text>
+<text id="402402">Um cavaleiro obscuro de pouca fama que tombou enquanto vagava pelas terras.</text>
+<text id="402403">Um membro furtivo da Irmandade, hábil com faca e arco.</text>
+<text id="402404">Manipule a energia bruta da natureza para um vasto leque de habilidades ofensivas e defensivas.</text>
+<text id="402405">Uma vanguarda oriunda de um reino perdido.</text>
+<text id="402406">Um cavaleiro que detém poder sobre a própria morte, usando-o por uma causa maior.</text>
+<text id="402407">Um espião de elite de Vinheim; tais feiticeiros eram empregados por suas habilidades em espionagem.</text>
+<text id="402408">Outrora chamados de caçadores de mortos-vivos, esses guerreiros sagrados seguem a palavra do Pai de Todos.</text>
+<text id="402409">Um combatente destemido e calejado pela batalha. Muito habilidoso com machados.</text>
+<text id="402410">Este membro de uma força outrora de elite não sobreviveu à queda de Izalith.</text>
+<text id="402411">Um caçador e rastreador experiente com grande habilidade em tiro ao alvo.</text>
+<text id="402412">Outrora encarregado da guarda do mundo pintado, este lutador ágil permanece devoto aos Deuses.</text>
+<text id="402413">Antigo Cavaleiro Leão de Forossa, este guerreiro adotou o poder do vento.</text>
+<text id="402414">Este soldado ainda luta pela libertação do mundo pintado, utilizando o poder do gelo para esse fim.</text>
+<text id="402415">Originários de Mirrah, esses caçadores empregam maldições para detectar e eliminar os seguidores do abismo.</text>
+<text id="402416">Sempre na linha de frente da batalha, esses lutadores robustos usam o poder da terra para reforçar suas defesas.</text>
+<text id="402417">Embora não sejam grandes guerreiros, os alquimistas frequentemente usam venenos e explosivos para derrotar seus inimigos.</text>
+<text id="402418">Um solitário que deixou a academia formal para prosseguir com pesquisas adicionais.</text>
+<text id="402419">Um mago de Forossa que afirma controlar o próprio vento.</text>
+<text id="402420">Exilado por práticas heréticas, este feiticeiro busca aprender mais sobre as artes das trevas.</text>
+<text id="402421">A luz sempre superará a escuridão. Este peregrino retornou das terras de Oolacile.</text>
+<text id="402422">Outrora um sacerdote respeitado, que caiu em tempos difíceis.</text>
+<text id="402423">Um clérigo viajante que colapsou de exaustão.</text>
+<text id="402424">Um clérigo caído que agora usa a magia de sangue de Rosaria.</text>
+<text id="402425">Um conjurador de uma região remota que manipula chamas.</text>
+<text id="402426">Conjurador herético originário do Grande Pântano. "A própria terra responde à chama, quanto ao porquê, é desconhecido."</text>
+<text id="402427">Vindos do extremo norte, esses conjuradores misteriosos invertem o poder do caos em gelo para seus próprios propósitos nefastos.</text>
+<text id="402428">Outrora um membro de alto escalão do conclave druídico de Vinheim. Druidas convocam várias criaturas para cumprir suas ordens.</text>
+<text id="402429">Seguidores do antigo senhor das tumbas. Necromantes convocam mortos-vivos para cumprir suas ordens.</text>
+<text id="402430">Sádicos e cruéis, eles gostam de provocar suas vítimas antes de purificá-las de seus pecados.</text>
+<text id="402499">Uma alma perdida miserável que busca as grandes almas de outros por poder.</text>
+<text id="402501">Nenhum</text>
+<text id="402502">Mistura você ao ambiente</text>
+<text id="402503">Use para criar uma explosão no ponto de impacto</text>
+<text id="402504">Atrai inimigos próximos quando lançado</text>
+<text id="402505">Retorna o jogador à última fogueira ou ao Santuário do Elo de Fogo</text>
+<text id="402506">Lance em inimigos para causar dano</text>
+<text id="402507">Frequentemente utilizado como último recurso para aventureiros que perderam o caminho</text>
+<text id="402508">Materiais de melhoria para ferramentas com afinidade mágica</text>
+<text id="402509">Materiais de melhoria para ferramentas com afinidade de fogo</text>
+<text id="402510">Materiais de melhoria para ferramentas com afinidade sombria</text>
+<text id="402511">Materiais de melhoria para ferramentas com afinidade de relâmpago</text>
+<text id="402512">Materiais de melhoria para ferramentas com afinidade física</text>
+<text id="402513">Crie produtos de alquimia em fogueiras</text>
+<text id="402514">Remove a regeneração passiva de MP</text>
+<text id="402515">Reduz seu HP em 75%</text>
+<text id="402516">Reduz todo o seu dano em 75%</text>
+<text id="402517">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402518">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402519">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402520">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402521">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402522">Escolha seu presente inicial. R
+ole para opções adicionais.</text>
+<text id="402523">Escolha seu presente inicial.
+Role para opções adicionais.</text>
+<text id="402524">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402525">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402526">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402527">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402528">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402529">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402530">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402531">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="402532">Escolha seu presente inicial. 
+Role para opções adicionais.</text>
+<text id="406000">Selecione o perfil para carregar.</text>
+<text id="406001">Selecione o perfil para excluir.</text>
+<text id="420001">Selecione a voz.</text>
+<text id="420002">Selecione a constituição.</text>
+<text id="420003">Ajuste a constituição.</text>
+<text id="420004">Edite a cor base da pele.</text>
+<text id="420005">Ajuste a cor da pele.</text>
+<text id="420006">Selecione um rosto predefinido.</text>
+<text id="420007">Ajuste a aparência facial.</text>
+<text id="420008">Salve as configurações atuais como favorito.</text>
+<text id="420009">Carregue favorito salvo.</text>
+<text id="420010">Edite o físico.</text>
+<text id="420011">Edite as características faciais.</text>
+<text id="420012">Edite o formato do rosto.</text>
+<text id="420013">%null%</text>
+<text id="420014">%null%</text>
+<text id="420015">Edite o cabelo e pelos faciais.</text>
+<text id="420016">Edite as pupilas.</text>
+<text id="420017">Edite a tatuagem/marca.</text>
+<text id="420018">Edite o equilíbrio do rosto.</text>
+<text id="420019">Edite a testa e a glabela.</text>
+<text id="420020">Edite a arcada supraciliar.</text>
+<text id="420021">Edite os olhos.</text>
+<text id="420022">Edite a ponta do nariz.</text>
+<text id="420023">Edite as narinas.</text>
+<text id="420024">Edite as bochechas.</text>
+<text id="420025">Edite os lábios.</text>
+<text id="420026">Edite a boca.</text>
+<text id="420027">Edite o queixo.</text>
+<text id="420028">Edite o maxilar.</text>
+<text id="420029">Edite a cor do cabelo/sobrancelha/barba.</text>
+<text id="420030">Selecione o estilo do cabelo.</text>
+<text id="420031">Edite a cor do cabelo.</text>
+<text id="420032">Selecione a forma da sobrancelha.</text>
+<text id="420033">Edite a cor da sobrancelha.</text>
+<text id="420034">Selecione o tipo de barba.</text>
+<text id="420035">Edite a cor da barba.</text>
+<text id="420036">Selecione o formato dos cílios.</text>
+<text id="420037">Edite a cor dos cílios.</text>
+<text id="420038">Selecione o formato dos dois olhos.</text>
+<text id="420039">Edite a cor dos dois olhos.</text>
+<text id="420040">Selecione o formato do olho direito.</text>
+<text id="420041">Edite a cor da pupila direita.</text>
+<text id="420042">Selecione o formato do olho esquerdo.</text>
+<text id="420043">Edite a cor da pupila esquerda.</text>
+<text id="420044">Selecione a aparência da tatuagem/marca.</text>
+<text id="420045">Edite a cor da tatuagem/marca.</text>
+<text id="420046">Ajuste a posição da tatuagem/marca.</text>
+<text id="420047">%null%</text>
+<text id="420048">%null%</text>
+<text id="420049">Selecione rosto parecido com o rosto atual.</text>
+<text id="420050">%null%</text>
+<text id="420051">Edite a maquiagem.</text>
+<text id="420052">%null%</text>
+<text id="420053">%null%</text>
+<text id="420054">%null%</text>
+<text id="420055">Selecionar musculatura</text>
+<text id="420056">Selecionar hirsutez</text>
+<text id="420500">Volte à aparência padrão.</text>
+<text id="420501">Volte à aparência padrão.</text>
+<text id="421000">Voz jovem</text>
+<text id="421001">Voz madura</text>
+<text id="421002">Voz idosa</text>
+<text id="421110">Físico comum.</text>
+<text id="421111">Físico em boa forma.</text>
+<text id="421112">Físico em ótima forma.</text>
+<text id="421113">Físico musculoso.</text>
+<text id="421114">Físico muito musculoso.</text>
+<text id="421115">Físico superior musculoso.</text>
+<text id="421116">Físico inferior musculoso.</text>
+<text id="421117">Cabeça proporcionalmente pequena.</text>
+<text id="421118">Cabeça proporcionalmente grande.
+Deve estar cheia de cérebro.</text>
+<text id="421119">%null%</text>
+<text id="421120">Físico comum.</text>
+<text id="421121">Físico musculoso.</text>
+<text id="421122">Pelos corporais comuns.</text>
+<text id="421123">Pelos corporais grossos.</text>
+<text id="620000">Escolha um personagem.</text>
+</entries>
+</fmg>

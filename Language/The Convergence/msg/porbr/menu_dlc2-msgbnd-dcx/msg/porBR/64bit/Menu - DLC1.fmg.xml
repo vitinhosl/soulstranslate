@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2311413">Todos os combatentes presentes.
+Indo para arena.</text>
+<text id="2341413">Aguarde todos os combatentes entrarem.
+Jogadores totais: 
+Restantes: </text>
+<text id="2620413">Combatente  caiu</text>
+<text id="2621413">Você caiu.
+Ressuscite e volte ao combate.</text>
+<text id="2630413">Combatente  fugiu da partida</text>
+<text id="2631413">Fugiu da partida</text>
+<text id="2640413">Partida abandonada</text>
+<text id="2641413">Combatente  abandonou a partida</text>
+<text id="2650413">Você caiu.
+Ressuscite e volte ao combate.</text>
+<text id="2651413"> caiu</text>
+<text id="2670413">Abandonar esta partida?</text>
+<text id="2671413">Fugir desta partida?</text>
+<text id="2680413">Partida encerrada, todos os combatentes fugiram.</text>
+<text id="2681413">Partida encerrada por abandono</text>
+<text id="2700413"> voltou para seu mundo</text>
+<text id="2701313">Ocorreu um erro de conexão.
+Retornando ao seu mundo.</text>
+<text id="2702413"> voltou para seu mundo</text>
+<text id="2731413">Você derrotou </text>
+<text id="2741000">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741001">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741002">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741100">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741101">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741102">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741200">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741201">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741202">O hospedeiro das brasas foi embora. Retornando ao seu mundo.</text>
+<text id="2741304">O adepto do Caminho Azul foi embora. Retornando ao seu mundo.</text>
+<text id="2741305">%null%</text>
+<text id="2741306">O invasor da floresta foi embora. Retornando ao seu mundo.</text>
+<text id="2741307">O invasor da catedral foi embora. Retornando ao seu mundo.</text>
+<text id="2741308">O adepto do Caminho Azul foi embora. Retornando ao seu mundo.</text>
+<text id="2741500">O invocador foi embora. Retornando ao seu mundo.</text>
+<text id="2741501">O invocador foi embora. Retornando ao seu mundo.</text>
+<text id="2741502">O invocador foi embora. Retornando ao seu mundo.</text>
+<text id="2751413">Não é possível iniciar a partida. Retornando ao seu mundo.</text>
+<text id="2760413">Todos os combatentes voltaram para os seus mundos.
+Retornando ao seu mundo.</text>
+<text id="10010201">Conversar</text>
+<text id="10010550">Derrubar árvore</text>
+<text id="10010551">Girar manivela</text>
+<text id="10010844">Usar &lt;?gdsparam@744?&gt;</text>
+<text id="10010884">Usou &lt;?gdsparam@2155?&gt;</text>
+<text id="10012500">Este fantasma será invocado mais tarde em um local separado.
+Invocar o Gael, o Cavaleiro Escravo?</text>
+<text id="10012520">O fantasma Gael, o Cavaleiro Escravo, será invocado mais tarde
+em um local separado.</text>
+<text id="10012600">Fantasma Gael, o Cavaleiro Escravo, invocado.</text>
+<text id="10012601">%null%</text>
+<text id="10012602">O fantasma Gael, o Cavaleiro Escravo, morreu.</text>
+<text id="10012603">%null%</text>
+<text id="10012604">%null%</text>
+<text id="10012605">%null%</text>
+<text id="10012606">%null%</text>
+<text id="10012607">%null%</text>
+<text id="10012608">%null%</text>
+<text id="10012609">%null%</text>
+<text id="10012610">Fantasma Gael, o Cavaleiro Escravo, invocado.</text>
+<text id="10012611">%null%</text>
+<text id="10012612">O fantasma Gael, o Cavaleiro Escravo, morreu.</text>
+<text id="10012700">Invadido pelo espírito sombrio louco Dunnel, o Piromante Lívido!</text>
+<text id="10012701">O espírito sombrio louco Dunnel, o Piromante Lívido, morreu.</text>
+<text id="10012702">Espírito sombrio louco Dunnel, o Piromante Lívido,
+voltou para o seu mundo.</text>
+<text id="10020000">Iniciando partida
+Limite de tempo:  segundos</text>
+<text id="10020001">Iniciando partida
+Limite de tempo:  segundos</text>
+<text id="10020002">Iniciando partida
+Limite de tempo:  segundos</text>
+<text id="10020003">Iniciando partida
+Limite de tempo:  segundos</text>
+<text id="10020004">Iniciando partida
+Limite de tempo:  segundos</text>
+<text id="10020005">Iniciando partida
+Limite de tempo:  segundos</text>
+<text id="10020006">%null%</text>
+<text id="10020007">%null%</text>
+<text id="10020008">%null%</text>
+<text id="10020009">%null%</text>
+<text id="10020010">Tempo restante: s</text>
+<text id="10020011">Tempo restante: s</text>
+<text id="10020012">Tempo restante: s</text>
+<text id="10020013">Tempo restante: s</text>
+<text id="10020014">Tempo restante: s</text>
+<text id="10020015">Tempo restante: s</text>
+<text id="10020016">%null%</text>
+<text id="10020017">%null%</text>
+<text id="10020018">%null%</text>
+<text id="10020019">%null%</text>
+<text id="10020020">Partida encerrada</text>
+<text id="10020021">%null%</text>
+<text id="10020022">%null%</text>
+<text id="10020023">%null%</text>
+<text id="10020024">%null%</text>
+<text id="10020025">%null%</text>
+<text id="10020026">%null%</text>
+<text id="10020027">%null%</text>
+<text id="10020028">%null%</text>
+<text id="10020029">%null%</text>
+<text id="10020030">Partida de Mortos-vivos vencida.
+Retornando ao seu mundo.</text>
+<text id="10020031">Empate.
+Retornando ao seu mundo.</text>
+<text id="10020032">Partida de Mortos-vivos perdida.
+Retornando ao seu mundo.</text>
+<text id="13000060">Partidas de Mortos-vivos só podem ser disputadas online</text>
+<text id="13000061">Repetidas desconexões injustas durante o multijogador
+interromperam a conexão com outros mundos. Apenas um Anel do
+Caminho Branco pode restabelecer a conexão.</text>
+<text id="13000062">%null%</text>
+<text id="13000063">%null%</text>
+<text id="13000064">%null%</text>
+<text id="13000065">%null%</text>
+<text id="13000066">%null%</text>
+<text id="13000067">%null%</text>
+<text id="13000068">%null%</text>
+<text id="13000069">%null%</text>
+<text id="13000070">Não pode ser selecionado durante a partida</text>
+<text id="13000071">Não pode ser selecionado durante a partida</text>
+<text id="13000072">Não pode ser selecionado durante a partida</text>
+<text id="13002040">Não pode ser selecionado durante a partida</text>
+<text id="13005000">Não pode ser selecionado durante a partida</text>
+<text id="13010000">Não pode ser selecionado durante a partida</text>
+<text id="13014000">Não pode ser selecionado durante a partida</text>
+<text id="13016000">Não pode ser selecionado durante a partida</text>
+<text id="14051000">Aceitar</text>
+<text id="14051001">Recusar</text>
+<text id="14054000">Sou cinza</text>
+<text id="14054001">Não sou cinza</text>
+<text id="14054002">Sou cinza</text>
+<text id="14054003">Não falar nada</text>
+<text id="15000340">Queimar &lt;?gdsparam@2153?&gt;</text>
+<text id="15000341">%null%</text>
+<text id="15000342">%null%</text>
+<text id="15000343">%null%</text>
+<text id="15000344">%null%</text>
+<text id="15000345">%null%</text>
+<text id="15000346">%null%</text>
+<text id="15000347">%null%</text>
+<text id="15000348">%null%</text>
+<text id="15000349">%null%</text>
+<text id="15000350">Partida de Mortos-vivos</text>
+<text id="15011018">Dar &lt;?gdsparam@2154?&gt;</text>
+</entries>
+</fmg>

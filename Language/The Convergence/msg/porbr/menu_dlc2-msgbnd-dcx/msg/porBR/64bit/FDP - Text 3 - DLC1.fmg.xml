@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506000">Escolha um tipo de partida</text>
+<text id="506001">Escolha o local da partida</text>
+<text id="506002">Edite a senha da Partida de Mortos-vivos. Dispute apenas com quem tem a mesma senha.</text>
+<text id="506003">Entre em uma Partida de Mortos-vivos e comece a buscar adversários</text>
+<text id="506004">Cancelar pareamento</text>
+</entries>
+</fmg>

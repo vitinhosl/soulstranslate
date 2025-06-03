@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2301314">Você está sendo invocado para outro mundo...</text>
+<text id="2311314">Invadindo outro mundo como uma Lança da Igreja...</text>
+<text id="2351413">Aguarde todos os combatentes entrarem.
+Jogadores totais: 
+Restantes:  aliados /  inimigos</text>
+<text id="2411314">Não pôde invadir.
+Não foi possível se juntar à sessão.</text>
+<text id="2461314">Invasão cancelada pois 
+esgotou-se o tempo.</text>
+<text id="2491314">Não foi possível invadir.</text>
+<text id="2521314">Não foi possível invadir.
+Falha ao se juntar à sessão.</text>
+<text id="2600314">Invadido pela lança da igreja !</text>
+<text id="2601314">Você invadiu o mundo de , perturbador do sono.</text>
+<text id="2601514">Você invadiu o mundo de , perturbador do sono.</text>
+<text id="2602314">Invadido pela lança da igreja !</text>
+<text id="2602364">Lança da igreja  invadiu.</text>
+<text id="2611314">O perturbador do sono foi derrotado.
+Retornando ao seu mundo.</text>
+<text id="2611514">O perturbador do sono foi derrotado.
+Retornando ao seu mundo.</text>
+<text id="2620314">Lança da igreja  morreu.</text>
+<text id="2621314">Você morreu.
+Retornando ao seu mundo.</text>
+<text id="2622314">Lança da igreja  morreu.</text>
+<text id="2630314">Lança da igreja  voltou para seu lar.</text>
+<text id="2631314">Retornando ao seu mundo...</text>
+<text id="2632314">Lança da igreja  voltou para seu lar.</text>
+<text id="2701314">Ocorreu um erro de conexão.
+Retornando ao seu mundo.</text>
+<text id="2741314">O perturbador do sono foi embora da área. Retornando ao seu mundo.</text>
+<text id="2741514">O perturbador do sono foi embora da área. Retornando ao seu mundo.</text>
+<text id="10010202">Dar Sangue da Alma Sombria.</text>
+<text id="10010227">Rezar para o Monumento da Lança Divina.</text>
+<text id="10010228">Rezar para o Monumento da Purificação.</text>
+<text id="10010570">Viajar para as Ruínas</text>
+<text id="10010571">Exibir o estandarte pequeno do emissário.</text>
+<text id="10010572">Tocar na concha abraçada</text>
+<text id="10010573">Tocar no pedaço de uma pintura.</text>
+<text id="10010845">Usar &lt;?gdsparam@745?&gt;</text>
+<text id="10010846">Usar &lt;?gdsparam@746?&gt;</text>
+<text id="10010847">Usar &lt;?gdsparam@747?&gt;</text>
+<text id="10012800">Estandarte pequeno do emissário não está no inventário.</text>
+<text id="10012801">%null%</text>
+<text id="10012802">%null%</text>
+<text id="10012803">%null%</text>
+<text id="10012804">%null%</text>
+<text id="10012805">%null%</text>
+<text id="10012806">%null%</text>
+<text id="10012807">%null%</text>
+<text id="10012808">%null%</text>
+<text id="10012809">%null%</text>
+<text id="10012810">Mostrar sua humanidade.</text>
+<text id="12000007">Selecione quantidade para oferecer:</text>
+<text id="12000120">Por  almas, ressuscite o julgador Argo,
+que invocará lanças da igreja para enfrentar invasores. Deseja
+restaurar o decreto do rei?</text>
+<text id="12000121">Uma vez que o julgador Argo for ressuscitado, alguém enfrentará
+novamente as lanças da igreja na entrada da igreja de Filianore.
+Tem certeza de que deseja restaurar o decreto?
+</text>
+<text id="12072000">Dar &lt;?gdsparam@2158?&gt;?</text>
+<text id="13000007">Lealdade do pacto fortalecida.</text>
+<text id="13000008">%null%</text>
+<text id="13000009">%null%</text>
+<text id="13000010">%null%</text>
+<text id="13000011">%null%</text>
+<text id="13000012">%null%</text>
+<text id="13000013">%null%</text>
+<text id="13000014">%null%</text>
+<text id="13000015">%null%</text>
+<text id="13000016">%null%</text>
+<text id="13000017">Lealdade do pacto fortalecida. Classificação ganha.</text>
+<text id="13000018">%null%</text>
+<text id="13000019">%null%</text>
+<text id="13000020">%null%</text>
+<text id="13000021">%null%</text>
+<text id="13000022">%null%</text>
+<text id="13000023">%null%</text>
+<text id="13000024">%null%</text>
+<text id="13000025">%null%</text>
+<text id="13000026">%null%</text>
+<text id="13000027">Nada mais a oferecer. Muito bem.</text>
+<text id="13000028">%null%</text>
+<text id="13000029">%null%</text>
+<text id="13000030">%null%</text>
+<text id="13000031">%null%</text>
+<text id="13000032">%null%</text>
+<text id="13000033">%null%</text>
+<text id="13000034">%null%</text>
+<text id="13000035">%null%</text>
+<text id="13000036">%null%</text>
+<text id="13000037">Sem &lt;?gdsparam@379?&gt; no inventário.</text>
+<text id="13000121">O julgador Argo foi ressuscitado e invocará lanças
+da igreja para enfrentar invasores.</text>
+<text id="14072000">Compartilhar o seu nome</text>
+<text id="14072001">Não tenho nome</text>
+<text id="14073000">Falar sobre o Monumento da Purificação</text>
+<text id="14073001">Eu não sei</text>
+<text id="14073002">Não falar nada</text>
+<text id="14074000">Gwyn</text>
+<text id="14074001">Eu não sei</text>
+<text id="14074002">%null%</text>
+<text id="14074003">%null%</text>
+<text id="14074004">%null%</text>
+<text id="14074005">%null%</text>
+<text id="14074006">%null%</text>
+<text id="14074007">%null%</text>
+<text id="14074008">%null%</text>
+<text id="14074009">%null%</text>
+<text id="14074010">Aceitar o pedido</text>
+<text id="14074011">Recusar</text>
+<text id="14074012">Não, não é nada</text>
+<text id="14076000">Tenho negócios com você</text>
+<text id="14076001">Nenhum negócio em particular</text>
+<text id="14077000">Eu sirvo aos deuses</text>
+<text id="14077001">Eu apenas finjo</text>
+<text id="15000417">Oferecer &lt;?gdsparam@379?&gt;</text>
+<text id="15000520">Restabelecer o decreto do rei.</text>
+<text id="15011019">Dar &lt;?gdsparam@2157?&gt;</text>
+<text id="15076000">Comprar item</text>
+<text id="15076001">Vender item</text>
+<text id="15076002">Indagar sobre a Cidade Anelada</text>
+</entries>
+</fmg>

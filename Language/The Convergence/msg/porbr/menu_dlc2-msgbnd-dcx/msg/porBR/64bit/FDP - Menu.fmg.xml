@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCELAR</text>
+<text id="3">SIM</text>
+<text id="4">NÃO</text>
+<text id="5">Aceitar</text>
+<text id="6">Recusar</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">TENTAR NOVAMENTE</text>
+<text id="16">CONTINUAR</text>
+<text id="17">RETORNAR À TELA INICIAL</text>
+<text id="40200">Almas insuficientes</text>
+<text id="40201">Itens adicionais necessários.</text>
+<text id="40202">Itens/almas adicionais necessários.</text>
+<text id="40300">Restaurar para as configurações padrão.
+Confirma?</text>
+<text id="40500">Isso irá restaurar todas as configurações padrão.
+Tem certeza?</text>
+<text id="102000">Deixar .
+Confirma?</text>
+<text id="102001">Descartar .
+Confirma?</text>
+<text id="102002">Deixar todos os itens selecionados.
+Confirma?</text>
+<text id="102003">Descartar todos os itens selecionados.
+Confirma?</text>
+<text id="102004">%null%</text>
+<text id="102005">%null%</text>
+<text id="102006">%null%</text>
+<text id="102007">%null%</text>
+<text id="102008">%null%</text>
+<text id="102009">%null%</text>
+<text id="102010">Essa ação excederá o máximo de almas.
+As almas que excederem o máximo serão perdidas.
+Usar mesmo assim?</text>
+<text id="103000">Incapaz de usar este item de maneira
+eficaz com os atributos atuais.</text>
+<text id="103001">Incapaz de usar este item de maneira
+eficaz com os atributos atuais, a
+menos que empunhe com as duas mãos.</text>
+<text id="103110">Não é possível equipar o anel pois um anel incompatível está equipado.</text>
+<text id="103111">%null%</text>
+<text id="103112">%null%</text>
+<text id="103113">%null%</text>
+<text id="103114">%null%</text>
+<text id="103115">%null%</text>
+<text id="103116">%null%</text>
+<text id="103117">%null%</text>
+<text id="103118">%null%</text>
+<text id="103119">%null%</text>
+<text id="103120">Não é possível remover o anel no momento.</text>
+<text id="103121">%null%</text>
+<text id="103122">%null%</text>
+<text id="103123">%null%</text>
+<text id="103124">%null%</text>
+<text id="103125">%null%</text>
+<text id="103126">%null%</text>
+<text id="103127">%null%</text>
+<text id="103128">%null%</text>
+<text id="103129">%null%</text>
+<text id="103130">Não é possível mudar de equipamento no momento.</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">A perda dos espaços de conhecimento resultará
+na remoção das magias em excesso.
+Confirma?</text>
+<text id="103141">Magias removidas.</text>
+<text id="103142">%null%</text>
+<text id="103143">%null%</text>
+<text id="103144">%null%</text>
+<text id="103145">%null%</text>
+<text id="103146">%null%</text>
+<text id="103147">%null%</text>
+<text id="103148">%null%</text>
+<text id="103149">%null%</text>
+<text id="103150">O anel quebrará após ser removido.
+Remover anel?</text>
+<text id="103151">O equipamento quebrará após ser removido.
+Remover equipamento?</text>
+<text id="110000">Salvar o jogo e retornar ao menu inicial?</text>
+<text id="211000">%null%</text>
+<text id="212000">Gastar  almas
+e subir de nível?</text>
+<text id="212001">Cancelar subida de nível.
+Confirma?</text>
+<text id="212002">Selecione pelo menos um atributo para subir de nível.</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">Nível máximo.
+Não é possível subir mais de nível.</text>
+<text id="212250">Subir de nível?</text>
+<text id="212251">Cancelar subida de nível.
+Confirma?</text>
+<text id="212500">Subir de nível?</text>
+<text id="212501">Cancelar subida de nível.
+Confirma?</text>
+<text id="212502">%null%</text>
+<text id="212503">Ganhou  &lt;?gdsparam@490?&gt;(s).</text>
+<text id="212750">Iniciar renascimento?</text>
+<text id="212751">Cancelando renascimento.
+Confirma?</text>
+<text id="212752">Realocar atributos até que alcancem o nível original.</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">Magia será removida, pois espaços de conhecimento foram perdidos.
+Prosseguir com o renascimento?</text>
+<text id="212761">A magia que não pôde ser aprendida foi removida.</text>
+<text id="221000">Reforçar 
+para criar ?</text>
+<text id="222000">Infundir 
+para criar ?</text>
+<text id="223000">Reparar 
+por  almas.</text>
+<text id="231000">Comprar 
+por  almas?</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">Itens excedem o máximo colocados no armazém.</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">Não é possível comprar.
+A quantidade que você deseja comprar excede a
+capacidade máxima do inventário e do armazém.</text>
+<text id="231100">Estoque totalmente esgotado.
+Não é possível comprar mais.</text>
+<text id="232000">Vender 
+por  almas?</text>
+<text id="232001">%null%</text>
+<text id="232002">Não é possível vender os itens que estão equipados.</text>
+<text id="232003">Não é possível vender este item.</text>
+<text id="234001">Falha em adquirir informações de rol de cavaleiros.</text>
+<text id="234002">%null%</text>
+<text id="234003">Adquirindo informações de rol de cavaleiros...</text>
+<text id="234004">%null%</text>
+<text id="234005">%null%</text>
+<text id="234006">%null%</text>
+<text id="234007">%null%</text>
+<text id="234008">%null%</text>
+<text id="234009">%null%</text>
+<text id="234010">Adquirindo informações de cavaleiro...</text>
+<text id="234011">Falha em adquirir informações de cavaleiro.</text>
+<text id="235000">Iniciar alocação de Estus?</text>
+<text id="235001">Cancelar alocação.
+Confirma?</text>
+<text id="236000">Transpor 
+por  almas?</text>
+<text id="236001">%null%</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">Itens transpostos excedendo o máximo colocado no armazém.</text>
+<text id="236011">Não é possível transpor.
+A quantidade produzida excede a
+capacidade máxima do inventário e do armazém.</text>
+<text id="251020">Não é possível armazenar os itens que estão equipados.</text>
+<text id="251021">O item selecionado não pode ser colocado no armazém.</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">Não é possível armazenar o item.
+O armazém está cheio.</text>
+<text id="251031">Não é possível pegar o item.
+O inventário está cheio.</text>
+<text id="261000">Espaços de conhecimento insuficientes.</text>
+<text id="261001">Espaços livres insuficientes.</text>
+<text id="261002">Espaços de conhecimento insuficientes.</text>
+<text id="261003">Não é possível aprender magias duplicadas.</text>
+<text id="261004">Atributos insuficientes para usar esta magia.</text>
+<text id="261005">Não é possível usar esta magia estando aliado ao pacto atual.</text>
+<text id="311000">Deletar esta mensagem.
+Confirma?</text>
+<text id="311001">Aplaudir esta mensagem?</text>
+<text id="311002">Depreciar esta mensagem?</text>
+<text id="321000">A mensagem será escrita com o conteúdo atual.</text>
+<text id="321001">Isso apagará a mensagem em progresso.
+Tem certeza?</text>
+<text id="322000">Apagar esta mensagem da lista?</text>
+<text id="334510">Não é possível obter  por 
+exceder o limite do inventário e do armazém.</text>
+<text id="334511">Não é possível obter todos(as) 
+por exceder o limite do inventário e do armazém.</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">Alguns itens não foram adquiridos, pois excederiam o limite do inventário ou armazém.</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="402001">Cancelar criação de personagem e voltar ao menu inicial?</text>
+<text id="402002">Começar o jogo com esse personagem?</text>
+<text id="402003">É necessário um nome.
+
+Insira um nome para finalizar a edição.</text>
+<text id="402004">Falha ao salvar informações de personagem.</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">Restaurar todas as mudanças na aparência ao padrão?</text>
+<text id="402011">Alterações serão descartadas.
+Deseja continuar?</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">A palavra selecionada continha linguagem inapropriada e
+não pode ser usada como nome de personagem.
+
+Escolha outro nome.</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">Trocar o gênero irá desfazer certas mudanças.
+
+Deseja continuar?</text>
+<text id="402101">Cancelar alterações na aparência e o renascimento?</text>
+<text id="402102">Finalizar alterações na aparência e prosseguir com renascimento?</text>
+<text id="402103">%null%</text>
+<text id="402104">%null%</text>
+<text id="402105">%null%</text>
+<text id="402106">%null%</text>
+<text id="402107">%null%</text>
+<text id="402108">%null%</text>
+<text id="402109">%null%</text>
+<text id="402110">Descartar mudanças na aparência e voltar ao estado anterior?</text>
+<text id="404010">Descartar as mudanças atuais e retornar à página anterior?</text>
+<text id="406011">Iniciar com o perfil selecionado?</text>
+<text id="406012">Excluir o perfil selecionado e iniciar um novo jogo?</text>
+<text id="406013">Deseja excluir o perfil selecionado?</text>
+<text id="420000">Salvar configurações atuais como favoritas?</text>
+<text id="420001">Sobrescrever espaço favorito e salvar configurações atuais?</text>
+<text id="420002">Descartar mudanças atuais e carregar favorito?</text>
+<text id="420003">Não é possível carregar aparências físicas do sexo oposto.</text>
+<text id="420004">Deseja excluir o favorito selecionado?</text>
+<text id="420005">%null%</text>
+<text id="420006">%null%</text>
+<text id="420007">%null%</text>
+<text id="420008">%null%</text>
+<text id="420009">%null%</text>
+<text id="420010">Nenhum favorito salvo.</text>
+<text id="450000">Iniciar jornada  no estado atual?
+A jornada  pode ser iniciada a partir
+da fogueira do santuário se não quiser começar agora.</text>
+<text id="450001">Se quiser começar a jornada ,
+você não poderá retornar à jornada .
+Tem certeza de que deseja começar a jornada ?</text>
+<text id="502000">Retornar este fantasma para seu mundo?</text>
+<text id="502001">Não há fantasma para enviar para casa.</text>
+<text id="550000">Como repetidas sessões multijogador acabaram de maneira incorreta,
+a conexão entre os mundos foi interrompida.
+A conexão só pode ser restabelecida com um Aro do Caminho Branco.</text>
+<text id="550100">Nenhuma entrada detectada por um período de tempo.
+Voltou para seu mundo.</text>
+<text id="620000">Iniciar o jogo com o personagem escolhido.
+Confirmar?</text>
+<text id="620001">Retornar ao menu inicial?</text>
+</entries>
+</fmg>

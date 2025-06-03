@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="5000">Se arrisque. Você não morrerá.</text>
+<text id="5001">Se arrisque.</text>
+<text id="5100">Se eu tivesse mímica...</text>
+</entries>
+</fmg>

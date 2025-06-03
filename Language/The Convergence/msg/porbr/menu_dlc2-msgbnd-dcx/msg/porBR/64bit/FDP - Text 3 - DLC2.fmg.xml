@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506005">Na partida cooperativa, use-o para selecionar uma equipe. Pode ser selecionado quando a senha se aplica a "Todos".</text>
+<text id="506006">Na partida cooperativa, use-o para selecionar se une duas equipes ou apenas uma com a mesma senha. Pode ser selecionado quando há uma senha em uso.</text>
+</entries>
+</fmg>
