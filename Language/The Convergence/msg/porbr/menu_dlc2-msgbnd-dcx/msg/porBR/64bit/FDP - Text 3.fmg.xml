@@ -127,6 +127,9 @@ não a habilidade.</text>
 <text id="402303">Idoso
 A idade afeta apenas a aparência,
 não a habilidade.</text>
+<text id="402304">Ancião
+A idade afeta apenas a aparência,
+não a habilidade.</text>
 <text id="402350">O rosto comum de um plebeu.
 Todos possuem imperfeições, mas um plebeu
 sem falhas é realmente uma criatura rara.</text>
@@ -323,6 +326,7 @@ Role para opções adicionais.</text>
 <text id="421000">Voz jovem</text>
 <text id="421001">Voz madura</text>
 <text id="421002">Voz idosa</text>
+<text id="421003">Voz silenciosa.</text>
 <text id="421110">Físico comum.</text>
 <text id="421111">Físico em boa forma.</text>
 <text id="421112">Físico em ótima forma.</text>

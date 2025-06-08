@@ -125,6 +125,7 @@ namespace SoulsTranslate
 
             // (2) Regexs para XML (como antes)
             var rxXml = new Regex(@"^<\?xml\s+(.*?)\?>$", RegexOptions.Compiled);
+            var rxAttr = new Regex(@"(\w+)=(\""[^\""]*\"")\s*", RegexOptions.Compiled);
             var rxNum = new Regex(@"^(</?(entries|fmg)>|<(compression|version|bigendian)>.*?</\3>)$", RegexOptions.Compiled);
             var rxText = new Regex(@"^<text\s+id=""([^""]*)""\s*>([\s\S]*?)</text>$", RegexOptions.Compiled);
             var rxInlineTag = new Regex(@"(&lt;\?)(.*?)(\?\&gt;)", RegexOptions.Compiled);
@@ -140,8 +141,7 @@ namespace SoulsTranslate
                 if (mXml.Success)
                 {
                     sb.Append(@"\cf2 <?xml \cf1 ");
-                    foreach (Match a in new Regex(@"(\w+)=(\""[^\""]*\"")", RegexOptions.Compiled)
-                                         .Matches(mXml.Groups[1].Value))
+                    foreach (Match a in new Regex(@"(\w+)=(\""[^\""]*\"")", RegexOptions.Compiled).Matches(mXml.Groups[1].Value))
                     {
                         sb.Append(@"\cf3 ").Append(EscapeRtf(a.Groups[1].Value))
                           .Append(@"\cf1=").Append(@"\cf4 ").Append(EscapeRtf(a.Groups[2].Value))
